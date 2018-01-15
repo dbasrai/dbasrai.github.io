@@ -1,3 +1,3 @@
 # diya
 
-[first blog](/blog-test)
+[first blog](blog-test)
