@@ -1,3 +1,1 @@
-# diya
-
 [first blog](blog)
