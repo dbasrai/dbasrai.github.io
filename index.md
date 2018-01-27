@@ -1,3 +1,3 @@
 [shows](shows)
 
-[vis174 self portrait](vis174selfportrait)
+[vis174](vis174)
