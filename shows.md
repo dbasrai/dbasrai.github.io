@@ -1,5 +1,5 @@
-2/26 Stand-up For Diversity (UCSD, Middle of Muir, 6:30 PM)
-
-2/28 Madhouse Comedy Club (Madhouse Comedy Club, 7:30)
-
 3/06 Madhouse Comedy Club (Madhouse Comedy Club, 7:30)
+
+4/04 Madhouse Comedy Club (Madhouse Comedy Club, 7:30)
+
+5/01 Lestats Comedy Night (Lestats Coffee House, 9:00)
