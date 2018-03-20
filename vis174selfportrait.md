@@ -7,6 +7,8 @@ than the person himself can actually tell you. furthermore, the way a person use
 
 I was also somewhat inspired by the typical tropes of professors accidentally leaving their screen on when doing something personal. While I didn't quite venture into this super embarrassing category, its pretty fascinating watching somewhat completely accidentally put their private life in fron of everyone.
 
+![alt text](dbasrai.github.io/desktop pron.jpg)
+
 in this video, i tried to capture my self portrait by attempting to get a candid screen recording of me using the internet --- i recorded my screen over a couple of days, trying to essentially forget that i was recording, and selected two minutes, mostly looking for me browsing in a banal and uninteresting way. still, in these two minutes, it is  uncomfortable but also i feel strangely compelling to watch me use facebook, check my homework, briefly log into twitter. 
 
 Since this video ended up being somewhat experimental, there wasn't that much 'intention' put into it aside from formulating the concept. The most I had to do was essentially forget that this was something I was doing; it was very tempting to start hamming it up when I was looking at my computer and be melodramatic in order to get a good 2 minutes.
