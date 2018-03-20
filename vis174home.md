@@ -1,3 +1,3 @@
-(vis 174 sketches)[vis174]
+[vis 174 sketches](vis174)
 
-(technical explorations)[technical]
+[technical explorations](technical)
