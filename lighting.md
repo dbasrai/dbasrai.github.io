@@ -1,3 +1,5 @@
+# Lighting
+
 for Found+ sketch, I checked out a 3-piece lighting kit for the first time, and here I'll describe the process of learning how to use it, and the general research I did in preparation.
 
 IMmediately I tried recreating a traditional 3-piece light setup. I first positioned one of the lights slightly askew of the subjects face and turned it on something like 20. This cast a pretty harsh shadow on the left side of the subjects face. This constitutes the key light. Then, I positioned a second  light just bright enough to fill the shadow caused by the first light, keeping it on 7, which is called the fill light. 
