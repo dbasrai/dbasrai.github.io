@@ -1,3 +1,3 @@
-[shows](shows)
+[upcoming shows](shows)
 
 [vis174](vis174home)
