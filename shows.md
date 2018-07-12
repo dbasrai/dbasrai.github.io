@@ -1,9 +1,7 @@
-4/18 Stand Up UCSD ft. Hampton Yount (PC Theater, UCSD 7:30)
+7/15 Best of Atlanta @ Red Light Cafe (Red Light Cafe, 6:30) ATL
 
-5/01 Lestats Comedy Night (Lestats Coffee House, 9:00)
+7/24 Eventide Brewing (Eventide Brewing, not sure yet) ATL
 
-5/07 Madhouse Comedy Club (Madhouse Comedy Club, 7:30)
+8/17 Wondercomedy (Cabbagetown Community Center, not sure yet) ATL
 
-5/08 Stand Up UCSD ft. Taylor Tomlinson (The Loft, UCSD 7:30)
-
-5/23 Stand Up UCSD ft. Deric Poston (Middle of Muir, UCSD 7:30)
+10/17 Stand Up UCSD ft. Deric Poston (PC Theater, 7:00) SD
