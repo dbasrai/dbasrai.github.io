@@ -1,13 +1,19 @@
-7/15 Best of Atlanta @ Red Light Cafe (Red Light Cafe, 6:30) ATL
+~~7/15 Best of Atlanta @ Red Light Cafe (Red Light Cafe, 6:30) ATL~~
 
-7/18 8-Bit Comedy @ Joystick Bar (Joystick Bar, 8 PM) ATL
+~~7/18 8-Bit Comedy @ Joystick Bar (Joystick Bar, 8 PM) ATL~~
 
-7/24 Eventide Brewing (Eventide Brewing, not sure yet) ATL
+~~7/24 Eventide Brewing (Eventide Brewing, not sure yet) ATL~~
 
-7/25 Comedy on Draught at Three Taverns (Three Taverns Brewery, 7 PM) ATL
+~~7/25 Comedy on Draught at Three Taverns (Three Taverns Brewery, 7 PM) ATL~~
 
-8/17 Wondercomedy (Cabbagetown Community Center, not sure yet) ATL
+~~8/17 Wondercomedy (Cabbagetown Community Center, not sure yet) ATL~~
 
-8/18 Handpicked Comedy at Urban Tree (Urban Tree Cidery, 8 PM) ATL
+~~8/18 Handpicked Comedy at Urban Tree (Urban Tree Cidery, 8 PM) ATL~~
+
+8/27 Star Bar (Star Bar Community Center, 9:30) ATL
+
+9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
+
+10/2 Lestats Comedy Night (Lestats, 9PM ) SD
 
 10/17 Stand Up UCSD ft. Deric Poston (PC Theater, 7:00) SD
