@@ -10,7 +10,7 @@
 
 ~~8/18 Handpicked Comedy at Urban Tree (Urban Tree Cidery, 8 PM) ATL~~
 
-8/27 Star Bar (Star Bar Community Center, 9:30) ATL
+8/27 Star Bar (Star Community Bar, 9:30) ATL
 
 9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
 
