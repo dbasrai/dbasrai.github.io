@@ -10,10 +10,18 @@
 
 ~~8/18 Handpicked Comedy at Urban Tree (Urban Tree Cidery, 8 PM) ATL~~
 
-8/27 Star Bar (Star Community Bar, 9:30) ATL
+~~8/27 Star Bar (Star Community Bar, 9:30) ATL~~
 
 9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
+
+9/24 San Diego Funniest Person Round 1 (Madhouse Comedy Club, 7:30) SD
 
 10/2 Lestats Comedy Night (Lestats, 9PM ) SD
 
 10/17 Stand Up UCSD ft. Deric Poston (PC Theater, 7:00) SD
+
+10/18 - Comedy Heights (TBD) SD
+
+10/19 - Comedy Heights (TBD) SD
+
+10/20 - Comedy Heights (TBD) SD
