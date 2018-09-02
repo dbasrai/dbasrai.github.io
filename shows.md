@@ -10,7 +10,13 @@
 
 ~~8/18 Handpicked Comedy at Urban Tree (Urban Tree Cidery, 8 PM) ATL~~
 
+~~8/18 Comedy Night @ Red Brick Brewing (Red Bricking Brewing, 8 PM) ATL~~
+
 ~~8/27 Star Bar (Star Community Bar, 9:30) ATL~~
+
+~~8/31 Comedy Night @ Second Self Brewing (Second Self Brewing, 8 PM) ATL
+
+~~8/31 CabbageTown Comedy Night (Milton Arms Tavern, 9 PM) ATL
 
 9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
 
