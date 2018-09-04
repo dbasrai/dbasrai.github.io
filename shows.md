@@ -26,7 +26,7 @@
 
 9/24 San Diego Funniest Person Round 1 (Madhouse Comedy Club, 7:30) SD
 
-10/2 Lestats Comedy Night (Lestats, 9PM ) SD
+9/25 Lestats Comedy Night (Lestat's Coffee House, 9PM) SD
 
 10/17 Stand Up UCSD ft. Deric Poston (PC Theater, 7:00) SD
 
