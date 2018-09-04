@@ -14,9 +14,9 @@
 
 ~~8/27 Star Bar (Star Community Bar, 9:30) ATL~~
 
-~~8/31 Comedy Night @ Second Self Brewing (Second Self Brewing, 8 PM) ATL
+~~8/31 Comedy Night @ Second Self Brewing (Second Self Brewing, 8 PM) ATL~~
 
-~~8/31 CabbageTown Comedy Night (Milton Arms Tavern, 9 PM) ATL
+~~8/31 CabbageTown Comedy Night (Milton Arms Tavern, 9 PM) ATL~~
 
 9/8 10 Buck Comedy (Highland Inn and Ballroom Lounge, 9 PM) ATL
 
