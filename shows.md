@@ -20,6 +20,8 @@
 
 9/8 10 Buck Comedy (Highland Inn and Ballroom Lounge, 9 PM) ATL
 
+9/16 A House Show (TBD) ATL
+
 9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
 
 9/24 San Diego Funniest Person Round 1 (Madhouse Comedy Club, 7:30) SD
