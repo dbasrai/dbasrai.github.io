@@ -20,7 +20,7 @@
 
 ~~9/8 10 Buck Comedy (Highland Inn and Ballroom Lounge, 9 PM) ATL~~
 
-9/16 A House Show (TBD) ATL
+~~9/16 House Party 6! (MSG FOR DETAILS, 8 PM) ATL~~
 
 9/17 Comedy and Beer Night (Sweetwater Brewery, 8 PM) ATL
 
