@@ -22,13 +22,15 @@
 
 ~~9/16 House Party 6! (MSG FOR DETAILS, 8 PM) ATL~~
 
-9/17 Comedy and Beer Night (Sweetwater Brewery, 8 PM) ATL
+~~9/17 Comedy and Beer Night (Sweetwater Brewery, 8 PM) ATL~~
 
 9/22 The Comedy Palace Showcase (The Comedy Palace, 7:30 PM) SD
 
 9/24 San Diego Funniest Person Round 1 (Madhouse Comedy Club, 7:30) SD
 
 9/25 Lestats Comedy Night (Lestat's Coffee House, 9PM) SD
+
+10/12 Tritonfest Comedy Night Pre-show (PC Theater, 8PM) SD
 
 10/17 Stand Up UCSD ft. Deric Poston (PC Theater, 7:00) SD
 
@@ -37,3 +39,5 @@
 10/19 - Comedy Heights (TBD) SD
 
 10/20 - Comedy Heights (TBD) SD
+
+10/30 - The Loft Comedy Night (TBD) SD
