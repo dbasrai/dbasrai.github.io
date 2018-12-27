@@ -1,6 +1,8 @@
 ~~11/29 Madhouse Comedy Club (Madhouse Comedy Club, The Brick Room) - 7:30 PM~~
 
-12/02 The Amazing Comedy Theater (Inside Atomic Wombat Games) 7:00 PM/9:00PM
+~~12/02 The Amazing Comedy Theater (Inside Atomic Wombat Games) 7:00 PM/9:00PM~~
+
+~~12/15 The Amazing Comedy Theater (Inside Atomic Wombat Games) 9:00PM~~
 
 1/9 Madhouse Comedy Club (Madhouse Comedy Club, Main Room) - 7:30 PM
 
