@@ -1,9 +1,0 @@
-# Lighting
-
-for Found+ sketch, I checked out a 3-piece lighting kit for the first time, and here I'll describe the process of learning how to use it, and the general research I did in preparation.
-
-IMmediately I tried recreating a traditional 3-piece light setup. I first positioned one of the lights slightly askew of the subjects face and turned it on something like 20. This cast a pretty harsh shadow on the left side of the subjects face. This constitutes the key light. Then, I positioned a second  light just bright enough to fill the shadow caused by the first light, keeping it on 7, which is called the fill light. 
-
-Lastly, I attempted to put a light behind as the backlight. However, I wasn't exactly sure how bright this should be, nor exactly where to position it since I didn't have that much space behind the subject. I ended up positioning far off too the side and keeping the light level extermely low, so I'm not sure how much it helped or was useful.
-
-Ultimately, I struggled with making the subjects not looked washed out with bright whites, since th lights were LED. I'm more used to Tungsten-y lighting, using various lamps around the house, and these I think create a more natural look. I adjusted the white balance on the onboard camera in order to deal with the brightness of the LEDs, but in the final project it still kinda looks like all the characters are looking into a bright computer screen.
