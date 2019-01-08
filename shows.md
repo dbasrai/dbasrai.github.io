@@ -12,6 +12,8 @@
 
 2/16 Comedy Heights! (Twiggs Coffee Shopp, Univeristy Heights) - 7:30 PM
 
+2/26 Lestat's Comedy Night (Lestat's Coffee Shop) - 9 PM
+
 3/1 Comedy Palace Showcase (The Comedy Palace) - 7:30 PM/9:45 PM
 
 
