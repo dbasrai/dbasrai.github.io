@@ -1,5 +1,5 @@
 [upcoming shows](shows)
 
-[tape](https://youtu.be/h-0iLaazOak)
+[tape](https://youtu.be/PHNStRX6W_U)
 
 [twitter](https://twitter.com/diyacomedy)
