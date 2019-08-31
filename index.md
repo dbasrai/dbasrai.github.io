@@ -1,4 +1,4 @@
-[upcoming shows](shows)
+[upcoming shows](comedy)
 
 [tape](https://youtu.be/PHNStRX6W_U)
 
