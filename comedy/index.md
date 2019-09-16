@@ -1,19 +1,13 @@
-~~11/29 Madhouse Comedy Club (Madhouse Comedy Club, The Brick Room) - 7:30 PM~~
+8/4 At - Emerald City Bagels - 8PM
+8/5 ATL - 529 Bar - 4PM
+8/6 ATL - Highland Inn - 8PM
+8/8 ATL - Limerick Junction - 10PM
+8/10 Nashville - Zanies Nashvile - 8 PM
+8/11 ATL - Highland Inn - 8PM
+9/1 Oakland - Comedy Oakland (1628 Webster St, Oakland, CA 94612) - 7:30 PM
+9/1 Oakland - All Out Comedy Theater - 9 PM
+9/2 Oakland - Comedy Oakland (1628 Webster St, Oakland, CA 94612) - 7:30 PM
+9/2 SF - The Setup - 10 PM
 
-~~12/02 The Amazing Comedy Theater (Inside Atomic Wombat Games) 7:00 PM/9:00PM~~
-
-~~12/15 The Amazing Comedy Theater (Inside Atomic Wombat Games) 9:00PM~~
-
-1/9 Madhouse Comedy Club (Madhouse Comedy Club, Main Room) - 7:30 PM
-
-1/30 Stand Up UCSD
-
-2/15 Comedy Heights! (Bay Bridge Brewing, Chula Vista) - 7:30 PM
-
-2/16 Comedy Heights! (Twiggs Coffee Shopp, Univeristy Heights) - 7:30 PM
-
-2/26 Lestat's Comedy Night (Lestat's Coffee Shop) - 9 PM
-
-3/1 Comedy Palace Showcase (The Comedy Palace) - 7:30 PM/9:45 PM
 
 
