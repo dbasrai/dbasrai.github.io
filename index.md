@@ -2,6 +2,6 @@ hi. i'm a stand-up comedian or looking for a [job](resume) depending on what dir
 
 [upcoming shows](comedy)
 
-[tape](https://youtu.be/PHNStRX6W_U)
+[tape](https://www.youtube.com/watch?v=ywy2wpMYX0E)
 
 [twitter](https://twitter.com/diyacomedy)
