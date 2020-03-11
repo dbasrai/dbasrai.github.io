@@ -1,7 +1,9 @@
-[resume](resume_working)
+[Resume](resume)
 
-[upcoming shows](comedy)
+[Upcoming Shows](comedy)
 
-[tape](https://www.youtube.com/watch?v=ywy2wpMYX0E)
+[Stand-up Tape](https://www.youtube.com/watch?v=0T8ofmjiWyw)
 
-[twitter](https://twitter.com/diyacomedy)
+[The Onion](onion)
+
+[Twitter](https://twitter.com/diyacomedy)
