@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta:300,400,700');
+
+body {
+  background-color: #fff;
+}
+.card {
+  color:#808080;	
+  background-color: #fff;
+  border-radius: 4px;
+  position: relative;
+  padding: 3px;
+  padding-top: 25px;
+  width: 100%;
+
+}
+.card:not(:last-child) {
+    margin-bottom: 20px;
+}
+.step {
+    background-color: #ffb238;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    padding: 4px;
+}
+.esti {
+    background-color: #84b59a;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    padding: 4px;
+}
+.container {
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+ }  
+.main {
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  font-family:'Mukta', sans-serif;
+  color: #05374f;
+}
+span {
+  font-family:'Mukta', sans-serif;
+  color: #fff;
+}
+cloudShell {
+  font-family:'Mukta', sans-serif;
+  color: red;
+  font-weight: 900;
+}
+serverShell {
+  font-family:'Mukta', sans-serif;
+  color: blue;
+  font-weight: 900;
+}
