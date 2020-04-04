@@ -1,0 +1,4 @@
+{
+  "channel": "YOUR_CHANNEL_ID",
+  "text": "Hello, world"
+}
