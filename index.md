@@ -1,4 +1,4 @@
-[Resume](cv)
+[Resume](resume)
 
 [Upcoming Shows](comedy)
 
