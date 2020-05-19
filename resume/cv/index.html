@@ -101,16 +101,16 @@
         flex-direction: row;
         margin-bottom: 10px;
       }
+      .chunkrow {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
 
       .section {
         flex-grow: 2;
         margin-bottom: 5px;
       }
-      .sectionCol {
-          flex-grow: 1;
-          margin-bottom: 5px;
-      }
-
       .item {
         margin-bottom: 4px;
       }
@@ -233,16 +233,16 @@
       </div>
     </div>
 
-    <div class = "chunk">
+    <div class = "chunkrow">
       <h2>Skills</h2>
-      <div class = "sectionCol">
+      <div class = "section">
         <h3>Programming</h3>
         <ul>
           <li>Python (NumPy/SciPy, Matplotlib, Tensorflow/Keras), Matlab, Linux Environments, C/C++, Google Cloud Platform</li>
         </ul>
       </div>
 
-      <div class = "sectionCol">
+      <div class = "section">
         <h3>Wet-lab</h3>
         <ul>
           <li>Cryosectioning, rodent work, PCR, mounting</li>
