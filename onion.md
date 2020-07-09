@@ -7,3 +7,5 @@
 [Public Pressure Mounts For U.S. Government To Stop Designating KKK As 501(c)(3) Nonprofit](https://www.theonion.com/public-pressure-mounts-for-u-s-government-to-stop-desi-1844121337)
 
 [NASA To Rename Building In Honor of 'Hidden Figures' Actress Octavia Spencer](https://www.theonion.com/nasa-to-rename-building-in-honor-of-hidden-figures-ac-1844180231)
+
+[‘I Want You To Love Again One Day,’ Whispers Dying Man Clearly Overestimating Amount Of Grief Wife Will Experience](https://www.theonion.com/i-want-you-to-love-again-one-day-whispers-dying-man-1844306255)
