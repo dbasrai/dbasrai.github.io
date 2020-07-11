@@ -9,3 +9,5 @@
 [NASA To Rename Building In Honor of 'Hidden Figures' Actress Octavia Spencer](https://www.theonion.com/nasa-to-rename-building-in-honor-of-hidden-figures-ac-1844180231)
 
 [‘I Want You To Love Again One Day,’ Whispers Dying Man Clearly Overestimating Amount Of Grief Wife Will Experience](https://www.theonion.com/i-want-you-to-love-again-one-day-whispers-dying-man-1844306255)
+
+[Teens Flock To New App Where They Just Enter Own Personal Data Into Form](https://www.theonion.com/teens-flock-to-new-app-where-they-just-enter-own-person-1844339166)
