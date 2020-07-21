@@ -11,3 +11,5 @@
 [‘I Want You To Love Again One Day,’ Whispers Dying Man Clearly Overestimating Amount Of Grief Wife Will Experience](https://www.theonion.com/i-want-you-to-love-again-one-day-whispers-dying-man-1844306255)
 
 [Teens Flock To New App Where They Just Enter Own Personal Data Into Form](https://www.theonion.com/teens-flock-to-new-app-where-they-just-enter-own-person-1844339166)
+
+[MTV Names Richard Lewis New Host of ‘Wild ’N Out’ In Effort To Court Jewish Audience](https://entertainment.theonion.com/mtv-names-richard-lewis-new-host-of-wild-n-out-in-ef-1844443985)
