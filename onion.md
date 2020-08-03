@@ -13,3 +13,5 @@
 [Teens Flock To New App Where They Just Enter Own Personal Data Into Form](https://www.theonion.com/teens-flock-to-new-app-where-they-just-enter-own-person-1844339166)
 
 [MTV Names Richard Lewis New Host of ‘Wild ’N Out’ In Effort To Court Jewish Audience](https://entertainment.theonion.com/mtv-names-richard-lewis-new-host-of-wild-n-out-in-ef-1844443985)
+
+[Tylenol Suppresses Only Physical Symptom of Brain Tumor](https://www.instagram.com/p/CDJloHTnFS7/)
