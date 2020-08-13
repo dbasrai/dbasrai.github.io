@@ -15,3 +15,5 @@
 [MTV Names Richard Lewis New Host of ‘Wild ’N Out’ In Effort To Court Jewish Audience](https://entertainment.theonion.com/mtv-names-richard-lewis-new-host-of-wild-n-out-in-ef-1844443985)
 
 [Tylenol Suppresses Only Physical Symptom of Brain Tumor](https://www.instagram.com/p/CDJloHTnFS7/)
+
+[Friend In Passenger Seat Working In Some Creative Flourishes In Ghostwritten Text Message To Driver’s Mom](https://local.theonion.com/friend-in-passenger-seat-working-in-some-creative-flour-1844652783)
