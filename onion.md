@@ -19,3 +19,5 @@
 [Friend In Passenger Seat Working In Some Creative Flourishes In Ghostwritten Text Message To Driver’s Mom](https://local.theonion.com/friend-in-passenger-seat-working-in-some-creative-flour-1844652783)
 
 [Roommmate Topping off Brita Pitcher After Single Use Clearly Scarred From Some Earlier Incident](https://www.instagram.com/p/CEDiYWLFEWl/)
+
+[‘Apple Outsources Majority Of Labor To Countries With Child Labor,’ Reads New ‘Fortnite’ Loading Screen Tip](https://www.theonion.com/apple-outsources-majority-of-labor-to-countries-with-c-1844776901)
