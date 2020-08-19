@@ -17,3 +17,5 @@
 [Tylenol Suppresses Only Physical Symptom of Brain Tumor](https://www.instagram.com/p/CDJloHTnFS7/)
 
 [Friend In Passenger Seat Working In Some Creative Flourishes In Ghostwritten Text Message To Driver’s Mom](https://local.theonion.com/friend-in-passenger-seat-working-in-some-creative-flour-1844652783)
+
+[Roommmate Topping off Brita Pitcher After Single Use Clearly Scarred From Some Earlier Incident](https://www.instagram.com/p/CEDiYWLFEWl/)
