@@ -21,3 +21,9 @@
 [Roommmate Topping off Brita Pitcher After Single Use Clearly Scarred From Some Earlier Incident](https://www.instagram.com/p/CEDiYWLFEWl/)
 
 [‘Apple Outsources Majority Of Labor To Countries With Child Labor,’ Reads New ‘Fortnite’ Loading Screen Tip](https://www.theonion.com/apple-outsources-majority-of-labor-to-countries-with-c-1844776901)
+
+[Facebook Purchases Oculus VR For Another Billion After Forgetting They Already Bought It In 2014](https://www.theonion.com/facebook-purchases-oculus-vr-for-another-2-billion-aft-1844883033)
+
+[DNC Pours All Campaign Funding Into New York, California To Win Popular Vote By Even Greater Margin Than 2016](https://politics.theonion.com/dnc-pours-all-campaign-funding-into-new-york-californi-1844882563)
+
+[Pretentious Third-Grader Only Reading Children’s Books That Won Newbery Medal](https://local.theonion.com/pretentious-third-grader-only-reading-children-s-books-1844907873)
