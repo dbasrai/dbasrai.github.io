@@ -27,3 +27,5 @@
 [DNC Pours All Campaign Funding Into New York, California To Win Popular Vote By Even Greater Margin Than 2016](https://politics.theonion.com/dnc-pours-all-campaign-funding-into-new-york-californi-1844882563)
 
 [Pretentious Third-Grader Only Reading Children’s Books That Won Newbery Medal](https://local.theonion.com/pretentious-third-grader-only-reading-children-s-books-1844907873)
+
+[Ice Cream Shop With Unlimited Free Samples Mentally Added To Growing Homelessness Contingency Plan](https://local.theonion.com/ice-cream-shop-with-unlimited-free-samples-mentally-add-1844942230)
