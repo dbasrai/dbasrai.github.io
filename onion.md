@@ -29,3 +29,5 @@
 [Pretentious Third-Grader Only Reading Children’s Books That Won Newbery Medal](https://local.theonion.com/pretentious-third-grader-only-reading-children-s-books-1844907873)
 
 [Ice Cream Shop With Unlimited Free Samples Mentally Added To Growing Homelessness Contingency Plan](https://local.theonion.com/ice-cream-shop-with-unlimited-free-samples-mentally-add-1844942230)
+
+[Russian Opposition Leader Vows Never To Eat At Tomsk Airport Café Again After Getting Nerve Agent Poisoning There](https://politics.theonion.com/russian-opposition-leader-vows-never-to-eat-at-tomsk-ai-1844999663)
