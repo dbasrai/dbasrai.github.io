@@ -31,3 +31,5 @@
 [Ice Cream Shop With Unlimited Free Samples Mentally Added To Growing Homelessness Contingency Plan](https://local.theonion.com/ice-cream-shop-with-unlimited-free-samples-mentally-add-1844942230)
 
 [Russian Opposition Leader Vows Never To Eat At Tomsk Airport Café Again After Getting Nerve Agent Poisoning There](https://politics.theonion.com/russian-opposition-leader-vows-never-to-eat-at-tomsk-ai-1844999663)
+
+[Appeals Court Opens Across The Street From Regular Court To Drum Up Business](https://www.theonion.com/appeals-court-opens-across-the-street-from-regular-cour-1845243884)
