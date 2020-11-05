@@ -37,3 +37,5 @@
 [Elementary Student Learning Microsoft Word Goes Straight For Center Justify](https://local.theonion.com/elementary-student-learning-microsoft-word-goes-straigh-1845481293)
 
 [‘See, I Clean Up Nice,’ Announces Ugly, Dirty Man In Suit](https://local.theonion.com/see-i-clean-up-nice-announces-ugly-dirty-man-in-su-1845547975)
+
+[‘How Can They Expect Me To Focus Today?’ Asks Man Putting In Usual Half-Assed Effort At Work](https://www.theonion.com/how-can-they-expect-me-to-focus-today-asks-man-putti-1845574789)
