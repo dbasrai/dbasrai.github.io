@@ -29,4 +29,6 @@ Inside your `session` folder (or osmething called similarly), create a folder ca
 
 `anipose triangulate`
 
-these take variable times, but should spit out 3d outputs as a .h5 file in a created 3d pose folder.
+`anipose angles`
+
+these take variable times, but should spit out 3d outputs as a .h5 file in a created 3d pose folder, and then angles in a folder called angles.
