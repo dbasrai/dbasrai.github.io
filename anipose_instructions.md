@@ -13,7 +13,7 @@ Detailed instructions at [https://anipose.readthedocs.io/en/latest/installation.
 4. And, then run `conda install mayavi ffmpeg`
 
 # Set-up folder structure
-1. Set-up the folder structure for your experiment, details here: [https://anipose.readthedocs.io/en/latest/start3d.html](https://anipose.readthedocs.io/en/latest/start3d.html). you can download a sample config.toml file here:
+1. Set-up the folder structure for your experiment, details here: [https://anipose.readthedocs.io/en/latest/start3d.html](https://anipose.readthedocs.io/en/latest/start3d.html). you can download a sample config.toml file here: [dbasrai.github.io/config.toml](dbasrai.github.io/config.toml)
 
 2. Edit your config.toml file to your own dataset, it'll be similar to editing your config.yaml file from DLC. Make sure you download your project from Google Drive, and then link to the path inside config.toml.
 
