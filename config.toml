@@ -1,0 +1,61 @@
+
+project = 'anipose'
+
+model_folder = '/home/diya/Downloads/Camera1_lego-diya-2020-10-05' 
+
+nesting = 1
+video_extension = 'avi'
+
+[calibration]
+# checkerboard / charuco / aruco
+board_type = "charuco"
+
+# width and height of grid
+board_size = [11, 8]
+
+# number of bits in the markers, if aruco/charuco
+board_marker_bits = 4
+
+# number of markers in dictionary, if aruco/charuco
+board_marker_dict_number = 50
+
+# length of marker side
+board_marker_length = 15 # mm
+
+# If aruco, length of marker separation
+# board_marker_separation_length = 1 # mm
+
+# If charuco or checkerboard, square side length
+board_square_side_length = 20 # mm
+
+animal_calibration = false
+
+fisheye = false
+
+[labeling]
+scheme = [
+['lego1', 'lego2'], 
+['lego2', 'lego3'], 
+['lego3', 'lego4'], 
+['lego4','lego5']
+]
+
+[triangulation]
+triangulate = true
+cam_regex = 'Camera([1-2])'
+cam_align = "1"
+ransac = false
+optim = true
+#constraints = 
+scale_smooth = 25
+scale_length = 10
+scale_length_weak = 2
+reproj_error_threshold = 3
+score_threshold = 0.6
+n_deriv_smooth = 2
+
+[angles]
+angle1 = ['lego1', 'lego2', 'lego3']
+angle2 = ['lego2', 'lego3', 'lego4']
+angle3 = ['lego3', 'lego4', 'lego5']
+
