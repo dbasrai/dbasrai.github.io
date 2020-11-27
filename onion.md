@@ -41,3 +41,6 @@
 [‘How Can They Expect Me To Focus Today?’ Asks Man Putting In Usual Half-Assed Effort At Work](https://www.theonion.com/how-can-they-expect-me-to-focus-today-asks-man-putti-1845574789)
 
 [Nation Even More Unsure Than Usual Whether To Hug Cousin](https://www.theonion.com/nation-even-more-unsure-than-usual-whether-to-hug-cousi-1845756787)
+
+[Alternate Price Of Book In Canadian Dollars Gives Man Little Window Into What Life Would Be Like If He Were Canadian
+](https://local.theonion.com/alternate-price-of-book-in-canadian-dollars-gives-man-l-1845740458)
