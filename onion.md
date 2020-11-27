@@ -39,3 +39,5 @@
 [‘See, I Clean Up Nice,’ Announces Ugly, Dirty Man In Suit](https://local.theonion.com/see-i-clean-up-nice-announces-ugly-dirty-man-in-su-1845547975)
 
 [‘How Can They Expect Me To Focus Today?’ Asks Man Putting In Usual Half-Assed Effort At Work](https://www.theonion.com/how-can-they-expect-me-to-focus-today-asks-man-putti-1845574789)
+
+[Nation Even More Unsure Than Usual Whether To Hug Cousin](https://www.theonion.com/nation-even-more-unsure-than-usual-whether-to-hug-cousi-1845756787)
