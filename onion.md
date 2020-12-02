@@ -44,3 +44,5 @@
 
 [Alternate Price Of Book In Canadian Dollars Gives Man Little Window Into What Life Would Be Like If He Were Canadian
 ](https://local.theonion.com/alternate-price-of-book-in-canadian-dollars-gives-man-l-1845740458)
+
+[Barr Announces No Widespread Election Fraud After Clicking Warning Label On Flagged Trump Tweets](https://www.theonion.com/barr-announces-no-widespread-election-fraud-after-click-1845792612)
