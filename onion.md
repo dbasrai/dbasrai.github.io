@@ -46,3 +46,5 @@
 ](https://local.theonion.com/alternate-price-of-book-in-canadian-dollars-gives-man-l-1845740458)
 
 [Barr Announces No Widespread Election Fraud After Clicking Warning Label On Flagged Trump Tweets](https://www.theonion.com/barr-announces-no-widespread-election-fraud-after-click-1845792612)
+
+[Google AI Zones Out While Being Trained On Mandatory Racial Sensitivity Data Set](https://www.theonion.com/google-ai-zones-out-while-being-trained-on-mandatory-ra-1845809981)
