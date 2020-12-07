@@ -48,3 +48,5 @@
 [Barr Announces No Widespread Election Fraud After Clicking Warning Label On Flagged Trump Tweets](https://www.theonion.com/barr-announces-no-widespread-election-fraud-after-click-1845792612)
 
 [Google AI Zones Out While Being Trained On Mandatory Racial Sensitivity Data Set](https://www.theonion.com/google-ai-zones-out-while-being-trained-on-mandatory-ra-1845809981)
+
+[Man Catches Himself Scrolling Social Media While He Supposed To Be Masturbating](https://local.theonion.com/man-catches-himself-scrolling-social-media-while-he-sup-1845810176)
