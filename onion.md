@@ -50,3 +50,5 @@
 [Google AI Zones Out While Being Trained On Mandatory Racial Sensitivity Data Set](https://www.theonion.com/google-ai-zones-out-while-being-trained-on-mandatory-ra-1845809981)
 
 [Man Catches Himself Scrolling Social Media While He Supposed To Be Masturbating](https://local.theonion.com/man-catches-himself-scrolling-social-media-while-he-sup-1845810176)
+
+[‘She’s Now Eating A Muffin In The Commissary,’ Posts Congresswoman Boebert Continuing To Livetweet Pelosi’s Location](https://politics.theonion.com/she-s-now-eating-a-muffin-in-the-commissary-posts-co-1846067955)
