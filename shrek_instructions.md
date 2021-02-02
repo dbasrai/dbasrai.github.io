@@ -8,11 +8,11 @@
 
 ## Transfering files
 
-`scp -r local_directory your_username@Shrek:/home/abs9091/dlc_folder` -> i think this is right, but check the directory
+`scp -r local_directory abs9091@shrek:/home/abs9091/dlc_folder` -> i think this is right, but check the directory
 
 ## Connect to Shrek
 
-`ssh your_username@Shrek`
+`ssh abs9091@shrek`
 
 # Entering docker container, navigating to correct directories
 
@@ -46,7 +46,7 @@ and then inside ipython
 
 `import deeplabcut`
 
-`config = 'config.yaml'
+`config = 'config.yaml'`
 
 ## start training
 
