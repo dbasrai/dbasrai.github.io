@@ -54,3 +54,5 @@
 [‘She’s Now Eating A Muffin In The Commissary,’ Posts Congresswoman Boebert Continuing To Livetweet Pelosi’s Location](https://politics.theonion.com/she-s-now-eating-a-muffin-in-the-commissary-posts-co-1846067955)
 
 [Fossilized Skeleton Shows Ancient Man Likely Died From Being Smashed In Skull By Archaeological Pickaxe](https://www.theonion.com/fossilized-skeleton-shows-ancient-man-likely-died-from-1846153761)
+
+[‘Then You’ll Put Out A Nice Press Release Stepping Down As CEO,’ Whispers Rogue Fulfillment Bot Holding Bezos At Gunpoint](https://www.theonion.com/then-you-ll-put-out-a-nice-press-release-stepping-down-1846189979)
