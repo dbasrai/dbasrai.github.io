@@ -51,3 +51,25 @@ and then inside ipython
 ## start training
 
 `deeplabcut.train_network(config)`
+
+## checking on training
+
+if you closed your terminal, then make sure you're re-logged back into the docker container. then use `tmux ls` to see the # of your tmux session (it'llbe listed on the left).It is potentially `1`.
+
+Then use the command `tmux a -t NUMBER`, replacing number with just the number checked above (usually `1`). This will allow you to re-enter your tmux session.
+
+## finished training
+
+Once training is finished, we want to close our tmux session in order to make sure we're no longer using the GPU. 
+
+Use `Ctrl-B, D` in order to detach from your tmux session.
+
+Then use `tmux kill-session -t NUMBER` in order to kill your tmux session.
+
+I would quickly use `nvidia-smi` to double check you're no longer using the GPU`.
+
+## transfer files back to local
+
+Disconnect from both the docker/Shrek and then use 
+
+`scp asb9091@shrek:/home/abs9091/dlc_folder .` -> i havent tried this, but I think it should work.
