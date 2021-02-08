@@ -58,9 +58,19 @@ if you closed your terminal, then make sure you're re-logged back into the docke
 
 Then use the command `tmux a -t NUMBER`, replacing number with just the number checked above (usually `1`). This will allow you to re-enter your tmux session.
 
-## finished training
+## finished training, analyze videos
 
-Once training is finished, we want to close our tmux session in order to make sure we're no longer using the GPU. 
+once training is finished, we want to analyze our videos and created a labeled video. Your ipython should still be open i believe at this point, and if so, run the following commands.
+
+`deeplabcut.analyze_videos(config)`
+
+might take a little.
+
+`deeplabcut.create_labeled_video(config, draw_skeleton=True)`
+
+## closing tmux
+
+Once training/analyzing/labeling is finished, we want to close our tmux session in order to make sure we're no longer using the GPU. 
 
 Use `Ctrl-B, D` in order to detach from your tmux session.
 
