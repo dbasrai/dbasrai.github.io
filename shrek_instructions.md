@@ -8,11 +8,11 @@
 
 ## Transfering files
 
-`scp -r local_directory abs9091@shrek:/home/abs9091/dlc_folder` -> i think this is right, but check the directory
+`scp -r local_directory abs9091@Shrek:/home/abs9091/dlc_folder` -> i think this is right, but check the directory
 
 ## Connect to Shrek
 
-`ssh abs9091@shrek`
+`ssh abs9091@Shrek`
 
 # Entering docker container, navigating to correct directories
 
@@ -72,4 +72,4 @@ I would quickly use `nvidia-smi` to double check you're no longer using the GPU`
 
 Disconnect from both the docker/Shrek and then use 
 
-`scp asb9091@shrek:/home/abs9091/dlc_folder .` -> i havent tried this, but I think it should work.
+`scp -r asb9091@Shrek:/home/abs9091/dlc_folder .` -> i havent tried this, but I think it should work.
