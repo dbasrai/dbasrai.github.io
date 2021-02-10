@@ -48,6 +48,8 @@ and then inside ipython
 
 `config = 'config.yaml'`
 
+`videos = `['/videos']`
+
 ## start training
 
 `deeplabcut.train_network(config)`
@@ -62,11 +64,11 @@ Then use the command `tmux a -t NUMBER`, replacing number with just the number c
 
 once training is finished, we want to analyze our videos and created a labeled video. Your ipython should still be open i believe at this point, and if so, run the following commands.
 
-`deeplabcut.analyze_videos(config)`
+`deeplabcut.analyze_videos(config, videos)`
 
 might take a little.
 
-`deeplabcut.create_labeled_video(config, draw_skeleton=True)`
+`deeplabcut.create_labeled_video(config, videos, draw_skeleton=True)`
 
 ## closing tmux
 
