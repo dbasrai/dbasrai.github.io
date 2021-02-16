@@ -29,7 +29,7 @@
 
 edit the project_path, and video_path. 
 
-##edit permissions for resnet
+## edit permissions for resnet
 this is a weird step you have to do once per docker container.
 
 `cd usr/local/lib/python3.6/dist-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/`
