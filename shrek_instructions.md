@@ -24,6 +24,20 @@
 
 `cd ../../../home/abs9091/dlc_folder` -> again i think this is rght, but not sure
 
+## edit config.yaml
+`vim config.yaml`
+
+edit the project_path, and video_path. 
+
+##edit permissions for resnet
+this is a weird step you have to do once per docker container.
+
+`cd usr/local/lib/python3.6/dist-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/`
+
+`sudo download.sh`
+
+`sudo chown YOUR_USERNAME:YOUR_USERNAME resnet_v1_50.ckpt`
+
 # Start ipython, tmux, and training
 
 ## Start tmux
@@ -37,6 +51,7 @@ this starts a tmux window, lets split the window.
 this splits the window, in the right window run `watch -n 1 nvidia-smi`, then use `ctrl-b + <-` to navigate to left window
 
 ## start ipython
+navigate back to your project folder (same directory where config.yaml lives)
 
 `sudo ipython`
 
