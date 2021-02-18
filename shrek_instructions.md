@@ -1,7 +1,7 @@
 # Overall Steps
 
 1. Transfer files to Shrek, connect to Shrek
-2. Enter docker container, navigate to correct directories
+2. Build and/or Enter docker container, navigate to correct directories
 3. Start ipython, start trainining.
 
 # Transfering files and connecting to Shrek
@@ -12,7 +12,27 @@
 
 ## Connect to Shrek
 
-`ssh abs9091@Shrek`
+ `ssh Shrek`
+ 
+ Check GPU utilization-> `watch -n 1 nvidia-smi`
+
+# Install Docker, Build Image, Run Container 
+
+## Install Docker
+
+`git clone https://github.com/MMathisLab/Docker4DeepLabCut2.0`
+
+`cd Docker4DeepLabCut2.0`
+
+## Build Image
+
+`docker image build -t dlc_username/dlcdocker`
+
+## Run Container
+
+(Pick XXXX to be a port not in use; change container name, user name, and GPU# not in use)
+
+`GPU=1 bash ./dlc-docker run -d -p XXXX:8888 -e USER_HOME=$HOME/DeepLabCut --name containername dlc_username/dlcdocker`
 
 # Entering docker container, navigating to correct directories
 
@@ -27,7 +47,7 @@
 ## edit config.yaml
 `vim config.yaml`
 
-edit the project_path, and video_path. 
+edit the project_path (/home/abs9091/R01_2-14/R01_2-14), and video_sets (/home/abs9091/R01_2-14/R01_2-14/videos/R01_2-14.avi). 
 
 ## edit permissions for resnet
 this is a weird step you have to do once per docker container.
@@ -48,7 +68,7 @@ this starts a tmux window, lets split the window.
 
 `ctrl-b + %`
 
-this splits the window, in the right window run `watch -n 1 nvidia-smi`, then use `ctrl-b + <-` to navigate to left window
+this splits the window, in the right window run `watch -n 1 nvidia-smi`, then use `ctrl-b + <-` to navigate to left window (`ctrl-b + d` closes window; `ctrl-b + z` enlarges window)
 
 ## start ipython
 navigate back to your project folder (same directory where config.yaml lives)
@@ -63,7 +83,7 @@ and then inside ipython
 
 `config = 'config.yaml'`
 
-`videos = `['/videos']`
+`videos = ['/videos']`
 
 ## start training
 
@@ -81,7 +101,7 @@ once training is finished, we want to analyze our videos and created a labeled v
 
 `deeplabcut.analyze_videos(config, videos)`
 
-might take a little.
+might take a little. If this does not work try using absolute path of config and videos
 
 `deeplabcut.create_labeled_video(config, videos, draw_skeleton=True)`
 
@@ -99,4 +119,6 @@ I would quickly use `nvidia-smi` to double check you're no longer using the GPU`
 
 Disconnect from both the docker/Shrek and then use 
 
-`scp -r asb9091@Shrek:/home/abs9091/dlc_folder .` -> i havent tried this, but I think it should work.
+`scp -r abs9091@Shrek:/home/abs9091/dlc_folder .` -> i havent tried this, but I think it should work.
+
+Move project to ubuntu folder `mv dlc_folder ubuntu`
