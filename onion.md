@@ -57,4 +57,4 @@
 
 [‘Then You’ll Put Out A Nice Press Release Stepping Down As CEO,’ Whispers Rogue Fulfillment Bot Holding Bezos At Gunpoint](https://www.theonion.com/then-you-ll-put-out-a-nice-press-release-stepping-down-1846189979)
 
-['Biden Nominates Popular Twitter Account @PossumEveryHour For OMB After Discovering Bipartisan Support Of Tweets'](https://www.theonion.com/biden-nominates-popular-twitter-account-possumeveryhou-1846398850)
+[Biden Nominates Popular Twitter Account @PossumEveryHour For OMB After Discovering Bipartisan Support Of Tweets](https://www.theonion.com/biden-nominates-popular-twitter-account-possumeveryhou-1846398850)
