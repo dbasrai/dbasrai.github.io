@@ -47,6 +47,10 @@
 ## edit config.yaml
 `vim config.yaml`
 
+(vim hints: theres two modes, command mode and insert mode. by default you are in command mode, where you can move your cursor and enter vim commands. in order to enter insert mode and add text, use `i` to enter insert mode. now you can write text. To go back to command mode, hit `escape`. 
+
+In order to save and quit, enter command mode with `escape` and type in `:x`)
+
 edit the project_path (/home/abs9091/R01_2-14/R01_2-14), and video_sets (/home/abs9091/R01_2-14/R01_2-14/videos/R01_2-14.avi). 
 
 ## edit permissions for resnet
