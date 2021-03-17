@@ -85,9 +85,11 @@ and then inside ipython
 
 `import deeplabcut`
 
-`config = 'config.yaml'`
+`config = 'config.yaml'` <--use absolute path if need be
 
 `videos = ['/videos']`
+
+`deeplabcut.create_training_dataset(config)`
 
 ## start training
 
@@ -105,7 +107,7 @@ once training is finished, we want to analyze our videos and created a labeled v
 
 `deeplabcut.analyze_videos(config, videos)`
 
-might take a little. If this does not work try using absolute path of config and videos
+might take a little. If this does not work try using absolute path of config and videos like this `deeplabcut.analyze_videos('/home/abs9091/R02_03-14-DLC/config.yaml', ['/home/abs9091/R02_03-14-DLC/videos'])`
 
 `deeplabcut.create_labeled_video(config, videos, draw_skeleton=True)`
 
