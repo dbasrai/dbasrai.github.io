@@ -58,3 +58,5 @@
 [‘Then You’ll Put Out A Nice Press Release Stepping Down As CEO,’ Whispers Rogue Fulfillment Bot Holding Bezos At Gunpoint](https://www.theonion.com/then-you-ll-put-out-a-nice-press-release-stepping-down-1846189979)
 
 [Biden Nominates Popular Twitter Account @PossumEveryHour For OMB After Discovering Bipartisan Support Of Tweets](https://www.theonion.com/biden-nominates-popular-twitter-account-possumeveryhou-1846398850)
+
+[Marathon Runner Collapses A Little Too Early To Be Compassionately Helped Across Finish Line](https://www.theonion.com/marathon-runner-collapses-a-little-too-early-to-be-comp-1846466025)
