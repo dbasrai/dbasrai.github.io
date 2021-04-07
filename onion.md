@@ -60,3 +60,5 @@
 [Biden Nominates Popular Twitter Account @PossumEveryHour For OMB After Discovering Bipartisan Support Of Tweets](https://www.theonion.com/biden-nominates-popular-twitter-account-possumeveryhou-1846398850)
 
 [Marathon Runner Collapses A Little Too Early To Be Compassionately Helped Across Finish Line](https://www.theonion.com/marathon-runner-collapses-a-little-too-early-to-be-comp-1846466025)
+
+[Vaccine Dose Reminds Sedentary Man What Muscle Soreness Feels Like](https://local.theonion.com/vaccine-dose-reminds-sedentary-man-what-muscle-soreness-1846607300)
