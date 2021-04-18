@@ -62,3 +62,5 @@
 [Marathon Runner Collapses A Little Too Early To Be Compassionately Helped Across Finish Line](https://www.theonion.com/marathon-runner-collapses-a-little-too-early-to-be-comp-1846466025)
 
 [Vaccine Dose Reminds Sedentary Man What Muscle Soreness Feels Like](https://local.theonion.com/vaccine-dose-reminds-sedentary-man-what-muscle-soreness-1846607300)
+
+[‘Oh God What Happened Now,’ Mumbles Congressperson After Seeing Massive NRA Donation](https://www.theonion.com/oh-god-what-happened-now-mumbles-congressperson-afte-1846691224)
