@@ -64,3 +64,5 @@
 [Vaccine Dose Reminds Sedentary Man What Muscle Soreness Feels Like](https://local.theonion.com/vaccine-dose-reminds-sedentary-man-what-muscle-soreness-1846607300)
 
 [‘Oh God What Happened Now,’ Mumbles Congressperson After Seeing Massive NRA Donation](https://www.theonion.com/oh-god-what-happened-now-mumbles-congressperson-afte-1846691224)
+
+[Dad Explains Geologic Concept To Family As If He Not Reading Straight From National Park Wayside Exhibit](https://www.theonion.com/dad-explains-geologic-concept-to-family-as-if-he-not-re-1846702284)
