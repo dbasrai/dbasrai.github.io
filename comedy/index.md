@@ -1,5 +1,2 @@
-~~4/10 - Bay Bridge Brewing 8 PM - San Diego~~
+6/23 - Comedy Bar - 8 PM
 
-~~4/11 - Twiggs Coffeehouse 8 PM - San Diego~~
-
-all shows canceled for near future. love -diya
