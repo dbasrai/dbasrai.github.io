@@ -66,3 +66,5 @@
 [‘Oh God What Happened Now,’ Mumbles Congressperson After Seeing Massive NRA Donation](https://www.theonion.com/oh-god-what-happened-now-mumbles-congressperson-afte-1846691224)
 
 [Dad Explains Geologic Concept To Family As If He Not Reading Straight From National Park Wayside Exhibit](https://www.theonion.com/dad-explains-geologic-concept-to-family-as-if-he-not-re-1846702284)
+
+[Group Occupying Only Seats of Restaurant Waiting Area Glancing Up With Quiet Defiance At Rest of Parties Standing](https://www.theonion.com/group-occupying-only-seats-of-restaurant-waiting-area-g-1847023429)
