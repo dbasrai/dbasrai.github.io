@@ -1,4 +1,4 @@
-*headlines only*
+*Headlines Only*
 
 [NYC Mayoral Primary Results Delayed Until Officials Finish Watching YouTube Explainer On Ranked Choice Voting](https://www.theonion.com/nyc-mayoral-primary-results-delayed-until-officials-fin-1847158293)
 
