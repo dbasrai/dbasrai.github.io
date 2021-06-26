@@ -26,8 +26,7 @@
 
 [Barr Announces No Widespread Election Fraud After Clicking Warning Label On Flagged Trump Tweets](https://www.theonion.com/barr-announces-no-widespread-election-fraud-after-click-1845792612)
 
-](https://local.theonion.com/alternate-price-of-book-in-canadian-dollars-gives-man-l-1845740458)
-[Alternate Price Of Book In Canadian Dollars Gives Man Little Window Into What Life Would Be Like If He Were Canadian
+[Alternate Price Of Book In Canadian Dollars Gives Man Little Window Into What Life Would Be Like If He Were Canadian](https://local.theonion.com/alternate-price-of-book-in-canadian-dollars-gives-man-l-1845740458)
 
 [Nation Even More Unsure Than Usual Whether To Hug Cousin](https://www.theonion.com/nation-even-more-unsure-than-usual-whether-to-hug-cousi-1845756787)
 
