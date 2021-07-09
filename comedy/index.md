@@ -1,4 +1,4 @@
-6/23 - Comedy Bar - 8 PM
+~~6/23 - Comedy Bar - 8 PM~~
 
 7/16 - The Laughyard - 8 PM
 
