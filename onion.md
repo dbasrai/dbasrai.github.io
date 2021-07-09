@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[California Employees Hesitant About Returning To Office Currently On Fire](https://www.theonion.com/california-employees-hesitant-about-returning-to-office-1847245558)
+
 [NYC Mayoral Primary Results Delayed Until Officials Finish Watching YouTube Explainer On Ranked Choice Voting](https://www.theonion.com/nyc-mayoral-primary-results-delayed-until-officials-fin-1847158293)
 
 [Group Occupying Only Seats of Restaurant Waiting Area Glancing Up With Quiet Defiance At Rest of Parties Standing](https://www.theonion.com/group-occupying-only-seats-of-restaurant-waiting-area-g-1847023429)
