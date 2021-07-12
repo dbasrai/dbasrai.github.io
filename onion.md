@@ -1,5 +1,9 @@
 *Headlines Only*
 
+[Deadbeat Bird Deems Human Touching Eggs Good Enough Reason To Abandon Nest](https://www.theonion.com/deadbeat-bird-deems-human-touching-eggs-good-enough-rea-1847273677)
+
+[Sharp Pain In Chest Infrequent Enough To Be Ignored](https://www.theonion.com/sharp-pain-in-chest-infrequent-enough-to-be-ignored-1847262361)
+
 [California Employees Hesitant About Returning To Office Currently On Fire](https://www.theonion.com/california-employees-hesitant-about-returning-to-office-1847245558)
 
 [NYC Mayoral Primary Results Delayed Until Officials Finish Watching YouTube Explainer On Ranked Choice Voting](https://www.theonion.com/nyc-mayoral-primary-results-delayed-until-officials-fin-1847158293)
