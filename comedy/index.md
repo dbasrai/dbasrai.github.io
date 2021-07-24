@@ -2,10 +2,14 @@
 
 ~~7/16 - The Laughyard - 8 PM~~
 
-7/21 - Zanies Rosemont - 8 PM
+~~7/21 - Zanies Rosemont - 8 PM~~
 
 7/27 - Pulp @ Violet Hour - 8 PM
+
+8/9 - Jamie's Joke Jam @ Lincoln Lodge - 8 PM
 
 8/10 - Best Night Ever @ Lincoln Lodge - 8PM
 
 8/19 - Oak Park Brewery - 8PM
+
+9/11 - Chicago fight Club @ Lincoln Lodge - 10 PM
