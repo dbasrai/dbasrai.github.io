@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[CDC Director Alarmed After Googling ‘Covid Cases’ For First Time in Weeks](https://www.theonion.com/cdc-director-alarmed-after-googling-covid-cases-for-f-1847378739)
+
 [Deadbeat Bird Deems Human Touching Eggs Good Enough Reason To Abandon Nest](https://www.theonion.com/deadbeat-bird-deems-human-touching-eggs-good-enough-rea-1847273677)
 
 [Sharp Pain In Chest Infrequent Enough To Be Ignored](https://www.theonion.com/sharp-pain-in-chest-infrequent-enough-to-be-ignored-1847262361)
