@@ -4,7 +4,7 @@
 
 ~~7/21 - Zanies Rosemont - 8 PM~~
 
-7/27 - Pulp @ Violet Hour - 8 PM
+~~7/27 - Pulp @ Violet Hour - 8 PM~~
 
 8/9 - Jamie's Joke Jam @ Lincoln Lodge - 8 PM
 
