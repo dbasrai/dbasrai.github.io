@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[DeSantis Threatens To Cut Hospital Funding If Surgeons Keep Wearing Masks](https://www.theonion.com/desantis-threatens-to-cut-hospital-funding-if-surgeons-1847438119)
+
 [CDC Director Alarmed After Googling ‘Covid Cases’ For First Time in Weeks](https://www.theonion.com/cdc-director-alarmed-after-googling-covid-cases-for-f-1847378739)
 
 [Deadbeat Bird Deems Human Touching Eggs Good Enough Reason To Abandon Nest](https://www.theonion.com/deadbeat-bird-deems-human-touching-eggs-good-enough-rea-1847273677)
