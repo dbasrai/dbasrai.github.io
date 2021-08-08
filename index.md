@@ -2,7 +2,7 @@
 
 [Upcoming Shows](comedy)
 
-[Stand-up Tape](https://www.youtube.com/watch?v=0T8ofmjiWyw)
+[Stand-up Tape](https://www.youtube.com/watch?v=nQJGZK9QdIo)
 
 [The Onion](onion)
 
