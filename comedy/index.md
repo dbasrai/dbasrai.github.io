@@ -12,6 +12,6 @@
 
 8/11 - Yard Party @ The Hideout - 9 PM
 
-8/19 - Oak Park Brewery - 8PM
+8/24 - Lindy's - 8 PM
 
 9/11 - Chicago fight Club @ Lincoln Lodge - 10 PM

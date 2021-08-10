@@ -1,13 +1,9 @@
-quentin tarantino? i hate that motherfucker. not because of the feet or the n word thing, actually that's my favorite part about him. 
+people don't know what they're talking about.
 
-i hate quentin tarantino because  
+great quality camera for student projectsq
 
-i don't think film should be a college major. I don't think college majors should be something that someone fucking LOVES. like no one LOVES mechanical engineering, people like mechanical enginnering. 
+did you guys have to do video projectgs in highs chool
 
-you want to hear the secret about pulp fiction. non-chronological order. fuck you quentin tarantino. aboutx
+for which it stands
 
-they never learned their lesson
-
-bill gates? i hate that guy. i hate his charity work. i hope 
-
-following my dream? 
+dumb people can be right. which is really annoying.
