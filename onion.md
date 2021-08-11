@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[‘Take Your Place By My Side And We Can Rule New York Forever,’ Says Covid To Disgraced, Vengeful Andrew Cuomo](https://www.theonion.com/take-your-place-by-my-side-and-we-can-rule-new-york-fo-1847466594)
+
 [DeSantis Threatens To Cut Hospital Funding If Surgeons Keep Wearing Masks](https://www.theonion.com/desantis-threatens-to-cut-hospital-funding-if-surgeons-1847438119)
 
 [CDC Director Alarmed After Googling ‘Covid Cases’ For First Time in Weeks](https://www.theonion.com/cdc-director-alarmed-after-googling-covid-cases-for-f-1847378739)
