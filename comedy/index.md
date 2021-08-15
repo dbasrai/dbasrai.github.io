@@ -25,7 +25,7 @@ also - Roll Call Theater 9 PM
 
 also - Roll Call Theater - 9 PM
 
-[kawaii](../kawaii.jpg)
+![kawaii](../kawaii.jpg)
 -----------
 
  
