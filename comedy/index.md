@@ -13,7 +13,7 @@
 
 RoleCall Theater 9 PM
 
-8/29 - Laughin Skull - 5 PM
+8/29 - Laughing Skull - 5 PM
 
 8/30 - Star Bar - 9 PM
 
