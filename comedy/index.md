@@ -25,7 +25,7 @@ RoleCall Theater 9 PM
 
 RoleCall Theater - 9 PM
 
-![kawaii](../kawaii.jpg)
+<img src="../kawaii.jpg" alt="drawing" width="50%" height="50%"/>
 -----------
 
  
