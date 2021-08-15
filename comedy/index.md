@@ -7,23 +7,23 @@
 ------------
 ## shows in atlanta
 
-8/27 - Eventide Brewing - 8 PM (ATL)
+8/27 - Eventide Brewing - 8 PM
 
-8/28 - Laughing Skull Lounge - 5 PM/8 PM
+8/28 - Laughing Skull - 5 PM/8 PM
 
-Roll Call Theater 9 PM
+RoleCall Theater 9 PM
 
-8/29 - Laughin Skull Lounge - 5 PM
+8/29 - Laughin Skull - 5 PM
 
 8/30 - Star Bar - 9 PM
 
 8/31 - Limerick Junction 9 PM
 
-9/3 - Laughing Skull Lounge - 8 PM
+9/3 - Laughing Skull - 8 PM
 
 9/4 - ASW Distillery - 8 PM
 
-Roll Call Theater - 9 PM
+RoleCall Theater - 9 PM
 
 ![kawaii](../kawaii.jpg)
 -----------
