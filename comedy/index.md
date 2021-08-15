@@ -11,7 +11,7 @@
 
 8/28 - Laughing Skull Lounge - 5 PM/8 PM
 
-also - Roll Call Theater 9 PM
+Roll Call Theater 9 PM
 
 8/29 - Laughin Skull Lounge - 5 PM
 
@@ -23,7 +23,7 @@ also - Roll Call Theater 9 PM
 
 9/4 - ASW Distillery - 8 PM
 
-also - Roll Call Theater - 9 PM
+Roll Call Theater - 9 PM
 
 ![kawaii](../kawaii.jpg)
 -----------
