@@ -11,7 +11,7 @@
 
 8/28 - Laughing Skull Lounge - 5 PM/8 PM
 
-     - Roll Call Theater 9 PM
+also - Roll Call Theater 9 PM
 
 8/29 - Laughin Skull Lounge - 5 PM
 
@@ -25,7 +25,9 @@
 
 9/4 - Roll Call Theater - 9 PM
 
+[kawaii](../kawaii.jpg)
 -----------
+
  
 ## back in chicago 
 
