@@ -5,13 +5,13 @@
 ~~8/11 - Yard Party @ The Hideout - 9 PM~~
 
 ------------
-##atlanta
+## shows in atlanta
 
 8/27 - Eventide Brewing - 8 PM (ATL)
 
 8/28 - Laughing Skull Lounge - 5 PM/8 PM
 
-       Roll Call Theater 9 PM
+     - Roll Call Theater 9 PM
 
 8/29 - Laughin Skull Lounge - 5 PM
 
@@ -27,6 +27,8 @@
 
 -----------
  
+## back in chicago 
+
 9/11 - Chicago fight Club @ Lincoln Lodge - 10 PM
 
 9/22 - My Buddy's - 8 PM
