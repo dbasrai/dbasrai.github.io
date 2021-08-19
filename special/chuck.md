@@ -4,7 +4,13 @@ my parents are immigrants. but i was born here ______
 
 it was important for my parents to give me american experiences, but they never quite did it right. growign up they would dress me in clothes they thought were american, but weren't really. so that no matter the weather, i could get bullied.
 
-my entire childhood, they never quite did american things right. as a kid, they would always take me to chuck-e-cheese, but they never acutally bought me tokens. so i've been playing dry air hockey, this whole time. 
+my entire childhood, they never quite did american things right. as a kid, they would always take me to chuck-e-cheese, but they never acutally bought me tokens. 
+
+so i would have to play the off version of arcade games. like skeeball? i would just bring shit from home to throw in the holes.
+
+i'm seorius man, my entire childhood i've been playing air hockey dry... this whole imte. 
+
+there would be so much friction the puck couldn't even make it the entire way across the table. 
 
 i was 13 before I even learned you could turn on an air hockey machine. friends are like how was it growing up with asian parents, im just like there was always a lot of friciton. 
 

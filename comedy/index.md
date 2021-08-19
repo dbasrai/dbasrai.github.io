@@ -13,8 +13,6 @@
 
 RoleCall Theater 9 PM
 
-8/29 - Laughing Skull - 5 PM
-
 8/30 - Star Bar - 9 PM
 
 8/31 - Limerick Junction 9 PM
@@ -25,7 +23,6 @@ RoleCall Theater 9 PM
 
 RoleCall Theater - 9 PM
 
-<img src="../kawaii.jpg" alt="drawing" width="50%" height="50%"/>
 -----------
 
  
