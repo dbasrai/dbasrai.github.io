@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[Man Mid-Shower Facing Grim Realization He’ll Have To Retrieve Face Wash He Left On Sink](https://www.theonion.com/man-mid-shower-facing-grim-realization-he-ll-have-to-re-1847502379)
+
 [‘Take Your Place By My Side And We Can Rule New York Forever,’ Says Covid To Disgraced, Vengeful Andrew Cuomo](https://www.theonion.com/take-your-place-by-my-side-and-we-can-rule-new-york-fo-1847466594)
 
 [DeSantis Threatens To Cut Hospital Funding If Surgeons Keep Wearing Masks](https://www.theonion.com/desantis-threatens-to-cut-hospital-funding-if-surgeons-1847438119)
