@@ -13,6 +13,8 @@
 
 RoleCall Theater 9 PM
 
+8/29 - New Realm Brewery - 7 PM
+
 8/30 - Star Bar - 9 PM
 
 8/31 - Limerick Junction 9 PM
