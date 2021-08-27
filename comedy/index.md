@@ -1,11 +1,4 @@
-~~8/9 - Jamie's Joke Jam @ Lincoln Lodge - 8 PM~~
-
-~~8/10 - Best Night Ever @ Lincoln Lodge - 8PM~~
-
-~~8/11 - Yard Party @ The Hideout - 9 PM~~
-
-------------
-## shows in atlanta
+## atlanta
 
 8/27 - Eventide Brewing - 8 PM
 
@@ -32,7 +25,9 @@ RoleCall Theater - 9 PM
 
 9/11 - Chicago fight Club @ Lincoln Lodge - 10 PM
 
-9/22 - My Buddy's - 8 PM
+9/20 - Discount Therapy @ Pearls' Southern Comfort - 8 PM
+
+9/22 - Jokeoke @ My Buddy's - 8 PM
 
 9/25 - End of the Line @ Nighthawk - 10 PM
 
