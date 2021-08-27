@@ -12,11 +12,11 @@ RoleCall Theater 9 PM [https://rolecall.tix.page/](https://rolecall.tix.page/)
 
 8/31 - Limerick Junction 9 PM
 
-9/3 - Laughing Skull - 8 PM
+9/3 - Laughing Skull - 8 PM [https://www.laughingskulllounge.com/](https://www.laughingskulllounge.com/)
 
-9/4 - ASW Distillery - 8 PM
+9/4 - ASW Distillery - 8 PM 
 
-RoleCall Theater - 9 PM
+RoleCall Theater - 9 PM [https://rolecall.co/theater/](https://rolecall.co/theater/)
 
 -----------
 
