@@ -1,12 +1,12 @@
 ## atlanta
 
-8/27 - Eventide Brewing - 8 PM
+8/27 - Eventide Brewing - 8 PM [https://www.freshtix.com/events/eventide-comedy-0827](https://www.freshtix.com/events/eventide-comedy-0827)
 
-8/28 - Laughing Skull - 5 PM/8 PM
+8/28 - Laughing Skull - 5 PM/8 PM [https://www.laughingskulllounge.com/](https://www.laughingskulllounge.com/)
 
-RoleCall Theater 9 PM
+RoleCall Theater 9 PM [https://rolecall.tix.page/](https://rolecall.tix.page/)
 
-8/29 - New Realm Brewery - 7 PM
+8/29 - New Realm Brewery - 7 PM [https://www.freshtix.com/events/new-realm-comedy-free-stand-up-comedy-on-the-beltline](https://www.freshtix.com/events/new-realm-comedy-free-stand-up-comedy-on-the-beltline)
 
 8/30 - Star Bar - 9 PM
 
