@@ -1,5 +1,9 @@
 *Headlines Only*
 
+[Optimistic Researchers Say There Still Time To Head Off Climate Change Before It Starts Killing Rich People](https://www.theonion.com/optimistic-researchers-say-there-still-time-to-head-off-1847614847)
+
+[U.S. Responds To Rising Sea Levels By Patting East Coast With Towels](https://www.theonion.com/u-s-responds-to-rising-sea-levels-by-patting-east-coas-1847614367)
+
 [Man Mid-Shower Facing Grim Realization He’ll Have To Retrieve Face Wash He Left On Sink](https://www.theonion.com/man-mid-shower-facing-grim-realization-he-ll-have-to-re-1847502379)
 
 [‘Take Your Place By My Side And We Can Rule New York Forever,’ Says Covid To Disgraced, Vengeful Andrew Cuomo](https://www.theonion.com/take-your-place-by-my-side-and-we-can-rule-new-york-fo-1847466594)
