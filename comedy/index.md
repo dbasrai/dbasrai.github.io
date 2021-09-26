@@ -13,3 +13,5 @@
 10/8 - Chalo Haso A Desi Comedy
 
 10/23 - No, Diya @ The Lincoln Lodge - 7 PM
+
+11/15 - Comedy Bar - 8 PM
