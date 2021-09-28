@@ -14,4 +14,6 @@
 
 10/23 - No, Diya @ The Lincoln Lodge - 7 PM
 
+10/28 - Spitfire @ Lincoln Lodge - 8 PM
+
 11/15 - Comedy Bar - 8 PM
