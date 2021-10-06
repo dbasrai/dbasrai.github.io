@@ -12,6 +12,8 @@
 
 10/8 - Chalo Haso A Desi Comedy
 
+10/20 - The Hideout - 8PM
+
 10/23 - No, Diya @ The Lincoln Lodge - 7 PM
 
 10/28 - Spitfire @ Lincoln Lodge - 8 PM
