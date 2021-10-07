@@ -20,4 +20,6 @@
 
 10/30 - Green Mill - 3 PM
 
+11/4 - Smoke Break @ Lincoln Lodge - 8 PM
+
 11/15 - Comedy Bar - 8 PM
