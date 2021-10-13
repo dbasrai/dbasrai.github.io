@@ -1,5 +1,7 @@
 *Headlines Only*
 
+[Unclear What Strings Entrée Pulled To Nab Full-Page Picture On Menu](https://www.theonion.com/unclear-what-strings-entree-pulled-to-nab-full-page-pic-1847830028)
+
 [Iran Starts Stockpiling Strontium Just To Stress Out U.S. Intelligence](https://www.theonion.com/iran-starts-stockpiling-strontium-just-to-stress-out-u-1847735645)
 
 [Optimistic Researchers Say There Still Time To Head Off Climate Change Before It Starts Killing Rich People](https://www.theonion.com/optimistic-researchers-say-there-still-time-to-head-off-1847614847)
