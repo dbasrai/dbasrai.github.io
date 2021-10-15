@@ -4,6 +4,8 @@
 
 10/23 - No, Diya @ The Lincoln Lodge - 7 PM
 
+10/24 - Comedy Bar - 5 PM
+
 10/28 - Spitfire @ Lincoln Lodge - 8 PM
 
 10/30 - Green Mill - 3 PM
