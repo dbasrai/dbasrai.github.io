@@ -10,6 +10,8 @@
 
 10/30 - Green Mill - 3 PM
 
+11/1 - DePaul Campus Bar - 8 PM
+
 11/4 - Smoke Break @ Lincoln Lodge - 8 PM
 
 11/10 - Dandy Crown - 
