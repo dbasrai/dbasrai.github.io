@@ -1,1 +1,1 @@
-<meta http-equiv="REFRESH" content="0;url=https://www.youtube.com/watch?v=nQJGZK9QdIo"></HEAD>
+<meta http-equiv="REFRESH" content="0;url="https://youtu.be/DUCxDIl3Aaw"></HEAD>
