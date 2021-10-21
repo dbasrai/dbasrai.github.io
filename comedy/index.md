@@ -6,6 +6,8 @@
 
 10/24 - Comedy Bar - 5 PM
 
+10/26 - Ditka's Ghost @ Selina Chicago - 8 PM
+
 10/28 - Spitfire @ Lincoln Lodge - 8 PM
 
 10/30 - Green Mill - 3 PM
