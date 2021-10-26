@@ -21,3 +21,5 @@
 11/10 - Dandy Crown - 
 
 11/15 - Comedy Bar - 8 PM
+
+1/19 - Humboldt Jungle - 8PM
