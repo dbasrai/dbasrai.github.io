@@ -2,8 +2,6 @@
 
 [Upcoming Shows](comedy)
 
-[No, Diya!](tickets)
-
 [Stand-up Tape](https://www.youtube.com/watch?v=nQJGZK9QdIo)
 
 [The Onion](onion)
