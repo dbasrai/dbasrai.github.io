@@ -18,7 +18,7 @@
 
 11/9 - CHUC @ Beat Kitchen - 9 PM
 
-11/10 - Dandy Crown - 
+11/10 - Dandy Crown - 7 PM 
 
 11/15 - Comedy Bar - 8 PM
 
