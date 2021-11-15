@@ -1,3 +1,5 @@
+i'm a headline contributor for The Onion. here's a sample list of my published headlines
+
 *Headlines Only*
 
 [Unclear What Strings Entrée Pulled To Nab Full-Page Picture On Menu](https://www.theonion.com/unclear-what-strings-entree-pulled-to-nab-full-page-pic-1847830028)
