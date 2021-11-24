@@ -2,6 +2,8 @@ i'm a headline contributor for The Onion. here's a sample list of my published h
 
 *Headlines Only*
 
+[World Chess Championship Forced To Use Salt Shaker After Losing Bishop](https://www.theonion.com/world-chess-championship-forced-to-use-salt-shaker-afte-1848105719)
+
 [Unclear What Strings Entrée Pulled To Nab Full-Page Picture On Menu](https://www.theonion.com/unclear-what-strings-entree-pulled-to-nab-full-page-pic-1847830028)
 
 [Iran Starts Stockpiling Strontium Just To Stress Out U.S. Intelligence](https://www.theonion.com/iran-starts-stockpiling-strontium-just-to-stress-out-u-1847735645)
