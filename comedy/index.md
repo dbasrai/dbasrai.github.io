@@ -18,6 +18,8 @@
 
 1/19 - Humboldt Jungle - 8PM
 
+1/21 - Goldfish Tank - 8PM
+
 1/25 - Best Night Ever @ Lincoln Lodge - 8PM
 
 2/6 - Sunday Show @ Lincoln Lodge - 8PM
