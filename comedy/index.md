@@ -22,6 +22,8 @@
 
 1/25 - Best Night Ever @ Lincoln Lodge - 8PM
 
+1/27 - EONWOC @ Lincoln Lodge - 8PM
+
 2/6 - Sunday Show @ Lincoln Lodge - 8PM
 
 4/29 - 4/30 - skyline comedy club 
