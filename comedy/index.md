@@ -18,6 +18,8 @@
 
 1/16 - Comedy Menagerie @ Wild Hare - 7 PM
 
+     - Crushes @ AliveOne - 8:30 PM
+
 1/19 - Humboldt Jungle - 8PM
 
 1/21 - Goldfish Tank - 8PM
