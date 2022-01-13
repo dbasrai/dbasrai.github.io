@@ -1,24 +1,6 @@
-12/4 - Paper Machete @ Green Mill - 3 PM
-
-* San Diego dates
-
-12/18 - Bay Bridge Brewing - 8 PM
-
-12/19 - Twiggs Coffeehouse - 8 PM
-
-12/29 - Whistle Stop Bar - 8 PM
-
-12/30 - Mavericks Beach Club - 8 PM
-
-1/2 - acc?
-
-1/5 - Red's - 9 PM
-
-* back in chicago 
-
 1/16 - Comedy Menagerie @ Wild Hare - 7 PM
 
-     \- Crushes @ AliveOne - 8:30 PM
+\     \- Crushes @ AliveOne - 8:30 PM
 
 1/19 - Humboldt Jungle - 8PM
 
