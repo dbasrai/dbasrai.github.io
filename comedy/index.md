@@ -16,4 +16,6 @@
 
 2/6 - Sunday Show @ Lincoln Lodge - 8PM
 
+2/10 - Uncontrolled Variables @ Lincoln Lodge - 8 PM
+
 4/29 - 4/30 - skyline comedy club 
