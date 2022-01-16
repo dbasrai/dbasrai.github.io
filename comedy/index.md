@@ -8,7 +8,7 @@
 
 1/25 - Best Night Ever @ Lincoln Lodge - 8PM
 
-1/27 - EONWOC @ Lincoln Lodge - 8PM
+1/29 - Comedy for Causes @ Lincoln Lodge - 7:30PM
 
 2/1 - Innjoy - 7:30 PM
 
