@@ -2,10 +2,11 @@
 
 2/3 - Lakeview Taproom - 7PM
  
-congrats on your success? at uncharted books - 8 PM
+\- congrats on your success? at uncharted books - 8 PM
+
 2/4 - Workin on it @ Lincoln Lodge - 9:30PM
 
-- annoyance open mic - 11 PM
+\- annoyance open mic - 11 PM
 
 2/6 - Sunday Show @ Lincoln Lodge - 8PM
 
