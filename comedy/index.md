@@ -12,7 +12,7 @@
 
 2/10 - Uncontrolled Variables @ Lincoln Lodge - 8 PM
 
-3/3 - Lakeview Taproom - 7 PM
+2/11 - Campfire Stories @ Lincoln Lodge - 7 PM
 
 3/10 - East of NY - 7 PM
 
