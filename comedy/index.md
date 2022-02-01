@@ -22,4 +22,6 @@
 
 3/26 - Lincoln Lodge - 8 PM
 
+4/15 - Lakeview Academy - 8PM
+
 4/29 - 4/30 - skyline comedy club 
