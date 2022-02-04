@@ -12,6 +12,8 @@
 
 2/11 - Campfire Stories @ Lincoln Lodge - 7 PM
 
+\- CIC Theater @ 8 PM
+
 2/22 - Laugh Factory - 7:30 PM
 
 3/3 - Lakeview Taproom - 7PM
