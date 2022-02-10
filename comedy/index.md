@@ -20,6 +20,8 @@
 
 3/26 - Lincoln Lodge - 8 PM
 
+3/31 - Comedy Bar - 8PM
+
 4/10 - Comedy Bar - 5:30 PM
 
 4/15 - Lakeview Academy - 8PM
