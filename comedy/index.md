@@ -1,10 +1,6 @@
-2/10 - Uncontrolled Variables @ Lincoln Lodge - 8 PM
-
-2/11 - Campfire Stories @ Lincoln Lodge - 7 PM
-
-\- CIC Theater @ 8 PM
-
 2/22 - Laugh Factory - 7:30 PM
+
+2/23 - Discount Therapy - 8PM
 
 3/1 - Best Night Ever @ Lincoln Lodge - 8 PM
 
