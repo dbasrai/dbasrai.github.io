@@ -2,6 +2,8 @@
 
 2/23 - Discount Therapy - 8PM
 
+2/26 - Paper Machete @ The Green Mill - 3PM
+
 3/1 - Best Night Ever @ Lincoln Lodge - 8 PM
 
 3/3 - Lakeview Taproom - 7PM
@@ -17,6 +19,8 @@
 3/26 - Lincoln Lodge - 8 PM
 
 3/31 - Comedy Bar - 8PM
+
+4/1 - No Gimmicks @ Lincoln Lodge - 9 PM
 
 4/10 - Comedy Bar - 5:30 PM
 
