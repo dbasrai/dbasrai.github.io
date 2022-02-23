@@ -12,6 +12,8 @@
 
 3/10 - East of NY - 7 PM
 
+3/18 - Hottie Bob @ Drucker Center - 
+
 3/19 - Red Room Comedy Club - 7:30PM 
 
 3/25 -Lincoln Lodge - 8 PM
