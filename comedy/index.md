@@ -8,7 +8,17 @@
 
 3/3 - Congrat's On Your Success - 730PM
 
+3/5 - New Material Show @ Lincoln Lodge - 6 PM
+
+3/6 - Sunday Show @ Lincoln Lodge - 7PM
+
 3/10 - East of NY - 7 PM
+
+\- uncontrolled variables help
+
+\- Late Nite Dynamite @ Cafe Mustache - 10PM
+
+3/15 - Innjoy - 8PM
 
 3/18 - Hottie Bop @ Drucker Center - 8PM
 
