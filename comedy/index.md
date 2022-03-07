@@ -40,4 +40,6 @@
 
 4/29 - 4/30 - skyline comedy club 
 
+5/1 - Sloppy Sundays - 9 PM
+
 5/15 - Comedy Bar - 5:30 PM
