@@ -4,15 +4,9 @@ my parents are immigrants. but i was born here ______
 
 it was important for my parents to give me american experiences, but they never quite did it right.
  
-my entire childhood, they never quite did american things right. as a kid, they would always take me to chuck-e-cheese, but they never acutally bought me tokens. 
+as a kid, they would always take me to chuck-e-cheese, but they never acutally bought me tokens. 
 
-so this whole time, I've been playing dry air hockey...
-
-yeah, do you know how poor you feel as a child, when you can't even get the air in air hockey?
-
-no tokens man. skeeball? I would just bring shit from home to throw in the holes.
-
-teh racing games? remember how before you put tokens in, there would just be this looping video playing of people racing. as a kid i would just put my hands hands on the wheel, and imagine that my parents were white. 
+so my entire childhoold, I've had to play a lot of  dry air hockey...
 
 i think about chuck-e-cheese a lot, because I think a chuck-e-cheese is a microcosm of american society. like you work hard, and if you're good, you get rewarded at the end with prizes? and I realize now that how you act as a kid at chuck-e-cheese is very indicative of the rest of your life. in fact, every person i meet, i know as kids what their favorite chuck-e-cheese games were 
 
