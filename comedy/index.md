@@ -18,6 +18,8 @@
 
 4/21 - Lakeview Taproom - 7:30 PM
 
+4/22 - Surge Billiards - 8 PM
+
 4/29 - 4/30 - skyline comedy club 
 
 5/1 - Sloppy Sundays - 9 PM
