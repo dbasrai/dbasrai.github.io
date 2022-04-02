@@ -27,3 +27,5 @@
 5/15 - Comedy Bar - 5:30 PM
 
 5/20 - PROMEDY @ The Hideout - 8PM
+
+9/23-24 - Iowa, featuring for Jessica Misra
