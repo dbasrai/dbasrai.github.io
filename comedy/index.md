@@ -30,4 +30,6 @@
 
 5/20 - PROMEDY @ The Hideout - 8PM
 
+6/1 - hideout???
+
 9/23-24 - Iowa, featuring for Jessica Misra
