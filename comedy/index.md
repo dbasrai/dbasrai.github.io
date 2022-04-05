@@ -6,6 +6,8 @@
 
 4/1 - No Gimmicks @ Lincoln Lodge - 9 PM
 
+4/2 - New Material Show @ Lincoln Lodge - 6 PM
+
 4/7 - Congrats On Your Success - 7:30PM
 
 4/10 - Comedy Bar - 5:30 PM
