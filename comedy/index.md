@@ -22,6 +22,8 @@
 
 4/22 - Surge Billiards - 8 PM
 
+4/24 - lil tape for a jfl submission - 
+
 4/29 - 4/30 - skyline comedy club 
 
 5/1 - Sloppy Sundays - 9 PM
