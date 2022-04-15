@@ -30,6 +30,8 @@
 
 5/5 - Congrats on Your Success @ Uncharted Books - 7:30PM
 
+5/13 - Hair of the Dog @ Black Eagle - 8PM
+
 5/14 - End of the Line @ Nighthawk
 
 5/15 - Comedy Bar - 5:30 PM
