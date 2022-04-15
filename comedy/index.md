@@ -38,4 +38,6 @@
 
 6/1 - Hideout - 9PM
 
+7/1-7/2 - Headlining comedy heights
+
 9/23-24 - Iowa, featuring for Jessica Misra
