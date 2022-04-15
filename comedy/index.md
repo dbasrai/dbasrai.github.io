@@ -22,7 +22,7 @@
 
 4/22 - Surge Billiards - 8 PM
 
-4/24 - lil tape for a jfl submission - 
+4/23 - Just For Friends @ Lincoln Lodge - 8 PM
 
 4/29 - 4/30 - skyline comedy club 
 
