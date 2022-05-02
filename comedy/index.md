@@ -1,13 +1,3 @@
-4/20 - Zanies Rosemont - 8PM
-
-4/21 - Lakeview Taproom - 7:30 PM
-
-4/22 - Surge Billiards - 8 PM
-
-4/23 - Just For Friends @ Lincoln Lodge - 8 PM
-
-4/29 - 4/30 - skyline comedy club 
-
 5/1 - Sloppy Sundays - 9 PM
 
 5/5 - Congrats on Your Success @ Uncharted Books - 7:30PM
