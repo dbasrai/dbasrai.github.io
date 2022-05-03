@@ -14,6 +14,8 @@
 
 5/20 - PROMEDY @ The Hideout - 8PM
 
+5/29 - Crushes - 8:30 PM
+
 6/1 - Hideout - 9PM
 
 6/2 - Congrats On Your Success - 7:30 PM
