@@ -24,6 +24,8 @@
 
 6/9 - Uncontrolled Variables - 8 PM
 
+6/23 - some NY show
+
 6/29 - Reds - 9 PM
 
 7/1-7/2 - Headlining comedy heights
