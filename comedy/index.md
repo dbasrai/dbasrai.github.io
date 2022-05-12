@@ -24,6 +24,8 @@
 
 6/9 - Uncontrolled Variables - 8 PM
 
+6/21 - two virgins comedy n friends and lovers, need to figure out how to do both.
+
 6/23 - some NY show
 
 6/29 - Reds - 9 PM
