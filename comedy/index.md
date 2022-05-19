@@ -24,9 +24,25 @@
 
 6/9 - Uncontrolled Variables - 8 PM
 
-6/21 - two virgins comedy n friends and lovers, need to figure out how to do both.
+6/10 - augusta
+
+6/11 - columbia, SC
+
+6/13 - star bar
+
+6/15 - athens 
+
+6/16 - atlanta
+
+6/17 - asheville
+
+6/18 - knoxville
+
+6/21 - two virgins comedy n friends and lovers, keepitcasual need to figure out how to do both.
 
 6/23 - some NY show
+
+6/24 - NY
 
 6/29 - Reds - 9 PM
 
