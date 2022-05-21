@@ -16,6 +16,8 @@ She would be like "what do you think about deploying sanctions,' and I'd be like
 
 do you remember who do you like? That was my go-to move. I would fall in love with somebody, start hanging out enough until we'd hang alone together, and then I'd go who do u like. And then she'd say someone else and I'd be devastated. And that was enough for me. That was a whole relationsnhip for me. 
 
+i miss who do you like so much. you can't say that to a person you know nowadays. you have a crush and you're like who do you li,e and they're like... id unno fgucking stevie wonder??ot
+o
 There were perks to dating in high school where everyone knew everyone. l wish I dated when there were rumors about you. That's a high school specific thing, when there's rumors. If you're an adult, and there's a rumor about oyu... its bad. 
 In high school your crush's best friend would pull her aside and be like 'i think he has a thing for you.' nowadays her best friend will pul her aside and be like 'do you feel safe around him?
 
