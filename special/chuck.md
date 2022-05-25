@@ -2,11 +2,13 @@
 
 my parents are immigrants. but i was born here ______
 
-it was important for my parents to give me american experiences, but they never quite did it right.
+growing up my parents really cared about giving me american experiences, but they never quite got it right 
  
-as a kid, they would always take me to chuck-e-cheese, but they never acutally bought me tokens. 
+like as a kid, my parents would take me to chuck-e-cheese all the time, because that was a very american thing to do.
 
-so my entire childhoold, I've had to play a lot of  dry air hockey...
+but they'd never acutally get me tokens. 
+
+have you ever been to an arcade without tokens? my entire childhoold, I've had to play a lot of  dry air hockey...
 
 i think about chuck-e-cheese a lot, because I think a chuck-e-cheese is a microcosm of american society. like you work hard, and if you're good, you get rewarded at the end with prizes? and I realize now that how you act as a kid at chuck-e-cheese is very indicative of the rest of your life. in fact, every person i meet, i know as kids what their favorite chuck-e-cheese games were 
 
