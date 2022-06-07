@@ -10,6 +10,30 @@ but they'd never acutally get me tokens.
 
 have you ever been to an arcade without tokens? my entire childhoold, I've had to play a lot of  dry air hockey...
 
+when you don't have tokens at chuck-e-cheese... you spend a lot of time playing in the tubes.
+
+do you guys remember the chuck-e-cheese tubes?
+
+but more importantly, do you guys remember the kind of kids... IN the chuck-e-cheese tubes?
+
+every kid in the tubes was weird as shit. 
+
+#TODO
+you'd run out of tokens, and have to make that crawl-of-shame up the rope-ladder, and play with these godless kids... in that wretched place...
+
+the tubes are actually where weird kids are made... #TODO thats where they're invented.
+
+like the roller backpack kid or the kid who wheres a suit to class... he isn't born... one day he just emerges from the tubes. 
+
+right nown there's like 8 kids who will naruto run just gestating in the tubes right now. one day they'll hatch and be unleashed on us all.
+
+and the kids only get stranger the further you venture into the tubes. like has anyone else gone.. deep in the tubes?
+
+that's when you start meeting these pans labyrnth kids. these creatures that haven't spent a little too long in the dark. they've lost the use of their eyes, they have a little lightpole sticking out. 
+
+
+
+
 i think about chuck-e-cheese a lot, because I think a chuck-e-cheese is a microcosm of american society. like you work hard, and if you're good, you get rewarded at the end with prizes? and I realize now that how you act as a kid at chuck-e-cheese is very indicative of the rest of your life. in fact, every person i meet, i know as kids what their favorite chuck-e-cheese games were 
 
 like the crypto dudes you meet nowadays? as kids, they were always the ones throwing tokens into that coin bulldozer game? just like this is how i make my fortune, keep putting coins in, you've gotta hold. some kids like shaking it, and its like hey man thats market manipulation. stop it. 
