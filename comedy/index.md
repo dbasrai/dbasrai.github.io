@@ -16,11 +16,11 @@
 
 6/18 - asheville
 
-6/21 - two virgins comedy n friends and lovers, keepitcasual need to figure out how to do both.
+6/21 - comedy n friends and lovers, keepitcasual
 
-6/22 - eli ruffners shows
+6/22 - eli ruffners shows, kyle gillis show
 
-6/23 - some NY show
+6/23 - tommy bayer show
 
 6/24 - penthouse comedy
 
