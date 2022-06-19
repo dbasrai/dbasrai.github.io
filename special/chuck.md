@@ -18,8 +18,11 @@ but more importantly, do you guys remember the kind of kids... IN the chuck-e-ch
 
 every kid in the tubes was weird as shit. 
 
-#TODO
-you'd run out of tokens, and have to make that crawl-of-shame up the rope-ladder, and play with these godless kids... in that wretched place...
+do you remember these tubekids? just all the ones dumb enough to be entertained by a clear plastic window.
+
+on the ground the kids are like I've crunched the numbers, and this is the game that will maximize the tickets per unit token.
+
+in the tubes the kids are like y'all wanna pretend to be rats?
 
 the tubes are actually where weird kids are made... #TODO thats where they're invented.
 
