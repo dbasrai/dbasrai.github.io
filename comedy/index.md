@@ -1,12 +1,14 @@
 # nyc
 
-6/21 - Friends and Lovers 8PM (brooklyn i think?), Hart Bar 9PM
+6/21 - Friends and Lovers 8PM, Hart Bar 9PM
 
 6/22 - Cafe Beit 7:30 PM, Secret Pour 8PM
 
 6/23 - Nook, BK 8PM
 
 6/24 - Tiny Cupboard 10 PM
+
+![image](./comedy_kawaii.jpg)
 
 
 ------
