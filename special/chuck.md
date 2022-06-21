@@ -2,11 +2,11 @@
 
 my parents are immigrants. but i was born here ______
 
-my parents were refugees, and I think the first mental image of a refugee is someone who's poor and struggling to get by. But my parents had decent jobs, but they were just constantly aware that at any point they might lose it all, like in their home county, and were deeply frugal. which can be confusing growing up. 
+my parents were refugees, and they came to this country with nothing, but they did both find decent jobs, the things is that they were just constantly aware that at any point they might lose it all, like in their home county, and were deeply frugal.  
 
-like,I remember when they would take me to chuck-e-cheese, they would always get the minimum token package, which was 12 tokens, and then split it among me and my two siblings. So I would start at chuck-e-cheese with 4 tokens. And that's not enough tokens where a kid can be a kid. 4 tokens? that's where a kid can feel poor... the only time I felt like the children of refugees was at chuck-e-cheese. 
+like,I remember when they would take me to chuck-e-cheese, they would always get the cheapest token package, which was 12 tokens, and then split it among me and my two siblings. So I would start at chuck-e-cheese with 4 tokens. And that's not enough tokens where a kid can be a kid. 4 tokens? that's where a kid can feel real poor... and again it was confusing because my parents had decent jobs, so the only time i felt like a broke children of refugees was at chuck-e-cheese. 
 
-and it was confusing to be broke but only in a chuck-e-cheese. like at home i never heard my parents worrying about money, but at chuck-e-cheese I had to play a lot of dry air hockey
+like at home i never heard my parents worrying about money, but at chuck-e-cheese I had to play a lot of dry air hockey
 
 like i never had to collect and separate cans as a kid but at chuck-e-cheese i was picking up loose tickets off the floor, pressing every single orange refund button just hoping something would come out. I would dumpster-dive as an 8 year old, but only in chuck-e-cheese trashcans. Just pilfering for acccidentally discarded tickets. 
 
