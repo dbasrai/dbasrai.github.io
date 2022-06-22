@@ -53,6 +53,11 @@ Because even back then, I was like hey buddy, you have made 0 tickets, I think y
  
 i was like i'll help you, I grabbed the game and started shaking it, he was like stop it that's market manipulation.
 
+I really think the point of chuck-e-cheese is to get kids used to the tenets of capitalism. that happiness and fun is tied to work and material output. 
+
+because before chuck-e-cheese, none of my fun had any ties to currency or prizes, i just wanted to run around, pretend, and play tag with my friends. 
+
+you ever run around at a chuck-e-cheese. they hate that shit .
 Chuck-e-cheese is really your first exposure with capitalist society, and it captures how harsh capitalism can be. I learned that life isn't fair at a chuck-e-cheese. An employee told me that.
 
 because Chuck-e-cheese was the first time in my life I couldn't afford something. Because I didn't grow up rich, but if I wanted something really bad my parents were like 'its a little expensive, but if you really really want it, we'll trry our best and see what we can do.'
