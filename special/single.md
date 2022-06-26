@@ -46,7 +46,11 @@ i hate the used book store. i like books, but i just hate these soft-spoken moth
 
 i still want a high school relationship. i don't want to date a high schooler, but i want high school dates. I don't want to go to a wine tasting event, i want to walk with you 40 minutes to the nearest mcdonalds, get a large shake and then share a straw. I want to get dropped off by one of our moms at the mall and both try and sit in the same massage chair. 
 
+i am trying to date right now, but something about my vibe is that i'm mostly dating people who also didn't date in high school. so i'm going on these terrible dates, and its not like we have clashing personalities, its that we're literally bad at dating.
 
+i know it sounds like i'm slipping on a banana peel and accidentally ripping they're dress, but geniunly some of these dates its pvery obvious we're pretty new at this. some of the eople i'm dating its like we're both doing this is just training. it feels like an entry-level job, like this isn't going to be long-term, but get some experience.i've had these brief relationships where its like oh this is just like the prwactice mode on a mario party minigame. you know, just to learn the controls. you're like should i press z and exit and they're like yeah i think i got it now.  
+
+that's why I think kids should date in high school. just to 
 
 
  should have dated in high school. the experience. because I had my first kiss in college, adn thatw as too late. my mental image was all wrong. 
