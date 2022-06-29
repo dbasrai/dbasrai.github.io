@@ -1,17 +1,3 @@
-# nyc
-
-6/21 - Friends and Lovers 8PM, Hart Bar 9PM
-
-6/22 - Cafe Beit 7:30 PM, Secret Pour 8PM
-
-6/23 - Nook, BK 8PM
-
-6/24 - Tiny Cupboard 10 PM
-
-![image](./comedy_kawaii.jpg)
-
-
-------
 
 # back on the west coast
  
@@ -19,13 +5,21 @@
 
 7/1-7/2 - Headlining comedy heights
 
-7/5 - comedy oscar
+7/5 - comedy oscar 8 pm
 
-7/9 - comedy oakland//dont tell
+7/6 - jaxson 8 pm
+
+7/8 - comedy oakland
+
+7/9 - don't tell (fremont) 8 pm
+
+lucky duck bicycle cafe 8 pm
 
 7/17 - Permanent Vacation (LA)
 
-7/23 - LA Kyle Rehl show
+7/22 - madhouse
+
+7/23 - madhouse
 
 7/27 - special
 
