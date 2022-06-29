@@ -22,7 +22,7 @@ because on the ground the kids are like I've crunched the numbers, and this is t
 
 in the tubes the kids are like y'all wanna pretend to be rats?
 
-thats the worst part of running out of tokens, is having to play with these godless tube kids.
+tubes are narnia for kids who like to scamper. 
 
 every kid in the tubes was weird as shit. I atually think the tubes are where weird kids are made. 
 
@@ -53,12 +53,11 @@ Because even back then, I was like hey buddy, you have made 0 tickets, I think y
  
 i was like i'll help you, I grabbed the game and started shaking it, he was like stop it that's market manipulation.
 
-I really think the point of chuck-e-cheese is to get kids used to the tenets of capitalism. that happiness and fun is tied to work and material output. 
+i really think the purpose behind chuck-e-cheese is to make kids embrace capitalism. they walk into those gold and purple doors being like 'sharing is caring,' and 'if you can bring it for one person, bring it for everyone.' then that first time you exchange tickets you earned for a prize. these 8 year olds walk out flashing their new woopie cushion at homeless people being like 'look if you just worked hard and pulled yourself up by your boostrap.'
 
-because before chuck-e-cheese, none of my fun had any ties to currency or prizes, i just wanted to run around, pretend, and play tag with my friends. 
+every part of chuck-e-cheese... indoctrinate you into capitalsim. there used to be an animatronic chuck-e-cheese you can push to say catchphrases... seventh or 8th presses.
 
-you ever run around at a chuck-e-cheese. they hate that shit .
-Chuck-e-cheese is really your first exposure with capitalist society, and it captures how harsh capitalism can be. I learned that life isn't fair at a chuck-e-cheese. An employee told me that.
+even the prizses. whoopie cushion, rubber sticky hand, and whats that is that a copy of atlas shrugged.
 
 because Chuck-e-cheese was the first time in my life I couldn't afford something. Because I didn't grow up rich, but if I wanted something really bad my parents were like 'its a little expensive, but if you really really want it, we'll trry our best and see what we can do.'
 
