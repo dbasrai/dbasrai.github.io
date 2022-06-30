@@ -23,4 +23,12 @@ lucky duck bicycle cafe 8 pm
 
 7/27 - special
 
+8/10 - uncontrolled variables in madison
+
+8/11 - uncontrolled variables in chicago
+
+8/13 - asheville comed festival
+
+10/19 - alteraction comedy festival
+
 9/23-24 - Iowa, featuring for Jessica Misra
