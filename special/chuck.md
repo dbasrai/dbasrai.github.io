@@ -53,17 +53,14 @@ Because even back then, I was like hey buddy, you have made 0 tickets, I think y
  
 i was like i'll help you, I grabbed the game and started shaking it, he was like stop it that's market manipulation.
 
-i really think the purpose behind chuck-e-cheese is to make kids embrace capitalism. they walk into those gold and purple doors being like 'sharing is caring,' and 'if you can bring it for one person, bring it for everyone.' then that first time you exchange tickets you earned for a prize. these 8 year olds walk out flashing their new woopie cushion at homeless people being like 'look if you just worked hard and pulled yourself up by your boostrap.'
+i really think the purpose behind chuck-e-cheese is to make kids embrace capitalism. because something changes in your mind the first time you ever exchange your tickets for a prize, omething changes in your brain. you excahnge your hard-earned tickets for that woopie cushion, and your best friend is like can I see it. and you're like what do you wanna see it for. hey dont touch, hey man get your grubby little hands off my property.
 
-every part of chuck-e-cheese... indoctrinate you into capitalsim. there used to be an animatronic chuck-e-cheese you can push to say catchphrases... seventh or 8th presses.
+you enter chuck-e-cheese as a birght-eyed 7 year old being like sharing is caring, and you leave waving your woopie cushion at homeless people being like, you see what happens in this country when you work hard? but keep leeching off us hard-working americans.'
 
-even the prizses. whoopie cushion, rubber sticky hand, and whats that is that a copy of atlas shrugged.
+chuck-e-cheese is really there to make kids embrace capitalism. even the catchphrases of the animatronic animals were part of this. there used to be this button next to chuck-e-cheese you could press to make him say catchphrases. the first few times they're pretty normal. at first chuck-e-cheese goes everybody can be a winner, and save up for more and win bigger prizes.
 
-because Chuck-e-cheese was the first time in my life I couldn't afford something. Because I didn't grow up rich, but if I wanted something really bad my parents were like 'its a little expensive, but if you really really want it, we'll trry our best and see what we can do.'
+have you ever ever kept pressing it? chuck-e-cheese starts saying some pretty heinous shit. at press 6 he's like the insiible hand guides the free market. press 8 he's like wealth from the rich will trickle down to the poor. after 10 or more presses, he just starts saying trump 2024. you pull off the head off chuck-e-cheese, and you're like is that tucker carlsen under there. this whole time?
 
-But if you ever go up to the chuck-e-cheese prize counter with not enough tickets? They're not even close to that nice. They're like oh your 7 tickets short, well we don't do handouts here at chuck-e-cheese. This isn't the school fair, we don't do participation prizes here. 
-
-Oh.. the little snowflake is now crying?? Life isn't fair. This is god damn chuck-e-cheese, act like you've been here before. 
 
 chuck-e-cheese really teaches you about the true realities about capitalism. It taught me that there were things I can never afford. Like do you remember how much the prizes in the back costed? The Remote-control helicopter was 300,000 tickets. 
 
