@@ -2,7 +2,7 @@
 
 my parents are immigrants. but i was born here ______
 
-my parents were refugees, and they came to this country with nothing, but they did both find decent jobs, the things is that they were just constantly aware that at any point they might lose it all, like in their home county, and were deeply frugal.  
+my parents were refugees, and they came to this country with nothing, but I didn't grow up poor --- my parents found decent jobs. The thing is that they were just constantly aware that at any point they might lose it all, like in their home county, and were deeply frugal.  
 
 like,I remember when they would take me to chuck-e-cheese, they would always get the cheapest token package, which was 12 tokens, and then split it among me and my two siblings. So I would start at chuck-e-cheese with 4 tokens. And that's not enough tokens where a kid can be a kid. 4 tokens? that's where a kid can feel real poor... and again it was confusing because my parents had decent jobs, so the only time i felt like a broke children of refugees was at chuck-e-cheese. 
 
