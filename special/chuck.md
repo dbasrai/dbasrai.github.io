@@ -22,7 +22,7 @@ because on the ground the kids are like I've crunched the numbers, and this is t
 
 in the tubes the kids are like y'all wanna pretend to be rats?
 
-no child left behind? well let me tell you, they were all in the tubes. 
+no child left behind? if you've spent any times in the tubes, you'rll relaize oh there were a lot of children left behind. 
 
 and that was the worst part of running out of tokens, having to play with these godless kids. 
 
