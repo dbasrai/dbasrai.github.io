@@ -1,19 +1,17 @@
 
-# back on the west coast
- 
-6/29 - Reds - 9 PM 
+# bay area
 
-7/1-7/2 - Headlining comedy heights
-
-7/5 - comedy oscar 8 pm
+7/5 - tacos oscar 8 pm
 
 7/6 - jaxson 8 pm
 
-7/8 - comedy oakland
+7/8 - the washington inn 8 pm 
 
 7/9 - don't tell (fremont) 8 pm
 
 lucky duck bicycle cafe 8 pm
+
+# back to socal
 
 7/17 - Permanent Vacation (LA)
 
