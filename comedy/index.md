@@ -27,6 +27,12 @@ lucky duck bicycle cafe 8 pm
 
 8/13 - asheville comed festival
 
+9/2 - linoln lodge 8 pm
+
+9/3 - lincoln lodge 8 pm
+
+8/6 - chuc 9 pm
+
 10/19 - alteraction comedy festival
 
 9/23-24 - Iowa, featuring for Jessica Misra
