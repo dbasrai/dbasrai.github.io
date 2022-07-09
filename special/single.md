@@ -17,12 +17,6 @@ She would be like "i think we need to caucus with albania and ghana' and I'd be 
 do you guys rembmer who do you like?
 that was my go-to move in high school. I didn't have the courage to ask someone out, but I was willing to over the course of months get close to someone, eventually be alone with them, ask them who they like, and they would say someone else and I'd be devastated. but then I would repeat that 50 times a school year and that would be enough for me
 
-but that's how powerful my crushes were, i became secretary of model un just to be close to this lady. i'd record meeting minutes like 'the vice president called the meeting to order, in a delicate but firm voice. the next order of business was i think she looked at me. i think she took a glance.'
-
-that's how all high school cabinet positions were, just people joining because they had a thing for somebody in there. I became secretary to have a chance with the treasurer, who in turn was there to get in the pants of the vice president.
-
-i would love if the cabinet of the united states was like this? like pete buttigieg only became secretary of transportation because he had a thing for secretary of state anthony blinken, who in turn always was nurisng a crush on kamala. 
-
 There were perks to dating in high school where everyone knew everyone. l wish I dated when there were rumors about you. That's a high school specific thing, when there's rumors. If you're an adult, and there's a rumor about oyu... its bad. 
 In high school your crush's best friend would pull her aside and be like 'i think he has a thing for you.' nowadays her best friend will pul her aside and be like 'do you feel safe around him?
 
@@ -36,9 +30,30 @@ nowadays likes don't mean anything. The hallway Yu-Gi-Oh kids are getting 3 digi
 
 but a pure uncut 2012 like? no bots, no fashion rands, just people you respect? a like so good where you scroll through the list of people who like it and click on their profile, just to savor it?
 
-i really feel like I missed out on stuff because I didn't date in high school. I really think there is a charm to high school dates. The actual dates you go on in your 20s are very different than what you did in high school. Like my last date a couple weeks ago, this is what we did. We went to a cooking class, and then we went to a used bookstore and bought each other books.
+I wish I dated in high school. Because I'm 25 and single, and I feel like I'm not ready for these mid 20s dates. This is waht I did during a recent date. We went to a cooking class, and then went to go browse a used bookstore. 
 
 I never wanted this horeshit. 
+
+I still want a high school relatinoship, I don't want to date a high schooler, but I still want like high school dates. I don't want to split an uber and go wine tasting, I want to walk 40 minutes to the nearest in n out, buy a neopolitan shake and share a straw.
+
+And it just felt like dates were so much more genuine back in high school. because with a credit card and yelp you can pretend to be anyone. like when you're in your mid 20s, and at the end of a date in a dimly lit place, a dude pulls out his credit card and says he go this. that's not chivalry. that guy makes 6 figures coding an app that streamlinees indentured servitude, and his mom "helps out" a little bit. that $90 dollar check doesn't ean shit to him. Just cuz he itpped 20% doesn't mean he's a nice guy.
+
+He just read you're supposed to do that on wikihow one day. Later tha tnight when he goes home, he's going to oder a 48 dollar doorashdash order and tip $2. 
+
+But in high school, when you're on a date at the mall food court, and the dude says I got o tthis, and he pulls out $15 crumpled ones and $5 dollars in quarters? That guy went without eating lunch for a week to afford this meal at the mall. that's chivalry. that's love.
+
+I really believe there's some dating experiences you can only get in high school. handjobs
+
+4:30 pm at a suburban high school.
+
+you should date in high school. entry level relationships. add some ex's to the resume.
+
+graduation requirement. I think we would would be a much more empathetic and caring society if for one hour every day, we had to date another person. good-looking, not so good looking, same gender different gender, we would just be so much more open minded.
+
+We can get rid of PE. presidential fitness test.
+
+presidential dating test. Can you keep a conversation going for over 10 minutes. 
+
 
 i hate the used book store. i like books, but i just hate these soft-spoken motherfuckers who work there. 
 
