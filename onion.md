@@ -2,6 +2,8 @@ i'm a headline contributor for The Onion. here's a sample list of my published h
 
 *Headlines Only*
 
+[Visa Announces Cards Can Now Be Inserted, Swiped, Tapped, Bent, Clapped, Rolled, Shoved, Thrown, Dangled, Slid, Or Whacked](https://www.theonion.com/visa-announces-cards-can-now-be-inserted-swiped-tappe-1848955679)
+
 [World Chess Championship Forced To Use Salt Shaker After Losing Bishop](https://www.theonion.com/world-chess-championship-forced-to-use-salt-shaker-afte-1848105719)
 
 [Unclear What Strings Entrée Pulled To Nab Full-Page Picture On Menu](https://www.theonion.com/unclear-what-strings-entree-pulled-to-nab-full-page-pic-1847830028)
