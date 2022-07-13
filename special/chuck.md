@@ -22,33 +22,27 @@ because on the ground the kids are like I've crunched the numbers, and this is t
 
 in the tubes the kids are like y'all wanna pretend to be rats?
 
-on the ground the kids are counting cards on the ____ game, up in the tubes there's just a kid who's just posted up, blocking the tubes. Do y'all remember this tube-kid, you're like trying to get around him, and he's like first.... you must answer these three riddles.
+on the ground the kids are doing game theory, up in the tubes there's a kid who for no fathomable reason is just posted up, blocking the tubes. Did y'all have one of these bridge trolls in your local tubes? you're like trying to get around him, and he's like first.... you must answer these three riddles.
 
-I know some of you are thinking --- hey, I was a tubekid, I don't remember the tubes being that bad. and here's the difference --- what really matters is what time you enter the tubes. Because most kids have their birhtday parties, eventually run out of tokens, and then end up in the tubes in the late afternoon, towards 3pm to 4pm. 
+I know some of you are thinking --- I don't remember the tubes being that bad. But what matters is WHEN you enter the tubes.
 
-but have you ever been in the tubes... before lunch? that's when the most fucked up kids are in there. 
+because late in the afternoon, even the birthday party kids and the kids who got the deluxe token packages start running low on tokens, so by 3-4pm even the wealthy start entering the tubes.
 
-when you enter the tubes at 10:30 am, you don't see any kids playing. You just see a kid alone smoking a cigarette, just saying stuff like 'there's no second chances at chuck-e-cheese.'
+but have any of you ever been in the tubes... early in the day? if you've ever had to enter the tubes... before pizza... that's when the most fucked up kids imaginable are in the tbues.
 
-I once got mugged in the tubes. Some kid just pulled out one of those time crysis arcade guns, was like 'I'll do anything to get back down tot he ground floor, so we can do this the esay way or the hard way'
+you get in there at 10:30 am, there's no laughter or gmaes, its just a kid smoking cigarettes talking about how there's no second chances at chuck-e-cheese.
 
-no child left behind? if you've spent any times in the tubes, you'rll relaize oh there were a lot of children left behind. 
+i once got mugged in the tubes. I turned a corner, and a kid pulled out one of those time crisis arcade guns. he's like I'm getting out of these tubes, so we can do this the easy way or the hard way
 
-every kid in the tubes was weird as shit. I atually think the tubes are where weird kids are made. 
+at least at the front of the tubes, the kids still want to make it back down to the games. but if you ever start crawling and journeying deep, you start meeting hte kids who've embraced the tubes. 
 
-like the roller backpack kid or the kid who wheres a suit to class... he isn't born... one day he just emerges from the tubes. 
+like when you start going deep in the tubes, you start meeting these pan labyrinth kids who've adapted to the darkness. they've lost the use of their eyes, they have a little lightpole sticking out of their head.. 
 
-right nown there's like 8 kids who will naruto run just gestating in the tubes right now. one day they'll hatch and be unleashed on us all.
+and you keep crawling deeper, the tubes start getting a little darker, you start seeing tallymarks on the wall.
 
-the front of the tubes, the kids aren't so bad. as you first enter the tubes and start crawling in, you meet weird but harmless kids. you always pass the kid who's just posted up, blocking the tubes. and you're like can I get past you, and he's just like, first you must answer these three riddles.
+if you go deep enough you eventually start encountering former members of the chuck-e-cheese band? you pass a animantronic racooon, holding a tambourine, and he's just  muttering about revenge against the rat who took his place..
 
-you pass the kid who is for some reason missing his shoes. you pass the kid whos eating some mysterterious, unlabeled food. 
-
-but then you keep crawling, and you start further in the tubes. the tubes start getting a little darker, you start seeing tallymarks on the wall. like, has anyone else gone deep in the chuckecheese  tubes. that's when you you start encountering these pan's labrynth kids, you know these kids who've spent too long out of the light? they've lost the use of their eyes, they have a little light pole sticking out of their head.
-
-you crawl past these abombinations, you keep going, you pass aan abandoned pair of shoes, eventually if you keep going you start encountering former members of the chuck-e-cheese band? you pass a animantronic racooon, holding a tambourine, and he's just asking if you have any cigarretes.
-
-you keep crawling, you're nearing the end of your journey, the multicolored tubes becomes white PVC pipe, at this point you're not even in the chuck-e-cheese anymore, you're in the liquor store across the street.
+you keep crawling, you pass three dead kids, at this point you're not even in the chuck-e-cheese anymore, you're in the liquor store across the street.
 
 and then you see a light. and at the end of the tubes, there's a ballpit. and in that ballpit sits a kid... meditating. and as you approach, he opens his eyes and goes 'i've been waiting a long time for you, Diya.' And you get closer, you see an adams apple and defined cheekbones, you realize this isn't a child in here, this is a fucking 14 year old. And this teenager wisely strokes the peach fuzz and goes 'I first entered the tubes 7 years ago... and now you take my place.'
 
