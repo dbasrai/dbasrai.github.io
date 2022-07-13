@@ -22,9 +22,17 @@ because on the ground the kids are like I've crunched the numbers, and this is t
 
 in the tubes the kids are like y'all wanna pretend to be rats?
 
-no child left behind? if you've spent any times in the tubes, you'rll relaize oh there were a lot of children left behind. 
+on the ground the kids are counting cards on the ____ game, up in the tubes there's just a kid who's just posted up, blocking the tubes. Do y'all remember this tube-kid, you're like trying to get around him, and he's like first.... you must answer these three riddles.
 
-and that was the worst part of running out of tokens, having to play with these godless kids. 
+I know some of you are thinking --- hey, I was a tubekid, I don't remember the tubes being that bad. and here's the difference --- what really matters is what time you enter the tubes. Because most kids have their birhtday parties, eventually run out of tokens, and then end up in the tubes in the late afternoon, towards 3pm to 4pm. 
+
+but have you ever been in the tubes... before lunch? that's when the most fucked up kids are in there. 
+
+when you enter the tubes at 10:30 am, you don't see any kids playing. You just see a kid alone smoking a cigarette, just saying stuff like 'there's no second chances at chuck-e-cheese.'
+
+I once got mugged in the tubes. Some kid just pulled out one of those time crysis arcade guns, was like 'I'll do anything to get back down tot he ground floor, so we can do this the esay way or the hard way'
+
+no child left behind? if you've spent any times in the tubes, you'rll relaize oh there were a lot of children left behind. 
 
 every kid in the tubes was weird as shit. I atually think the tubes are where weird kids are made. 
 
