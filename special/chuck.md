@@ -22,23 +22,27 @@ because on the ground the kids are like I've crunched the numbers, and this is t
 
 in the tubes the kids are like y'all wanna pretend to be rats?
 
-on the ground the kids are doing game theory, up in the tubes there's a kid who for no fathomable reason is just posted up, blocking the tubes. Did y'all have one of these bridge trolls in your local tubes? you're like trying to get around him, and he's like first.... you must answer these three riddles.
+i grew up during no child left behind, and let me tell you, if you've ever been in the tubes there's been kids left behind.
 
-I know some of you are thinking --- I don't remember the tubes being that bad. But what matters is WHEN you enter the tubes.
+In the tubes in my chuck-e-cheese there was always just one kid just potsed up, blocking the tubes. Did y'all have one of these bridge trolls in your local tubes? you're like trying to get around him, and he's like first.... you must answer these three riddles.
 
-because late in the afternoon, even the birthday party kids and the kids who got the deluxe token packages start running low on tokens, so by 3-4pm even the wealthy start entering the tubes.
+I know some of you are thinking --- I don't remember the tubes being that bad, they were fun. But what you're missing is that it matters when you enter the chuck-e-cheese tubees.
 
-but have any of you ever been in the tubes... early in the day? if you've ever had to enter the tubes... before pizza... that's when the most fucked up kids imaginable are in the tbues.
+because late in the afternoon, thats when the well-off kids start head up to the tubes, around 3-4pm the kids whose parents own a pool, the kids whose parents got the deluxe birthday party package, they're up there gentrifying the tubes.
 
-you get in there at 10:30 am, there's no laughter or gmaes, its just a kid smoking cigarettes talking about how there's no second chances at chuck-e-cheese.
+but the true tubekids, we're the ones who've had to enter the tubes... early in the day. 
 
-i once got mugged in the tubes. I turned a corner, and a kid pulled out one of those time crisis arcade guns. he's like I'm getting out of these tubes, so we can do this the easy way or the hard way
+like have you ever had to enter the tubes... before pizza... that's when the most fucked up kids imaginable are in there.
+
+it was dangeorus in there.
+
+i once got mugged in the tubes. I turned a corner, and a kid pulled out one of those time crisis arcade guns. he's like I'm getting back down to the ground with my friends, so we can do this the easy way or the hard way
 
 at least at the front of the tubes, the kids still want to make it back down to the games. but if you ever start crawling and journeying deep, you start meeting hte kids who've embraced the tubes. 
 
-like when you start going deep in the tubes, you start meeting these pan labyrinth kids who've adapted to the darkness. they've lost the use of their eyes, they have a little lightpole sticking out of their head.. 
+like when you start going deep in the tubes, you start meeting these pan labyrinth kids who've adapted to the darkness. you can't even see them at first, you can only make them out by their purple glow-in-the-dark chuck-e-cheese handstamps. 
 
-and you keep crawling deeper, the tubes start getting a little darker, you start seeing tallymarks on the wall.
+i've gone even deeper in the tubes. you can keep crawling, the tubes start narrowing, you start seeing tallymarks on the wall.
 
 if you go deep enough you eventually start encountering former members of the chuck-e-cheese band? you pass a animantronic racooon, holding a tambourine, and he's just  muttering about revenge against the rat who took his place..
 
