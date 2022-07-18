@@ -8,8 +8,7 @@ like,I remember when they would take me to chuck-e-cheese, they would always get
 
 like at home i never heard my parents worrying about money, but at chuck-e-cheese I had to play a lot of dry air hockey
 
-my white friends moms would look so concerned at me on all fours picking up loose tickets off the floor, pushing the orange refund button just hopping something would come out.. 
-
+it is humiliating 
 when you don't have many tokens at chuck-e-cheese, you spend a lot of time playing in the tubes. 
 
 do you guys remember the chuck-e-cheese tubes?

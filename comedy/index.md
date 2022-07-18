@@ -1,16 +1,3 @@
-
-# bay area
-
-7/5 - tacos oscar 8 pm
-
-7/6 - jaxson 8 pm
-
-7/8 - the washington inn 8 pm 
-
-7/9 - don't tell (fremont) 8 pm
-
-lucky duck bicycle cafe 8 pm
-
 # back to socal
 
 7/17 - Permanent Vacation (LA)
@@ -31,8 +18,10 @@ lucky duck bicycle cafe 8 pm
 
 9/3 - lincoln lodge 8 pm
 
-8/6 - chuc 9 pm
+9/6 - chuc 9 pm
 
-10/19 - alteraction comedy festival
+9/16 - college gig with shaunk? need to drive
 
 9/23-24 - Iowa, featuring for Jessica Misra
+
+10/19 - alteraction comedy festival
