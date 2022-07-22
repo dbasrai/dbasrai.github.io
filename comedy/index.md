@@ -18,6 +18,8 @@
 
 9/3 - lincoln lodge 8 pm
 
+9/5 - glam slam @ cafe mustache 8 pm
+
 9/6 - chuc 9 pm
 
 9/16 - college gig with shaunk? need to drive

@@ -1,3 +1,9 @@
+white privilege start
+
+
+
+
+
 I'm working my first job and I don't make crazy money. I know that because I was on one of those like hourly wage to annual salary converters. And if you're ever on one of the converters, you're not making crazy money. no one's ever had to do their hourly wage times.
 
 40 times 52 and had six figures come out the end. That's never happened. Okay. Actually, my salary, it's mostly the fluorine, the 52 doing the heavy lifting. My salary is pretty close to 40 times 52. 
