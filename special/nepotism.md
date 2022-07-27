@@ -43,6 +43,8 @@ And I'm not necessarily saying we should kidnap preston. Legally, I'm not saying
 
 No need to keep him in a dungeon, just make him sleep on a twin size bed in a studio apartment without AC, and he'll be begging dad to rescue him.
 
+again, this is all hypothetical, and legally I'm not supporting abducting preston bezos. I am saying that you CAN order chloroform online. I've done it. I ordered it off amazon prime actually. 
+
 I will say, I don't think if you have rich parents, I don't think that makes you a bad person. Like, I don't think you should be ashamed if you're parents are rich.
 
 i just think you should have to disclose it. like when you walk into rooms and stuff. (likea  sex offender).
