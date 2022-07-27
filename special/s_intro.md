@@ -1,6 +1,8 @@
 hey, thanks for coming everyone.
 
-i'm so happy this is happening here at whistle stop bar. i used to live here in san diego, would see so many incredible shows here, i would see storytelling shows, live poetry, amazing music, and whistle stop always represented this artistic center for live performance here in san diego
+i'm so happy to be filming this here at Whistle Stop Bar. i used to live here in san diego, would see so many incredibleshows here, i would see storytelling shows, live poetry, great standup, and when I was thinking of where to film my first comedy special, Whistle Stop kept sticking out this really artsy, experimental spot for live performance.
+
+and so when I reached out asking if there was a free satuday in July I could potentailly film this here, Whistle Stop got back to me and was like, hey we're into this, but unfortunately on satudays... we do booty basement.
 
 and when I reached out to whistle stop, I gave a similar schpeal, talking about how it was always my dream to do it here at whistle stop if they ever had a free staurday.
 

@@ -16,9 +16,9 @@ And I never quite put the pieces togehter... on how he got that job.
 
 Same with my other buddy, got a presittigous media job right after graduating... his name is Travis Barstool Sports. (silver platter for this man).
 
-and im sick of it. im tired of some white guy telling me to work hard and trust the process, and it turns out his great grandfather invented shoelaces or sometihg.
+and i never realized how deeply important family connections are. like, i'll be watching a youtube video of guy telling me to work hard and trust the process, and it turns out his great grandfather invented shoelaces or sometihg.
 
-and i relly believe this is the quiet part of white privilege. the loud, headline-grabbing part is like a white criminal getting a light sentence, but the quiet part is the nepotism. like a video will go viral of a white guy calling the cops on a black person just wandering around, but i also want there to be a shaky video on twitter of a guy with the word Junior in his name filling out the legacy part of a college application.
+and i relly believe this is the quiet part of white privilege. the loud, headline-grabbing part is like a white guy murdering 8 people and getting a saturday school, but the quiet part is the nepotism. like a video will go viral of a white guy calling the cops on a black person just wandering around, but i also want there to be a shaky video on twitter of a guy with the word Junior in his name filling out the legacy part of a college application.
 
 and that's why if we want to go after rich people, we should start with the people who didn't even do anything to earn their money they just inherited it. 
 
@@ -31,9 +31,7 @@ Becaue every day, there are people outside Jeff's factories protesting working c
 
 But later that day, I DM preston. And remind him his parents got divorced. And once right after I did it, Jeff decided to raise the minimum wage.
 
-I really think that's how we get to billionaire's. Because if I tweet Elon Musk that he's a greedy twat, he'll never see it. But if I find one of his kid's snapchats and tell they they're a twat, they're going to see it, and then at dinner they're goig to be rude to dad. 
-
-if there's trickle down economics, I think there's also trickle up bullying. 
+like if Jeff's wealth isn't going to trickle down to the rest of us, then I think being mean to his kids will trickle up to him.  
 
 We need to go after billionaire's  kids. like we should take a page out of the book of all the band guys in every action film. They don't go after the main character, they go after the main character's firnds and family.
 
