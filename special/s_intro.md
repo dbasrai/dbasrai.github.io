@@ -1,15 +1,25 @@
-before I start, I do want to be briefly herafelt. and I can't have this on camera because it'll ruin my hard man image. if we want this on netflix, it has to be irreverent and boundaryless, can't be thanking people like a pussy. 
+hey, thanks for coming everyone.
 
-but i started standup here in san diego 7ish years ago, and i would go see a lot of shows here at whistle stop bar. it was always this artistic hub in san degio, there was storytelling shows here, there wwas live music, there was standup, and I always had this dream of filming a special here at whistlestop, so first of all thank you so so much for coming out and selling out both shows. especially thanks for coming out on a wednesday. I'll be honest, that part wasn't necessarily part of the dream. I didn't have a fridge magnet with the word 'wednesday' on the vision board. 
+i'm so happy this is happening here at whistle stop bar. i used to live here in san diego, would see so many incredible shows here, i would see storytelling shows, live poetry, amazing music, and whistle stop always represented this artistic center for live performance here in san diego
 
-what happened was that i reached out to whistle stop and gave a similar schpeal about it being the artistic hub of san diego and i would love to do something if there's a saturday in juyl open. and whistle stop was like, we're into this idea, but on saturdays we do booty basement. and we cant reschedule booty basement. 
+and when I reached out to whistle stop, I gave a similar schpeal, talking about how it was always my dream to do it here at whistle stop if they ever had a free staurday.
+
+and whistle stop wrote back saying 'hey we're ito this, but on saturdays, we do booty basemenet. and we can't reschedule booty basement
 
 if you don't know what booty basmenet is, its uh... not the storytelling show. 
 
 theres usually stories told about booty basement, but not the story telling shopw. 
 
-but here's the thing, they're right. and this is will be worse than booty basement. no matter how well it goes. like if my set goes perfect, you guys will have a worse time than the people at booty basement.
+but here's the thing, they're right. and this is will be worse than booty basement. and i'm not being self-deprecating. like if my set goes perfect, you guys will have a worse time than the people at booty basement.
 
 great stand-up is about equal in happiness to like a mediocre booty basement. 
 
+
 becuse today im filming my special, but at booty asement its everyone's specail. 
+
+and that's why i always laugh when either comics or comedy audiences take stand-up too seriously. because everyone here, we're all jsut the people not cool enough to be at booty basmene. i can spend years honing my craft, and i will still be less important than twerky thursdsays at a bar in pb.
+
+so thanks so much for coming out and selling out both shows on a wednesday here. i don't want to be too heartfelt on camera so I don't destroy my hardman image. look if we want this on netflix, this has to be irreverent and boudnaryless. but thank you guys so much, means the world to me. 
+
+ok y'all ready to do this?
+
