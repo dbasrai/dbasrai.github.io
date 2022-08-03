@@ -1,16 +1,8 @@
-# back to socal
-
-7/17 - Permanent Vacation (LA)
-
-7/22 - madhouse
-
-7/23 - madhouse
-
-7/27 - special
-
 8/10 - uncontrolled variables in madison
 
 8/11 - uncontrolled variables in chicago
+
+8/20 - paper machete @ green mill
 
 8/13 - asheville comed festival
 
