@@ -6,6 +6,8 @@
 
 8/13 - asheville comed festival
 
+8/27 - gift of gab @ lodge
+
 9/2 - linoln lodge 8 pm
 
 9/3 - lincoln lodge 8 pm
