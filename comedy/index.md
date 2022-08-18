@@ -21,3 +21,5 @@
 9/27 - CHUC @ Beat Kitchen, 9PM
 
 10/19 - alteraction comedy festival
+
+12/21 - josh ocean thomas shows at comedy store la jolla
