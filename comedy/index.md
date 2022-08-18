@@ -1,3 +1,5 @@
+8/19 - fundraiser show
+
 8/20 - paper machete @ green mill
 
 8/27 - gift of gab @ lodge
