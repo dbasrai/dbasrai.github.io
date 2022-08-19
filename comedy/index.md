@@ -2,6 +2,8 @@
 
 8/20 - Paper Machete @ The Green Miller, 3 PM
 
+8/21 - The Graveyarsd Shift @ DMen Tap, 8:30 PM
+
 8/27 - Gift of Gab @ The Lincoln Lodge, 9:30 PM
 
 9/1 - Go Long @ The Lincoln Lodge, 7:30 PM
