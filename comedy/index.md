@@ -1,24 +1,24 @@
-8/19 - fundraiser show
+8/19 - Stand-up 4 Mueze @ 6501 N Western, 7 PM
 
-8/20 - paper machete @ green mill
+8/20 - Paper Machete @ The Green Miller, 3 PM
 
-8/27 - gift of gab @ lodge
+8/27 - Gift of Gab @ The Lincoln Lodge, 9:30 PM
 
-9/1 - Go Long at Lincoln Lodge 7:30pm
+9/1 - Go Long @ The Lincoln Lodge, 7:30 PM
 
-9/2 - linoln lodge 8 pm
+9/2 - The Lincoln Lodge,  8 pm
 
-9/3 - lincoln lodge 8 pm
+9/3 - The Licoln nLodge, 8 PM
 
-9/5 - glam slam @ cafe mustache 8 pm
+9/5 - Glam Slam @ Cafe Mustache,  8 pm
 
-9/8 - uncontrolled variables @ the lincoln lodge, 7:30pm
+9/8 - Uncontrolled Variables @ The Lincoln Lodge, 7:30pm
 
 9/16 - college gig with shaunk? need to drive
 
-9/23-24 - Iowa, featuring for Jessica Misra
+9/23-24 - Joystick Bar (Iowa City), w/ Jessica Misra, 8 PM?
 
-9/27 - CHUC @ Beat Kitchen, 9PM
+9/27 - CHUC @ Beat Kitchen, 9 PM
 
 10/19 - alteraction comedy festival
 
