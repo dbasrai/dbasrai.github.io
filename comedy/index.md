@@ -12,6 +12,8 @@
 
 9/8 - uncontrolled variables @ the lincoln lodge, 7:30pm
 
+9/13 - super six @ zanies
+
 9/16 - college gig with shaunk? need to drive
 
 9/23-24 - Iowa, featuring for Jessica Misra
