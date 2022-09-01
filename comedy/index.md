@@ -18,9 +18,13 @@
 
 9/13 - super six @ zanies
 
+9/15 - sam and jonahs show @ The Lincoln Lodge, 9:15pm
+
 9/16 - college gig with shaunk? need to drive
 
 9/23-24 - Joystick Bar (Iowa City), w/ Jessica Misra, 8 PM?
+
+9/25 - cum crushes aliveone
 
 9/27 - CHUC @ Beat Kitchen, 9 PM
 
