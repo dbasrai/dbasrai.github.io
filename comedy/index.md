@@ -28,6 +28,10 @@
 
 9/27 - CHUC @ Beat Kitchen, 9 PM
 
+10/5 - Room13, 8PM
+
 10/19 - alteraction comedy festival
+
+11/11 - Redline VR, rosies show, 8PM?
 
 12/21 - josh ocean thomas shows at comedy store la jolla
