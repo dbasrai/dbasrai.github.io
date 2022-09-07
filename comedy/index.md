@@ -14,7 +14,7 @@
 
 9/5 - Glam Slam @ Cafe Mustache,  8 pm
 
-9/8 - Uncontrolled Variables @ The Lincoln Lodge, 7:30pm
+9/9 - 7:30pm, Limelight @ Lincoln Lodge 8PM
 
 9/13 - super six @ zanies
 
