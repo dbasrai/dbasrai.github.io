@@ -1,5 +1,7 @@
 9/15 - sam and jonahs show @ The Lincoln Lodge, 9:15pm
 
+9/19 - Discount Therapy @ Pearl's Southern Discount, 8PM
+
 9/16 - college gig with shaunk? need to drive
 
 9/23-24 - Joystick Bar (Iowa City), w/ Jessica Misra, 8 PM?
