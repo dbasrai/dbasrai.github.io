@@ -2,7 +2,9 @@
 
 9/25 - cum crushes aliveone
 
-9/27 - CHUC @ Beat Kitchen, 9 PM
+9/27 - Soho house 7PM.
+
+\ - CHUC @ Beat Kitchen, 9 PM
 
 10/1 - UChicago 7PM
 
