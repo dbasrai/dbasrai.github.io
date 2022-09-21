@@ -14,7 +14,9 @@
 
 10/13 - Uncontrolled Variables, 7:30pm
 
-10/19 - alteraction comedy festival
+10/22 - Prime Time @ Lincoln Lodge, 9PM
+
+11/5 - Prime Time @ Lincoln Lodge, 9PM
 
 11/11 - Redline VR, rosies show, 8PM?
 
