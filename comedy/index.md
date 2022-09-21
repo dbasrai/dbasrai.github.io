@@ -8,7 +8,11 @@
 
 10/5 - Room13, 8PM
 
+10/6 - COYS @ Uncharted Books, 7:30PM
+
 10/7 - Color Club, 7PM
+
+10/13 - Uncontrolled Variables, 7:30pm
 
 10/19 - alteraction comedy festival
 
