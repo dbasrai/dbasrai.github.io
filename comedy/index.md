@@ -12,7 +12,7 @@
 
 10/6 - COYS @ Uncharted Books, 7:30PM
 
-10/7 - Color Club, 7PM
+10/7 - Color Club, 8PM
 
 10/13 - Uncontrolled Variables, 7:30pm
 
