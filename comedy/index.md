@@ -14,6 +14,8 @@
 
 10/7 - Color Club, 8PM
 
+10/10 - lil guesty for Dauood @ The Hideout, 7:30pm
+
 10/13 - Uncontrolled Variables, 7:30pm
 
 10/22 - Adobo Comedy Hour @ some place, 7:30pm
