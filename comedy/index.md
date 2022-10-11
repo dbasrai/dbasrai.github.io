@@ -18,11 +18,13 @@
 
 10/13 - Uncontrolled Variables, 7:30pm
 
+10/21 - Stacy Cay show
+
 10/22 - Adobo Comedy Hour @ some place, 7:30pm
 
 Prime Time @ Lincoln Lodge, 9PM
 
-
+10/26 - Madison show
 
 11/5 - Prime Time @ Lincoln Lodge, 9PM
 
