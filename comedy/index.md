@@ -1,21 +1,3 @@
-9/23-24 - Joystick Bar (Iowa City), w/ Jessica Misra, 8 PM?
-
-9/25 - cum crushes aliveone
-
-9/27 - Soho house 7PM.
-
-\ - CHUC @ Beat Kitchen, 9 PM
-
-10/1 - UChicago 7PM
-
-10/5 - Room13, 8PM
-
-10/6 - COYS @ Uncharted Books, 7:30PM
-
-10/7 - Color Club, 8PM
-
-10/10 - lil guesty for Dauood @ The Hideout, 7:30pm
-
 10/13 - Uncontrolled Variables, 7:30pm
 
 10/20 - two weeks notice, 7pm
