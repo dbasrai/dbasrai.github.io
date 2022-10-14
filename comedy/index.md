@@ -10,6 +10,8 @@ Prime Time @ Lincoln Lodge, 9PM
 
 10/26 - Madison show
 
+10/29 - Prime Time @ Lincoln Lodge 9 PM
+
 11/5 - Prime Time @ Lincoln Lodge, 9PM
 
 11/11 - Redline VR, rosies show, 8PM?
