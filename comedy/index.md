@@ -1,5 +1,7 @@
 10/13 - Uncontrolled Variables, 7:30pm
 
+10/16 - Crushes @ AliveOne 8:30pm
+
 10/20 - two weeks notice, 7pm
 
 10/21 - Stacy Cay show
