@@ -14,6 +14,8 @@ Prime Time @ Lincoln Lodge, 9PM
 
 11/5 - Prime Time @ Lincoln Lodge, 9PM
 
+11/20 - Crushes! @ AliveOne, 8PM
+
 11/22 - Zanies Chicago, 8 PM
 
 12/11 - Words with Nerds @ Crucible in Madison, 8PM
