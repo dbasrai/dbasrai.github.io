@@ -18,6 +18,8 @@ Prime Time @ Lincoln Lodge, 9PM
 
 11/22 - Zanies Chicago, 8 PM
 
+11/30 - Brewing Up Laughs, 8PM??
+
 12/11 - Words with Nerds @ Crucible in Madison, 8PM
 
 12/21 - josh ocean thomas shows at comedy store la jolla
