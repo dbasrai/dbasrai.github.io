@@ -20,6 +20,8 @@ Prime Time @ Lincoln Lodge, 9PM
 
 11/30 - Brewing Up Laughs, 8PM??
 
-12/11 - Words with Nerds @ Crucible in Madison, 8PM
+12/7 - Storytelling for the Soul show
+
+12/9 - Rosie show @ Redline VR 8 PM
 
 12/21 - josh ocean thomas shows at comedy store la jolla
