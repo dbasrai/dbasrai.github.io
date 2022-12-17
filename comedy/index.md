@@ -1,27 +1,16 @@
-10/16 - Crushes @ AliveOne 8:30pm
+12/21 - La Jolla Comedy Store, 8PM 
 
-10/20 - Two Weeks Notice @ Lincoln Lodge, 7pm
+12/30 - Bad Bad Show (Orange County), 8PM
 
-10/21 - Spend the Night @ Lincoln Lodge, 10pm
+3/4 - Chill Murray in Woodstock, IL 8PM
 
-10/22 - Adobo Comedy Hour @ 5419 N Lincoln Ave, Chicago, IL 60625, 7:30pm
+Recurring:
 
-Prime Time @ Lincoln Lodge, 9PM
+Prime Time @ Lincoln Lodge, Saturdays 9PM: 1/7, 1/14, 2/25, 3/11, 3/18...
 
-10/26 - Camp Trippalindee (Madison, WI), 7PM
+Congrats on your Success @ Uncharted Books, every first Thursday @ 7:30pm: 1/05?, 2/2, 3/2
 
-10/29 - Prime Time @ Lincoln Lodge 9 PM
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 1/12, 2/9, 3/9...
 
-11/5 - Prime Time @ Lincoln Lodge, 9PM
 
-11/20 - Crushes! @ AliveOne, 8PM
 
-11/22 - Zanies Chicago, 8 PM
-
-11/30 - Brewing Up Laughs, 8PM??
-
-12/7 - Storytelling for the Soul show
-
-12/9 - Rosie show @ Redline VR 8 PM
-
-12/21 - josh ocean thomas shows at comedy store la jolla
