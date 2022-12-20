@@ -2,6 +2,8 @@
 
 12/30 - Bad Bad Show (Orange County), 8PM
 
+1/13 - Don't Tell Chicago, 8PM
+
 3/4 - Chill Murray in Woodstock, IL 8PM
 
 Recurring:
