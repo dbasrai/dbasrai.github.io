@@ -2,7 +2,13 @@
 
 12/30 - Bad Bad Show (Orange County), 8PM
 
-1/13 - Don't Tell Chicago, 8PM
+1/14 - Don't Tell Chicago, 8PM
+
+1/19 - Dumb and Drummer, 7:30pm
+
+2/1 - Laughs @ Atmosphere, 8pm
+
+2/3 - Words with nerds, 8pm (madison)
 
 3/4 - Chill Murray in Woodstock, IL 8PM
 
