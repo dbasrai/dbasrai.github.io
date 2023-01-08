@@ -4,7 +4,9 @@
 
 1/14 - Don't Tell Chicago, 8PM
 
-1/19 - Dumb and Drummer, 7:30pm
+1/19 - Dumb and Drummer @ Lincoln Lodge, 7:30pm
+
+1/22 - Sinister Six @ Lincoln Lodge,  7PM
 
 2/1 - Laughs @ Atmosphere, 8pm
 
