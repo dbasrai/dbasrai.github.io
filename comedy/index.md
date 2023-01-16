@@ -14,6 +14,8 @@
 
 3/4 - Chill Murray in Woodstock, IL 8PM
 
+3/22 - Humboldt Jungle, 8PM
+
 Recurring:
 
 Prime Time @ Lincoln Lodge, Saturdays 9PM: 1/21, 1/28, 2/25, 3/18, 3/25...
