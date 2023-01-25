@@ -20,9 +20,7 @@
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, Saturdays 9PM: 1/21, 1/28, 2/25, 3/18, 3/25...
-
-Congrats on your Success @ Uncharted Books, every first Thursday @ 7:30pm: 1/05?, 2/2, 3/2
+Prime Time @ Lincoln Lodge, Saturdays 9PM: 1/21, 1/28, 2/11, 2/25, 3/18, 3/25, 4/1, 4/15
 
 Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 1/12, 2/9, 3/9...
 
