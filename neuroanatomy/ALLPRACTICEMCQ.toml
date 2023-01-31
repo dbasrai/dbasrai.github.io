@@ -1,0 +1,2345 @@
+[lecture01]
+label = "#01 Neurons, Glia, Meninges, Brain"
+	[[lecture01.questions]]
+	question = "What do axon terminals and dendritic spines have in common?"
+	rightanswer = ["They form parts of synapses"]
+	wronganswer = ["They are found within the perikaryon of the neuron", "They are parts of glial cells, not neurons", "They are typically uniform in diameter along their length", "They contain the nucleus"]
+    hint = "Both are slender processes that extend from the neuron cell body"
+    explanation = """
+    An axon originates at the neuron cell body axon hillock and extends to other neurons. An axon terminates in branches that have presynaptic specializations which release neurotransmitter when an action potential is conducted to them. Often, many dendrites extend from the neuron cell body and branch widely to receive axon terminal neurotransmitter at their postsynaptic specializations, which contain receptors and channels that respond to the neurotransmitter release by an axon terminal.
+    """
+
+	[[lecture01.questions]]
+	question = "Which -polar classification best fits the sensory receptive neurons of the dorsal root ganglia?"
+	rightanswer = ["Pseudounipolar"]
+	wronganswer = ["Bipolar depression", "Multipolar", "Stellate-polar", "Pyramidal-polar"]
+    hint = "Dorsal root ganglion neurons have a central and peripheral process extending from a common brnch point"
+    explanation = """
+    A sbort, single axonal process extends from the dorsal root ganglion neuron, but it soon splits into two bipolar branches, one of which travels to the periphery to receive input, and the other of which travels centrally to carry action potential signals into the central nervous system.
+    """
+
+	[[lecture01.questions]]
+	question = "Which is most likely to be a projection neuron?"
+	rightanswer = ["A pyramidal neuron of cerebral cortex layer 5"]
+	wronganswer = ["A stellate neuron of cerebral cortex layer 4", "A neuron that releases the neurotransmitter GABA", "An astrocyte", "An oligodendrocyte"]
+    hint = "Projection neurons have long axons and predominate in certain cortical layers"
+    explanation = """
+    Long axon projection neurons in the cerebral neocortex are found mainly in layers 2, 3, 5, and 6. Short axon local neurons are found mainly in layers 2 and 4, though they occur in layers 2-6.
+    """
+
+	[[lecture01.questions]]
+	question = "Which glial cell type is most important for isolating neurons from blood-borne toxins?"
+	rightanswer = ["Astrocyte"]
+	wronganswer = ["Oligodendrocyte", "Schwann cell", "Microglial cell", "Pyramidal cell"]
+    hint = "Blood-brain isolation is one of several functions of this most populous glial cell type"
+    explanation = """
+    Astrocyte end feet surround blood vessels and contribute to the blood-brain barrier that is primarily made by the capillary endothelial cells. Astrocytes also participate in the glutamate shuttle neurotransmitter recycling system and have immune, structural, and other functions.
+    """
+
+	[[lecture01.questions]]
+	question = "Which meningeal tissue provides the toughest physical barrier to protect the brain?"
+	rightanswer = ["Dura Mater"]
+	wronganswer = ["Pia mater", "Astrocyte", "Arachnoid", "Area Postrema"]
+    hint = "The outer meningeal layer is the toughest"
+    explanation = """
+    The dura mater or hard mother meningeal layer is a thick, leathery bi-layer - it has periosteal and meningeal subdivisions - that provides the primary physical barrier for the brain.
+    """
+
+	[[lecture01.questions]]
+	question = "At which location is the blood brain barrier most easily penetrated?"
+	rightanswer = ["Area Postrema"]
+	wronganswer = ["Pia mater", "Astrocyte", "Dura Mater", "Arachnoid"]
+    hint = "A major function of leaky blood-brain barriers is to allow neurons to sense toxins in the blood"
+    explanation = """
+    The area posterma is one of the major circumventricular organs. It detects blood toxins such as excessive alcohol and initiates the emetic - vomiting - reflex via axonal projections to the dorsal motor nucleus of the vagus nerve.
+    """
+
+	[[lecture01.questions]]
+	question = "The coordinate direction anterior is the same as which other coordinate directions?"
+	rightanswer = ["Rostral in the cerebrum, ventral in the spinal cord"]
+	wronganswer = ["Posterior in the cerebrum, dorsal in the spinal cord", "Posterior in the cerebrum, ventral in the spinal cord", "Dorsal in the cerebrum, ventral in the spinal cord", "Caudal in the cerebrum, dorsal in the spinal cord"]
+    hint = "The dorsal-ventral coordinates bend along with the axis of the brain as it ascends from spinal cord to cerebrum"
+    explanation = """
+    In the cerebrum rostral=anterior, caudal=posterior, dorsal=superior, ventral=inferior. In the spinal cord rostral=superior, caudal=inferior, dorsal=posterior, ventral=anteior.
+    """
+
+	[[lecture01.questions]]
+	question = "Which glial cell type participates in the glutamate-glutamine cycle (or shuttle)?"
+	rightanswer = ["Astrocyte"]
+	wronganswer = ["Oligodendrocyte", "Schwann cell", "Microglial cell", "Satellite cell"]
+    hint = "The glial cell that takes part in the glutamine shuttle is a very populous one that has many functions"
+    explanation = """
+    Astrocytes participate in neurotransmitter recycling as well as blood-brain isolation, immune responses, structural integrity, and developmental migration.
+    """
+
+	[[lecture01.questions]]
+	question = "Which is most likely to be a local interneuron?"
+	rightanswer = ["A granule neuron of cerebral cortex layer 4"]
+	wronganswer = ["A pyramidal neuron of cerebral cortex layer 5", "A neuron that releases the neurotransmitter acetylcholine onto a muscle fiber", "An astrocyte", "An oligodendrocyte"]
+    hint = "Local interneurons are smaller neurons that have short axonal processes"
+    explanation = """
+    Local interneurons or Golgi type II neurons are ubiquitous. In the neocortex thay are found mainly in layers 2 and 4 and are generally stellate or granular in morphology. They contrast with projection neurons that are larger, have long axons, and are found largely in layers 3, 5, and 6.
+    """
+
+	[[lecture01.questions]]
+	question = "Where are the axons of Brodmann's area 4 giant Betz cells going?"
+	rightanswer = ["To the ventral horn of the spinal cord"]
+	wronganswer = ["To the lateral horn of the spinal cord", "To cranial nerve nuclei III through VI", "To the cerebral cortex", "To the hippocampus"]
+    hint = "Brodmann's area 4 is found just anterior to the central sulcus on the precentral gyrus"
+    explanation = """
+    Brodmann's are 4 is the primary motor cortex of the precentral gyrus of the frontal lobe. Its very thick layer 5 contains the upper motor neurons that project axons contralaterally to the lower motor neurons of the spianl cord ventral - anterior - horn. The largest of the upper motor neurons are the giant Betz cells, which can have cell bodies over 50 microns in diameter. They control mainly the contralateral leg.
+    """
+
+	[[lecture01.questions]]
+	question = "Which glial cell type is most important for myelinating central nervous system axons?"
+	rightanswer = ["Oligodendrocyte"]
+	wronganswer = ["Astrocyte", "Schwann cell", "Microglial cell", "Satellite cell"]
+    hint = "Different glial cell types myelinate central versus peripheral axons"
+    explanation = """
+    Oligodendrocytes are the glial cells that myelinate central axons. Each oligodendrocyte can myelinate segments of many axons, unlike the peripheral Schwann cells, each of which myelinates only one axonal segment.
+    """
+
+	[[lecture01.questions]]
+	question = "Which is most likely to send an axon to subcortical brain locations?"
+	rightanswer = ["A pyramidal neuron of cerebral cortex layer 5"]
+	wronganswer = ["A granule neuron of cerebral cortex layer 4", "A neuron that releases the neurotransmitter acetylcholine onto a muscle fiber", "An astrocyte", "An oligodendrocyte"]
+    hint = "Projection neurons are found in distinct neocortical layers"
+    explanation = """
+    Layer 5 can be called the major neocortical output layer. Many layer 5 neurons project to distant areas, including the superior colliculus, ventral pons, basal gaglia, limbic system, spinal cord, and other parts of the central nervous system.
+    """
+
+	[[lecture01.questions]]
+	question = "Where are the axons in the middle cerebellar peduncle going?"
+	rightanswer = ["To the cerebellum"]
+	wronganswer = ["To the lateral horn of the spinal cord", "To cranial nerve nuclei III through VI", "To the cerebral cortex", "To the internal capsule"]
+    hint = "The axons of the middle cerebellar peduncle are the transverse, crossing fibers of the ventral pons"
+    explanation = """
+    The middle cerebellar peduncle is the largest input to the cortico-cerebellum or cerebellar hemispheres. The middle cerebellar peduncle is axons of pontine nuclei neurons that relay information from layer 5 of neocortex, and is one of the largest pathways in the brain, copnsisting of perhaps 20 million axons.
+    """
+
+	[[lecture01.questions]]
+	question = "Disynaptic pathways?"
+	rightanswer = ["Have only a single set of interneurons between sensory and motor neurons"]
+	wronganswer = ["Would involve only sensory neurons and motor neurons, but do not exist in mammals", "Use only the neurotransmitter GABA", "Include the motor cortex and frontal and temporal language areas", "Were first shown by the demonstration of active brain areas by fMRI"]
+    hint = "Disynaptic pathways are the next step in complexity after the monosynaptic stretch reflex"
+    explanation = """
+    Only the stretch reflex, also called the knee-jerk reflex, myotatic reflex, deep tendon reflex, and monosynaptic reflex, has no necessary intervening neurons between sensory and motor neurons. Other reflexes such as the vestibulo-ocular and vestibulo-spinal reflexes may have only a single necessary interneuron between sensory and motor neuron, and these are called disynaptic reflexes.
+    """
+
+	[[lecture01.questions]]
+	question = "The thalamus has which major function?"
+	rightanswer = ["It relays inputs from many parts of the brain to the cerebral cortex"]
+	wronganswer = ["It inhibits the brain via the neurotransmitter GABA", "It is the primary output from the cerebral cortex", "It is the primary input to the cerebellum", "It is the primary input to the basal ganglia"]
+    hint = "The thalamus is the largest structure in the diencephalon, lying between the brainstem and cerebrum"
+    explanation = """
+    Almost all information that is sent to the cerebral neocortex must pass through a thalamic relay. Specific nuclei within the thalamus relay information from specific systems, for example the ventral posterior thalamic nuclei relay somatic sensations and the lateral and medial geniculate nuclei relay vision and hearing, respectively.
+    """
+
+	[[lecture01.questions]]
+	question = "Looping brain pathways likely serve what purpose(s)?"
+	rightanswer = ["Extension of motor commands and formation of memories"]
+	wronganswer = ["Prevention of negative and positive feedback", "Relaying to the cerebral cortex and bypassing the thalamus", "Interconnecting the basal ganglia and the cerebellum", "Monosynaptic reflexes"]
+    hint = "Major brain loops include the corticopontocerebellar, cortico-basal ganglia, and corticolimbic."
+    explanation = """
+    Each major brain loop consists of many parallel interconencted loops that run parallel to each other. Information may reverberate in a loop and move to different parallel pathways within it as motor ommands play out or other prolonged or elaborate brain functions take place.
+    """
+
+	[[lecture01.questions]]
+	question = "Which glial cell type is most important for myelinating peripheral nervous system axons?"
+	rightanswer = ["Schwann cell"]
+	wronganswer = ["Astrocyte", "Oligodendrocyte", "Microglial cell", "Satellite cell"]
+    hint = "Different glial cell types myelinate central versus peripheral axons"
+    explanation = """
+    Schwann cells are the most prominent of the peripheral glial cells. Each Schwann cell wraps many times around a single peripheral axon segment, insulating the axons so that action potentials are conducted roughly six times faster and at much lower metabolic cost. Demyelinating diseases are a major pathology of the nervous system, both peripherally and centrally.
+    """
+
+	[[lecture01.questions]]
+	question = "The vertebral arteries send blood directly into which artery or arteries?"
+	rightanswer = ["Basilar"]
+	wronganswer = ["Posterior cerebral", "Middle cerebral", "Anterior cerebral", "Carotid(s)"]
+    hint = "The vertebral arteries are the origin of the posterior cerebral circulation"
+    explanation = """
+    The posterior cerebral circulation begins with the two vertebral arteries ascending and joining to form the basilar artery at the base of the ventral surface of the pons.
+    """
+
+	[[lecture01.questions]]
+	question = "The carotid arteries send blood directly into which artery or arteries?"
+	rightanswer = ["Middle cerebral"]
+	wronganswer = ["Posterior cerebral", "Anterior communicating", "Basilar", "Carotid(s)"]
+    hint = "The carotid arteries are the origin of the anterior cerebral circulation"
+    explanation = """
+    The two internal carotid arteries are the origin of the anterior cerebral circulation. They ascend and branch at the circle of Willis at the base of the brain. Their largest extensions are the middle cerebral arteries, and they branch forward as the anterior cerebral arteries, which connect at the midline anterior communicating artery to complete the circle of Willis.
+    """
+
+	[[lecture01.questions]]
+	question = "What is the special role of capillary endothelial cells in the brain?"
+	rightanswer = ["Blood-brain barrier"]
+	wronganswer = ["Absence of blood-brain barrier", "Release of neuromodulators", "Location lateral to the sulcus limitans", "Retention of synaptic vesicles"]
+    hint = "Endothelial cells surround the capillaries"
+    explanation = """
+    Capillary endothelial cells over the body in general have fenestrae, pinocytosis, and loose junctions that allow substabces to escape. In the brain, capillary endothelial cells have tight junctions and very limited transport of substances. This is the major blood-brain barrier. Astrocytes also contribute to the blood-brain barrier.
+    """
+
+	[[lecture01.questions]]
+	question = "What is stained by the Golgi stain?"
+	rightanswer = ["a small percentage of neurons in their entirety"]
+	wronganswer = ["unmyelinated axons but not myelinated axons", "gray matter but not cell bodies or neuropil", "cell bodies of cells with unmyelinated but not myelinated axons", "both cell bodies and myelin"]
+    hint = "The Golgi stain was the main tool used by Cajal to trace the neurons and wiring of the brain"
+    explanation = """
+    By mechanisms still unclear, the Golgi silver stain darkens a select small percentage of neurons in their entirety, revealing the extent of all their processes so that their morphology and connections can be traced. If all neurons were stained, the tissue would be too completely dark to explore.
+    """
+
+	[[lecture01.questions]]
+	question = "Into which structure(s) does the metencephalon develop?"
+	rightanswer = ["Pons and cerebellum"]
+	wronganswer = ["Medulla", "midbrain", "Thalamus and hypothalamus", "Rhombencephalon"]
+    hint = "The metencephalon lies between myelencephalon and the mesencephalon during development"
+    explanation = """
+    Early in nervous system development, the proencephalon, mesencephalon, and rhombencephalon subdiuviude, with the rhombencephalon becoming the myelencephalon and metencephalon, which in turn develop repectively into the medulla and into the pons and cerebellum.
+    """
+
+[lecture02]
+label = "#02 Nerves and Spinal Cord"
+	[[lecture02.questions]]
+	question = "Which results from damage to the spinal cord ventral (anterior) commissure at lamina X?"
+	rightanswer = ["Bilateral loss of pain and temperature sense"]
+	wronganswer = ["Ipsilateral loss of touch, pressure, vibration, and proprioception", "Contralateral loss of touch, pressure, vibration, and proprioception", "Ipsilateral loss of pain and temperature sense", "Contralateral loss of pain and temperature sense"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "What is a spinal segment?"
+	rightanswer = ["A part of the spinal cord associated with a sensory and motor pair of nerves and related to a dermatome and myotome"]
+	wronganswer = ["The rostro caudal extension of gray matter tracts from coccygeal through cervical levels", "The nerve fiber link between the primary sensory or motor neuron in the ventral or dorsal horn and the secondary neuron of the same pathway", "A length of a dorsal root", "A length of a ventral root"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "A knife wound to the back has caused the loss of sensation in the right leg. Where did the knife most likely enter?"
+	rightanswer = ["The right lumbar spine"]
+	wronganswer = ["The left cervical spine", "The right cervical spine", "The left lumbar spine", "Into a ventral root"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "How do the smallest spinal axons differ from large ones?"
+	rightanswer = ["They are unmyelinated"]
+	wronganswer = ["They conduct more rapidly", "They leave the spinal cord via the ventral roots", "They enter the spinal cord more medially than large axons", "They carry transient signals rather than tonic ones"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Which is a characteristic of the entry of large sensory axons into the spinal cord?"
+	rightanswer = ["They enter the cord relatively dorsomedially and remain on the ipsilateral side"]
+	wronganswer = ["They enter the cord ventrally and cross to the contralateral side", "They enter the cord relatively dorsomedially and cross to the contralateral side", "They enter the cord relatively dorsolaterally and cross to the contralateral side", "They enter the cord relatively dorsolaterally and remain on the ipsilateral side"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "How does a spinal segment C7 compare to segment T5?"
+	rightanswer = ["C7 has large ventral horns, T5 has small ventral horns"]
+	wronganswer = ["C7 is nearer the caudal extreme of the spinal cord, T5 near the rostral junction with the medulla", "C7 lies in the cauda equina, T5 does not", "C7 innervates the leg, T5 the arm", "C7 has Clarke's Nucleus (Nucleus Dorsalis), T5 has an enlarged substantia gelatinosa"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Where is the propriospinal tract?"
+	rightanswer = ["in the spinal cord next to the gray matter"]
+	wronganswer = ["in the telencephalon beneath the cortex", "in the cerebellum", "in the spinal white matter running from the spinal cord to the cerebellum", "in a muscle nerve or mixed peripheral nerve"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "A syringomyelia, or central cord syndrome, presents which clinical picture?"
+	rightanswer = ["Bilateral loss of pain and temperature sense in a patch corresponding to the segments of the lesion"]
+	wronganswer = ["Unilateral, ipsilateral loss of proprioception, mechanoreception, and pain and temperature sense on the body corresponding to and below the segment of the lesion; flaccid paralysis over approximately the same extent", "Contralateral flaccid paralysis at and below the segment of the lesion", "Ipsilateral loss of proprioception and mechanoreception on the body corresponding to and below the segment of the lesion and less extensive contralateral loss of pain and temperature sense below the lesion", "Obstruction of CSF flow within the lateral ventricles"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Which is a characteristic of sensory axons of the dorsal column system?"
+	rightanswer = ["They are divided into medial (gracile) axons that represent the ipsilateral lower limb and lateral (cuneate) axons that represent the ipsilateral upper limb"]
+	wronganswer = ["They enter the cord ventrally and cross to the contralateral side", "They enter the cord relatively dorsolaterally and cross to the contralateral side", "They are divided into lateral (propriospinal) axons that represent the ipsilateral lower limb and medial (gelatinosa) axons that represent the contralateral upper limb", "They are among the smallest axons of the spinal cord"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "How do the functions or content of the spinal cord anterior commissure and spinal cord ventral commissure differ?"
+	rightanswer = ["They are the same commissure, which carries pain and temperature information"]
+	wronganswer = ["The anterior commissure contains sensory fibers; the ventral commissure contains motor fibers", "The anterior commissure contains motor fibers; the ventral commissure contains sensory fibers", "The anterior commissure contains proprioceptive and touch fibers; the ventral commissure contains motor fibers", "The anterior commissure contains proprioceptive and touch fibers; the ventral commissure contains pain and temperature fibers"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Which are C fibers?"
+	rightanswer = ["Unmyelinated pain and temperature afferents"]
+	wronganswer = ["Tendon organ afferents", "Myelinated pain and temperature afferents", "Autonomic nervous system preganglionic fibers", "Autonomic nervous system preganglionic fibers"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "How does spinal segment T5 compare to segment L5?"
+	rightanswer = ["L5 has large ventral horns, T5 has small ventral horns"]
+	wronganswer = ["L5 is near the rostral junction with the medulla, T5 is near the caudal extreme of the spinal cord", "L5 lies below the cauda equina, T5 does not", "T5 innervates the leg, L5 the arm", "L5 has Clarke's Nucleus (Nucleus Dorsalis), T5 has an enlarged substantia gelatinosa"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "What is the role of the propriospinal tract?"
+	rightanswer = ["complex reflexes"]
+	wronganswer = ["the monosynaptic reflex (myotatic or deep tendon reflex)", "synapses within the dorsal root ganglia", "cerebellar efferent copy signals", "cerebellar afferent signals"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Which capacity is most intact in the Brown-Sequard (or cord hemi section) syndrome?"
+	rightanswer = ["Ipsilateral pain and temperature sense"]
+	wronganswer = ["Ipsilateral mechanoreception and proprioception", "Contralateral pain and temperature sense", "Ipsilateral motor function at the segment of the lesion", "Ipsilateral motor function below the segment of the lesion"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "When a syringomyelia, or central cord syndrome lesion, expands beyond the ventral commissure, which function is generally lost first?"
+	rightanswer = ["Bilateral motor function at and below the segment of the lesion"]
+	wronganswer = ["Unilateral, ipsilateral proprioception and mechanoreception corresponding to and below the segment of the lesion", "Bilateral proprioception and mechanoreception corresponding to and below the segment of the lesion", "Unilateral, ipsilateral motor function at and below the segment of the lesion", "Unilateral, contralateral motor function at and below the segment of the lesion"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "What levels of the spinal cord contain the most spinal nerve segments?"
+	rightanswer = ["Thoracic"]
+	wronganswer = ["Cervical", "Lumbar", "Sacral", "Coccygeal"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "What is (are) the most notable exception(s) to the overall laterality of the spinal cord?"
+	rightanswer = ["Anterolateral system"]
+	wronganswer = ["Dorsal columns", "Lateral corticospinal tract", "Dorsal spinocerebellar tract", "Alpha motor neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "What explains the cauda equina?"
+	rightanswer = ["Length of the spine compared to the spinal cord"]
+	wronganswer = ["Trauma that affects the central spinal cord", "Unilateral spinal cord trauma", "Dorsal location of large sensory afferents vs ventral location of small afferents", "Sparse innervation of the lower body"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "Small afferent fibers enter the cord most 	near the 	?"
+	rightanswer = ["Laterally, substantia gelatinosa"]
+	wronganswer = ["Contralaterally, Rexed lamina IX", "Medially, spinocerebellar tracts", "Medially, Rexed lamina X", "Laterally, alpha motor neurons innervating the trunk"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "The smallest diameter axons carry which signals?"
+	rightanswer = ["Distressing painful sensations"]
+	wronganswer = ["Length of muscle spindles", "Intrafusal fiber contraction to desensitize spindles", "Proprioception", "Fast motor unit contraction"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture02.questions]]
+	question = "The A beta axons carry which signals?"
+	rightanswer = ["Touch, pressure, vibration"]
+	wronganswer = ["Distressing painful sensations", "Sharp, pricking painful sensations", "Temperature", "Proprioception"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture03]
+label = "#03 Brainstem"
+	[[lecture03.questions]]
+	question = "A patient with a Schwannoma in the cerebellopontine angle has problems with balance and hearing. What other problem is this patient most likely to have on the tumor side?"
+	rightanswer = ["Paralysis of the muscles of facial expression"]
+	wronganswer = ["Paralysis of the sternocleidomastoid and trapezius muscles", "Loss of sensation from the face", "Paralysis of the tongue", "Difficulty with eye movements"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Ipsilateral paralysis of all muscles of facial expression is a common complication of which?"
+	rightanswer = ["Acoustic neuroma in the cerebellopontine angle"]
+	wronganswer = ["Medial medullary syndrome", "Ventral syndrome of the midbrain", "Stroke in the posterior limb of the internal capsule", "Lateral medullary syndrome"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "A meningioma growing into and destroying the trigeminal tubercle (tuberculum cinereum) on the lateral surface of the medulla will cause loss of which?"
+	rightanswer = ["Pain and temperature from the ipsilateral face"]
+	wronganswer = ["Proprioception from the ipsilateral face", "Fine touch from the contralateral face", "Pain and temperature from the contralateral face", "Fine touch from the ipsilateral face"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Loss of pain and temperature from the ipsilateral side of the face can be caused by which?"
+	rightanswer = ["Damage to the trigeminal tubercle"]
+	wronganswer = ["Thalamic syndrome of Dejerine-Roussy", "Stroke in the posterior limb of the internal capsule", "Acoustic neuroma in the cerebellopontine angle", "Ventral syndrome of the midbrain"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "A lesion of the basal portion of the pons would affect which?"
+	rightanswer = ["corticopontine fibers"]
+	wronganswer = ["reticular formation", "medial lemniscus", "trigeminothalamic tract", "spinothalamic tract"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "A stroke in the tegmentum of the pons would affect which?"
+	rightanswer = ["Medial lemniscus"]
+	wronganswer = ["Corticospinal tract", "Pontocerebellar fibers", "Corticopontine fibers", "Corticobulbar tract"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which of the following is in the midbrain tegmentum?"
+	rightanswer = ["red nucleus"]
+	wronganswer = ["superior colliculus", "periaqueductal gray", "substantia nigra", "corticospinal tract"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which of the following is found immediately ventral to (abutting) the midbrain tegmentum?"
+	rightanswer = ["Substantia nigra"]
+	wronganswer = ["Periaqueductal gray", "Red nucleus", "Inferior brachium", "Medial lemniscus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "The open portion of the medulla contains which?"
+	rightanswer = ["Caudal half of the fourth ventricle"]
+	wronganswer = ["Pyramidal decussation", "Superior brachium", "Inferior brachium", "Rostral half of the fourth ventricle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "The closed portion of the medulla contains which?"
+	rightanswer = ["Continuation of the central canal"]
+	wronganswer = ["Superior brachium", "Inferior brachium", "Caudal half of the fourth ventricle", "Rostral half of the fourth ventricle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which is adjacent to the ventral median fissure of the medulla?"
+	rightanswer = ["Corticospinal tract"]
+	wronganswer = ["Superior brachium", "Inferior brachium", "Obex of the fourth ventricle", "Cuneate tubercle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which interrupts the ventral median fissure at the spinomedullary junction?"
+	rightanswer = ["Pyramidal decussation"]
+	wronganswer = ["Superior brachium", "Inferior brachium", "Caudal half of the fourth ventricle", "Rostral half of the fourth ventricle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "The lateral reticular area of the medulla contains neurons with which function?"
+	rightanswer = ["Coordination of cranial nerve reflexes"]
+	wronganswer = ["Production of serotonin", "Production of norepinephrine", "Generating error signals sent to the cerebellum", "Regulating burst mode of thalamocortical neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which is the most complete and correct list of the longitudinal (rostrocaudal) fibers of the basal pons?"
+	rightanswer = ["Corticobulbar axons, corticospinal axons, corticopontine axons"]
+	wronganswer = ["Corticopontine axons, inferior cerebellar peduncle axons, middle cerebellar peduncle axons", "Corticomesencephalic axons, corticopontine axons, medial lemniscus axons", "Corticopontine axons, corticobulbar axons, middle cerebellar peduncle axons", "Middle cerebellar peduncle axons, corticobulbar axons, medial lemniscus axons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which are axons of the superior brachium?"
+	rightanswer = ["Retinal axons projecting to the tectum"]
+	wronganswer = ["Lateral Geniculate Nucleus axons projecting to the tectum", "Tectal axons projecting to the Lateral Geniculate Nucleus", "Superior olivary axons projecting to the inferior colliculus", "Olivocerebellar axons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which neurons are in the mesencephalic nucleus of the trigeminal nerve?"
+	rightanswer = ["First order unipolar proprioceptive neurons"]
+	wronganswer = ["Second order pain and temperature neurons", "First order pain and temperature neurons", "Second order proprioceptive neurons", "Trigeminothalamic neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which axons comprise the crus cerebri?"
+	rightanswer = ["Corticospinal, corticobulbar, corticopontine"]
+	wronganswer = ["Corticospinal, frontopontine, temporopontine", "Frontopontine, temporopontine, parietopontine, occipitopontine", "Corticospinal, pyramidal, corticobulbar", "Corticospinal, pontocerebellar"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "What is the destination of trigeminothalamic fibers?"
+	rightanswer = ["Ventral posteromedial nucleus"]
+	wronganswer = ["Ventral posterolateral nucleus", "Supraoptic nucleus", "Facial nucleus", "Chief (or main, or principal) sensory nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which is the path of olivocerebellar axons?"
+	rightanswer = ["Contralateral projection via the inferior cerebellar peduncle"]
+	wronganswer = ["Contralateral projection via the superior cerebellar peduncle", "Ipsilateral projection via the inferior cerebellar peduncle", "Ipsilateral projection via the superior cerebellar peduncle", "Contralateral projection via the middle cerebellar peduncle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "Which two structures are found in the lateral area of the medulla between the ventrolateral and dorsolateral sulci?"
+	rightanswer = ["Olive and trigeminal tubercle"]
+	wronganswer = ["Gracile and cuneate tubercle", "Inferior and middle cerebellar peduncle", "Left and right corticospinal tracts", "Gracile tubercle and spinal nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture03.questions]]
+	question = "What is the destination of trigeminal lemniscus?"
+	rightanswer = ["Ventral posteromedial nucleus"]
+	wronganswer = ["Ventral posterolateral nucleus", "Supraoptic nucleus", "Facial nucleus", "Chief (or main, or principal) sensory nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture04]
+label = "#04 Cranial Nerves"
+	[[lecture04.questions]]
+	question = "A 65 year old man presents with a history of progressive weakness of the muscles of mastication, some difficulty in swallowing accompanied by rather raspy speech, difficulty in speaking and weakness of facial expression. What cranial nerve cell column is he suffering from lesions to?"
+	rightanswer = ["Branchial motor"]
+	wronganswer = ["Somatic sensory", "Parasympathetic", "Somatic motor", "Special sensory"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "A 65 year old man has been experiencing progressive weakness of movements of the eyes and tongue. What cranial nerve cell column is he suffering from strokes to?"
+	rightanswer = ["Somatic motor"]
+	wronganswer = ["Branchial motor", "Somatic sensory", "Parasympathetic", "Special sensory"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "An upper motor neuron (supranuclear) lesion of the facial nerve is produced by interrupting the corticobulbar fibers to the facial motor nucleus. Such a lesion on the left side of the brain will produce which?"
+	rightanswer = ["Only paralysis of the right lower face"]
+	wronganswer = ["Complete paralysis of the left side of the face", "Complete paralysis of the right side of the face", "Only paralysis of the left lower face", "No paralysis at all because the corticobulbar fibers are crossed and uncrossed"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "A stroke of the right corticobulbar tract in the genu of the internal capsule will result in which?"
+	rightanswer = ["Only paralysis of the left lower face"]
+	wronganswer = ["No paralysis because the left corticobulbar fibers end bilaterally in motor nuclei of the brainstem", "Complete paralysis of the right side of the face", "Only paralysis of the right lower face", "Complete paralysis of the right side of the face"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "A patient is diagnosed with a right medial medullary syndrome. What cranial nerve signs would you expect to see in this patient?"
+	rightanswer = ["Right tongue atrophy"]
+	wronganswer = ["Right facial paralysis", "Left tongue atrophy", "Left facial paralysis", "Left lower facial paralysis"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "A research subject is suspected of having a stroke. When he is asked to protrude his tongue, it deviates to the left. Where is the stroke?"
+	rightanswer = ["Left medial medullary syndrome"]
+	wronganswer = ["Left lateral medullary syndrome", "Right medial medullary syndrome", "Left genu of the internal capsule", "Right lateral medullary syndrome"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "To which cranial nerve component (column) do axons conveying hearing and balance belong?"
+	rightanswer = ["Special somatic sensory"]
+	wronganswer = ["Special visceral sensory", "Somatic sensory", "Visceral sensory", "Branchial sensory"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "To which cranial nerve component (column) do axons of the trochlear nerve belong?"
+	rightanswer = ["Somatic motor"]
+	wronganswer = ["Special visceral motor", "Visceral motor", "Branchial sensory", "Branchial motor"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which is the cranial nerve component (column) of the hypoglossal nerve?"
+	rightanswer = ["Somatic motor"]
+	wronganswer = ["Special motor", "Somatic sensory", "Visceral motor", "Branchial motor"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which cranial nerves carry special visceral sensory fibers?"
+	rightanswer = ["Olfactory, facial, glossopharyngeal, vagus"]
+	wronganswer = ["Optic, vestibulocochlear", "Oculomotor, trochlear, abducens", "Glossopharyngeal, vagus, accessory, hypoglossal", "Glossopharyngeal, vagus, hypoglossal"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Where are the cell bodies of third order neurons of cranial nerves?"
+	rightanswer = ["Thalamus"]
+	wronganswer = ["Cranial nerve sensory nuclei", "Cranial nerve motor nuclei", "Sensory ganglia", "Infranuclear"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which is clinically the most obvious exception to the bilateral projection of cranial nerve upper motor neurons?"
+	rightanswer = ["Facial nerve"]
+	wronganswer = ["Hypoglossal nerve", "Trigeminal nerve", "Ambiguus nerve", "Mesencephalic nerve"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "What does the sulcus limitans divide?"
+	rightanswer = ["Sensory from motor nuclei"]
+	wronganswer = ["Spinal cord from medulla", "Somatic from branchial nuclei", "Visceral from branchial nuclei", "Open from closed medulla"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "An occlusion of the posterior inferior cerebellar artery likely causes which brainstem-related deficit?"
+	rightanswer = ["Contralateral loss of body pain and temperature sense"]
+	wronganswer = ["Contralateral facial paralysis", "Contralateral Horner's syndrome with miosis and ptosis", "Contralateral facial paralysis of lower face only", "Ipsilateral body paralysis"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Taste fibers that travel in the facial, glossopharyngeal, and vagus nerves project to which brainstem area?"
+	rightanswer = ["Rostral solitary nucleus"]
+	wronganswer = ["Caudal solitary nucleus", "Chief (or main, or principal) sensory nucleus", "Olfactory tubercle", "Anterior perforated substance"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which is caused by brainstem damage due to occlusion of a branch of the posterior cerebral artery, in addition to ipsilateral oculomotor (III) nerve palsy?"
+	rightanswer = ["Contralateral hemiparesis"]
+	wronganswer = ["Ipsilateral hemiparesis", "Ipsilateral hypoglossal nerve palsy", "Contralateral Horner's syndrome with miosis and ptosis", "Contralateral sympathetic autonomic deficits"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which syndrome includes ipsilateral loss of the gag reflex?"
+	rightanswer = ["Lateral medullary"]
+	wronganswer = ["Ventral midbrain", "Dorsal midbrain", "Medial medullary", "Medial midbrain"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which deficits will result from a stroke in the internal capsule that spares only the anterior limb?"
+	rightanswer = ["Contralateral hemiparesis and contralateral lower facial paralysis"]
+	wronganswer = ["Ipsilateral hemiparesis without facial paralysis", "Cognitive deficits and emotional lability", "Anterograde amnesia and emotional lability", "No clinically deficits upon routine testing"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Which is a list of only parasympathetic visceral motor nuclei?"
+	rightanswer = ["Edinger-Westphal, inferior and superior salivatory, dorsal motor nucleus of vagus"]
+	wronganswer = ["Trochlear, Horner's, superior and inferior salivatory", "Trochlear, Intermediolateral cell column", "Intermediolateral cell column, Edinger-Westphal, inferior salivatory", "Intermediolateral cell column, Edinger-Westphal, superior salivatory"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Where are corticobulbar axons located?"
+	rightanswer = ["Genu of internal capsule"]
+	wronganswer = ["Medial corticospinal tract", "Lateral corticospinal tract", "Posterior limb of internal capsule", "Anterior limb of internal capsule"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture04.questions]]
+	question = "Where are the special sensory cranial nerve nuclei located?"
+	rightanswer = ["Caudal pons and rostral medulla"]
+	wronganswer = ["Caudal diencephalon and rostral midbrain", "Midbrain tectum", "Caudal midbrain and rostral pons", "Caudal medulla and rostral spinal cord"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture05]
+label = "#05 Diencephalon"
+	[[lecture05.questions]]
+	question = "The sensory relay nuclei of the thalamus that project to primary sensory areas of the cortex are which?"
+	rightanswer = ["Ventral posterolateral, ventral posteromedial, medial geniculate, and lateral geniculate"]
+	wronganswer = ["Dorsomedial, lateral posterior, and pulvinar", "Ventral anterior and ventral lateral", "Reticular, intralaminar, and midline", "Anterior and lateral dorsal"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "The ventral posterolateral, ventral posteromedial, medial geniculate, and lateral geniculate nuclei of the thalamus are characterized by which?"
+	rightanswer = ["Specific inputs and projecting to sensory areas of cortex"]
+	wronganswer = ["Specific inputs and projecting to motor areas of cortex", "Switching thalamocortical neurons between tonic and burst modes", "Integrating different cortical areas", "Specific inputs and projecting to limbic areas of cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "A lesion restricted to the ventral posterolateral (VPL) thalamic nucleus results initially in loss of sensation from which?"
+	rightanswer = ["Contralateral half of the body"]
+	wronganswer = ["Contralateral half of the head and body", "Ipsilateral half of the body", "Ipsilateral half of the head and body", "Contralateral half of the head"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "The thalamic syndrome of Dejerine-Roussy (lesion destroying the Ventral Posterior Nucleus of thalamus) results initially in loss of sensation from which?"
+	rightanswer = ["Contralateral half of the head and body"]
+	wronganswer = ["Ipsilateral half of the head and body", "Contralateral half of the body only", "Ipsilateral half of the head only", "Ipsilateral half of the body only"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which of the following describes the organization of the hypothalamus?"
+	rightanswer = ["It is divided from medial to lateral into periventricular, medial, and lateral zones"]
+	wronganswer = ["The lateral group of nuclei is divided into dorsal and ventral tiers", "It contains the subthalamic nucleus", "It consists of the habenular nuclei and pineal gland", "It is divided into lateral, medial, and anterior nuclei by the internal medullary lamina"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which of the following describes a feature of the organization of the hypothalamus?"
+	rightanswer = ["It is divided from front to back into four regions of nuclei: preoptic, anterior, middle, and posterior"]
+	wronganswer = ["It contains the subthalamic nucleus", "It is divided into lateral, medial, and anterior nuclei by the internal medullary lamina", "The lateral group of nuclei is divided into dorsal and ventral tiers", "It contains the pineal gland"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which describes the ventromedial and lateral nuclei of the hypothalamus?"
+	rightanswer = ["Are responsible for the regulation of eating behavior"]
+	wronganswer = ["Control the wake-sleep cycle", "Receive their principal input from the postcommissural fibers of the fornix", "Control water balance", "Contain neurons that respond to an increase in blood temperature"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which structures comprise the epithalamus?"
+	rightanswer = ["Habenula, pineal gland"]
+	wronganswer = ["Suprachiasmatic nucleus, medial geniculate nucleus, lateral geniculate nucleus", "Suprachiasmatic nucleus, pineal gland", "Ventral posteromedial nucleus, ventral posterolateral nucleus", "Septal nuclei, stria medullaris thalami"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which of the thalamic nuclear groups is related to prefrontal association cortex?"
+	rightanswer = ["Medial"]
+	wronganswer = ["Anterior", "Lateral", "Preoptic", "Supraoptic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Where is the reticular nucleus of the thalamus?"
+	rightanswer = ["Overlying the external medullary lamina on the lateral surface of the thalamus"]
+	wronganswer = ["In the brainstem tegmentum from medulla to midbrain", "Within the internal medullary lamina of the thalamus", "Spread diffusely throughout the thalamus", "In the central core region of the specific thalamic relay nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "What is the function of the intralaminar thalamic nuclei?"
+	rightanswer = ["Increasing arousal"]
+	wronganswer = ["Corticolimbic relay", "Motor relay", "Association relay", "Corticothalamic relay"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which is a major nucleus of the subthalamus?"
+	rightanswer = ["Subthalamic nucleus"]
+	wronganswer = ["Tuber cinereum", "Adenohypophysis", "Pineal gland", "Suprachiasmatic nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "The suprachiasmatic nucleus influences which diencephalic structure?"
+	rightanswer = ["Pineal gland"]
+	wronganswer = ["Habenula", "Substantia nigra pars compacta", "Djerine-Roussy", "Lateral geniculate nucleus (LGN)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Where is the massa intermedia?"
+	rightanswer = ["Between the left and right thalamus"]
+	wronganswer = ["Between the diencephalon and mesencephalon", "Adjacent to the intralaminar nuclei", "Adjacent to the reticular nucleus", "Under the cerebral aqueduct"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Thalamic syndrome includes emotional instability, dysesthesia, and what else?"
+	rightanswer = ["Intractable pain"]
+	wronganswer = ["Anterograde amnesia", "Retrograde amnesia", "Ipsilateral sensory loss in the body and usually the head", "Bilateral loss of pain and temperature sensitivity"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Extending from the ventral surface of the hypothalamus is the tuber cinereum and what?"
+	rightanswer = ["Neurohypophysis"]
+	wronganswer = ["Anterior pituitary", "Massa intermedia", "Tuberomammillary nucleus", "Reticular nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "The fornix passes through the hypothalamus to synapse where?"
+	rightanswer = ["Mammillary body"]
+	wronganswer = ["Amygdala", "Cingulate gyrus", "Anterior nucleus of the thalamus", "Medial dorsal nucleus (dorsomedial nucleus) of the thalamus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "According to the review article by Janig et al. 2006, what is the proposed order of the four medial to lateral functional zones of the hypothalamus?"
+	rightanswer = ["Neuroendocrine, circadian, visceral motor, behavioral control"]
+	wronganswer = ["Appetitive, thermoregulatory, osmotic regulatory, reproductive", "Medial, intermediate, tuberomammillary, lateral", "Periventricular, intermediate, tuberomammillary, lateral", "Periventricular, medial, tuberomammillary, lateral"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Destruction of which hypothalamic nucleus most directly disrupts sleep cycles?"
+	rightanswer = ["Suprachiasmatic"]
+	wronganswer = ["Supraoptic", "Reticular", "Tuberomammillary", "Subthalamic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which hypothalamic structure provides a major input to the anterior thalamic nucleus?"
+	rightanswer = ["Mammillary body"]
+	wronganswer = ["Anterior", "Tuberomammillary", "Interthalamic adhesion", "Massa intermedia"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which of the thalamic nuclear groups is related to cingulate cortex?"
+	rightanswer = ["Anterior"]
+	wronganswer = ["Medial", "Lateral", "Preoptic", "Supraoptic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture05.questions]]
+	question = "Which hypothalamic region facilitates body heat conservation?"
+	rightanswer = ["Posterior"]
+	wronganswer = ["Tuberomammillary", "Supraoptic", "Ventromedial", "Lateral"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture06]
+label = "#06 Neuromodulatory Systems"
+	[[lecture06.questions]]
+	question = "Where is the locus coeruleus located?"
+	rightanswer = ["Dorsal pons"]
+	wronganswer = ["Dorsal medulla", "Dorsal midbrain", "Ventral medulla", "Ventral pons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which enzyme is required for production of norepinephrine but not dopamine?"
+	rightanswer = ["Dopamine beta hydroxylase"]
+	wronganswer = ["Tyrosine hydroxylase", "Dopa decarboxylase", "Tryptophan hydroxylase", "5-HTP decarboxylase"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which neuromodulator is most directly associated with reward prediction?"
+	rightanswer = ["Dopamine"]
+	wronganswer = ["Acetylcholine", "Norepinephrine", "Serotonin", "Substance P"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which neuromodulator is found in the pedunculopontine and laterodorsal tegmental nuclei of the pons?"
+	rightanswer = ["Acetylcholine"]
+	wronganswer = ["Galanin", "Muscarine", "Histamine", "Gamma Amino Butyric Acid (GABA)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which is a prominent inhibitory peptide neuromodulator?"
+	rightanswer = ["Galanin"]
+	wronganswer = ["Acetylcholine", "Muscarine", "Histamine", "Gamma Amino Butyric Acid (GABA)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Where are the cell bodies of noradrenergic (norepinephrinergic) neurons?"
+	rightanswer = ["Locus coeruleus"]
+	wronganswer = ["Substantia nigra (SNc)", "Tuberomammillary nucleus", "Raphe nuclei", "Basal forebrain"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Where are the cell bodies of dopaminergic neurons?"
+	rightanswer = ["Substantia nigra (SNc)"]
+	wronganswer = ["Locus coeruleus", "Tuberomammillary nucleus", "Raphe nuclei", "Basal forebrain"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Where are the cell bodies of cholinergic neuromodulatory neurons?"
+	rightanswer = ["Basal forebrain"]
+	wronganswer = ["Substantia nigra (SNc)", "Locus coeruleus", "Tuberomammillary nucleus", "Raphe nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What disease is believed to result from loss of cell bodies of cholinergic neuromodulatory neurons?"
+	rightanswer = ["Alzheimer's"]
+	wronganswer = ["Parkinson's", "Huntington's", "Pick's", "Hemiballismus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What is the most universal aspect of a neuromodulator's action?"
+	rightanswer = ["It is G protein coupled"]
+	wronganswer = ["It has rapid onset", "It has rapid termination", "It has precisely placed synapses", "It originates from billions of widely dispersed cell bodies"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which correctly matches a neuromodulator with its principal nucleus of origin?"
+	rightanswer = ["Serotonin, Raphe nuclei"]
+	wronganswer = ["Acetylcholine, Hypothalamus", "Serotonin, Hypothalamus", "Histamine, Locus Coeruleus", "Dopamine, Hypothalamus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which is a common feature of the initial synthetic step for Dopamine and Serotonin?"
+	rightanswer = ["Hydroxylase enzyme"]
+	wronganswer = ["Tyrosine amino acid", "Tryptophan amino acid", "Monoamine oxidase", "5-HTP"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which is a feature of direct ion channel neurotransmission that is not shared by neuromodulators?"
+	rightanswer = ["Rapid and discrete action"]
+	wronganswer = ["Amplification of effects by enzymes that convert multiple molecules", "Wide variety of potential ultimate effects", "Phosphorylation of membrane proteins", "Control of overall neuronal excitability"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Cocaine and amphetamines share which neuromodulatory action?"
+	rightanswer = ["Increase of the duration and spatial extent of dopamine action"]
+	wronganswer = ["Reduction of the duration and spatial extent of dopamine action", "Increasing the activity of the dopamine transporter", "Increasing the activity of the serotonin transporter", "Reduction of symptoms of schizophrenia"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which is a second location of the cell bodies of dopaminergic neurons?"
+	rightanswer = ["Ventral tegmental area (VTA)"]
+	wronganswer = ["Substantia nigra pars reticulata (SNr)", "Striatum", "Horizontal limb of the diagonal band of Broca (HDB)", "Nucleus basalis of Meynert"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What disorder results from loss of the subthalamic nucleus?"
+	rightanswer = ["Hemiballismus"]
+	wronganswer = ["Parkinson's", "Huntington's", "Alzheimer's", "Pick's"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What disease progresses from loss of the D2 striatal neurons?"
+	rightanswer = ["Huntington's"]
+	wronganswer = ["Parkinson's", "Alzheimer's", "Pick's", "Hemiballismus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What disease results from loss of substantia nigra (SNc) neurons?"
+	rightanswer = ["Parkinson's"]
+	wronganswer = ["Huntington's", "Alzheimer's", "Pick's", "Hemiballismus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Where are the raphe nuclei located?"
+	rightanswer = ["Brainstem midline"]
+	wronganswer = ["Dorsolateral pontine tegmentum", "Midbrain (mesencephalon)", "Basal forebrain", "Hypothalamus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "What is the effect of blocking DAT or NET (SLC6A2)?"
+	rightanswer = ["Increased catecholamine levels"]
+	wronganswer = ["Decreased catecholamine levels", "Decreased arousal", "Increased acetylcholine levels", "Decreased acetylcholine levels"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "Which neuromodulator is released by stimuli that predict reward?"
+	rightanswer = ["Dopamine"]
+	wronganswer = ["Acetylcholine", "Histamine", "Norepinephrine", "Serotonin"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture06.questions]]
+	question = "5-hydroxytryptamine (5HT) is which neuromodulator?"
+	rightanswer = ["Serotonin"]
+	wronganswer = ["Acetylcholine", "Dopamine", "Histamine", "Norepinephrine"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture07]
+label = "#07 Cerebral Cortex Organization"
+	[[lecture07.questions]]
+	question = "Which two cortical layers, respectively, receive input from and project output back to the diencephalon?"
+	rightanswer = ["4 and 6"]
+	wronganswer = ["1 and 2", "2 and 5", "5 and 6", "3 and 6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Why are cortical layers 2 and 3 often described as a single layer 2-3?"
+	rightanswer = ["Both are involved in cortico-cortical processing"]
+	wronganswer = ["Both project long axons to subcortical structures", "Both have granular cells", "Both have stellate cells", "Brodmann was unable to distinguish one from the other"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which cortical layer receives major thalamic input?"
+	rightanswer = ["4"]
+	wronganswer = ["2", "3", "5", "6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What does the frontal lobe do?"
+	rightanswer = ["Control movement and executive functions"]
+	wronganswer = ["Perform arithmetic calculations", "Identify meaningful objects by name", "Recognize faces", "Respond to visual objects in the contralateral lower visual hemifield"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which two layers, respectively, are the main input and output layers of cerebral cortex?"
+	rightanswer = ["4 and 5"]
+	wronganswer = ["6 and 5", "5 and 6", "1 and 6", "6 and 1"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "How are cortical layers 4 and 6 alike?"
+	rightanswer = ["Both have connections with the thalamus"]
+	wronganswer = ["Both project long axons to subcortical structures", "Both are mainly involved in cortico-cortical processing", "Both are mainly pyramidal cells", "Brodmann was unable to distinguish one form the other"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which two cortical layers are believed to be most involved in intrinsic cortical processing, the so called thinking layers?"
+	rightanswer = ["2 and 3"]
+	wronganswer = ["4 and 5", "1 and 6", "4 and 6", "5 and 6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What does the temporal lobe do (not counting Heschl's gyrus auditory cortex)?"
+	rightanswer = ["Recognize objects and faces"]
+	wronganswer = ["Direct attention", "Process spatial relations", "Discriminate musical tone pitch", "Respond to visual objects in the lower visual field"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which best describes the laminar organization of the cerebral cortex?"
+	rightanswer = ["The neocortex has 6 laminae, with main input to layer IV and outputs from II, III, V, and VI"]
+	wronganswer = ["The neocortex has 3 laminae: stellate, pyramidal, and white matter", "The allocortex has 6 laminae, with pyramidal cells primarily in layer IV", "The neocortex has 6 laminae of white matter, though layer IV may be nearly absent in agranular cortex areas", "Dendritic spines provide output from stellate neurons to pyramidal neurons in a pial-to- white matter lamination"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which is characteristic of local interneurons of neocortex?"
+	rightanswer = ["Local interneurons are often stellate in shape"]
+	wronganswer = ["Local interneurons are most prevalent in layer V", "Local interneurons are often pyramidal in shape", "Local interneurons receive their input from the dendritic spines of layer IV neurons", "Local interneurons are usually excitatory and use the neurotransmitter glycine"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which is characteristic of layer VI of neocortex?"
+	rightanswer = ["Layer VI sends the main cortical output of axons to the thalamus"]
+	wronganswer = ["Local interneurons are most prevalent in layer VI", "Layer VI neurons are most often stellate in shape", "Layer VI has the fewest projection neurons of any layer", "Layer VI receives the main input of axons from the thalamus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which is characteristic of layer II of neocortex?"
+	rightanswer = ["Layer II neurons develop later than neurons in layers III-VI"]
+	wronganswer = ["Layer II neurons are called callosal neurons because many their axons have interhemispheric terminations via the corpus callosum", "Layer II is the layer most purely comprised of stellate neurons", "Layer II is the site of the fusiform neurons", "Layer II is the thalamic input layer"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Damage to which specific part of the brain was most likely responsible for personality changes observed in the famous patient Phineas Gage?"
+	rightanswer = ["Ventromedial prefrontal cortex"]
+	wronganswer = ["Inferotemporal cortex", "Temporal pole", "Dorsolateral frontal cortex", "Right parietal cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which neurons contribute most to cortico-cortical connections?"
+	rightanswer = ["Pyramidal neurons of layers 2 and 3"]
+	wronganswer = ["Modified pyramidal cells of layer 6", "Layer 1 neurons", "Chandelier cells", "Corticostriate neurons of layer 5 and 6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What lies at a depth between the corona radiata and superior longitudinal fasciculus?"
+	rightanswer = ["Short association fibers"]
+	wronganswer = ["Inferior longitudinal fasciculus", "Arcuate fasciculus", "Uncinate fasciculus", "Tapetum"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What type of cortex makes up the largest proportion of the cerebrum?"
+	rightanswer = ["Neocortex"]
+	wronganswer = ["Heterogenetic cortex", "Limbic cortex", "Paleocortex", "Archicortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Damage to which area would most likely lead to the inability to remember a phone number for long enough to dial it?"
+	rightanswer = ["Prefrontal association cortex"]
+	wronganswer = ["Parietal association cortex", "Temporal association cortex", "Occipital association cortex", "Limbic efferents"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What is best developed in macro-osmic cortex?"
+	rightanswer = ["Paleocortex"]
+	wronganswer = ["Archicortex", "Homogenetic cortex", "Neocortex", "Pallium"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "What cortical layer has the least neurons?"
+	rightanswer = ["1"]
+	wronganswer = ["2", "3", "5", "6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which are the largest cortical neurons?"
+	rightanswer = ["Betz cells of motor cortex"]
+	wronganswer = ["Layer 4 cells of calcarine sulcus cortex", "Layer 6 cells of fusiform gyrus cortex", "Stellate cells calcarine sulcus cortex", "Stellate cells of fusiform gyrus cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture07.questions]]
+	question = "Which sense has its primary cortical area in temporal cortex?"
+	rightanswer = ["Auditory"]
+	wronganswer = ["Olfactory", "Proprioceptive", "Somatic", "Visual"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture08]
+label = "#08 Cerebral Cortex Sensory Systems"
+	[[lecture08.questions]]
+	question = "Which best distinguishes the olfactory paths from other sensory paths?"
+	rightanswer = ["They project to paleocortex"]
+	wronganswer = ["They remain ipsilateral", "They do not involve cranial nerves", "They have a thalamic relay", "They are contralateral"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which best distinguishes the gustatory paths from other sensory paths?"
+	rightanswer = ["They remain ipsilateral"]
+	wronganswer = ["They do not involve cranial nerves", "They project to paleocortex", "They have a thalamic relay", "They are contralateral"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which is a feature of topographic organization of neocortex?"
+	rightanswer = ["Body parts with more detailed sensation or more sensory receptors are allotted a disproportionately large portion of somatic sensory cortex, distorting the maps"]
+	wronganswer = ["Sizes are precisely represented as equivalent sizes on topographic maps", "Cortical topographic maps usually represent the ipsilateral body half only", "The trunk and belly tend to have disproportionately large representations in somatic maps", "Frontal, temporal, and parietal lobes have topographically organized areas, but occipital lobes do not"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which visual deficit is most likely to follow left temporal lobe damage?"
+	rightanswer = ["Right upper field quadrantanopsia (pie-in-the-sky loss)"]
+	wronganswer = ["Left hemispatial neglect", "Right hemispatial neglect", "Left upper field quadrantanopsia (pie-in-the-sky loss)", "Blindness for lower right visual field"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Second order axons from the ventral cochlear nuclei project mainly to which structure to process lateralization (left-right azimuthal direction) of low frequency sounds?"
+	rightanswer = ["Medial superior olive"]
+	wronganswer = ["Lateral superior olive", "Superior colliculus", "Inferior colliculus", "Dorsal cochlear nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "The ascending axons from the medial and lateral superior olive directly project mainly to which structure?"
+	rightanswer = ["Inferior colliculus"]
+	wronganswer = ["Superior brachium", "Inferior brachium", "Superior colliculus", "Cochlear nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Where are the secondary neurons of the gustatory pathway located?"
+	rightanswer = ["Rostral solitary nucleus"]
+	wronganswer = ["Caudal solitary nucleus", "Medial superior olive", "Lateral superior olive", "Inferior olive"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which is the gustatory nucleus?"
+	rightanswer = ["Rostral solitary nucleus"]
+	wronganswer = ["Ventral postero-lateral nucleus (VPL)", "Dorsomedial (medial dorsal) nucleus", "Dorsolateral (lateral dorsal) nucleus", "Rostral salivatory nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "What is the function of the lateral superior olive?"
+	rightanswer = ["Processing direction of high frequency sounds"]
+	wronganswer = ["Projection of climbing fibers to the cerebellum", "Projection of mossy fibers to the cerebellum", "Processing sweet and bitter taste sensations", "Relaying large fiber somatic sensory information"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which area(s) is (are) specialized for proprioception?"
+	rightanswer = ["Mesencephalic nucleus, Brodmann's area 3a"]
+	wronganswer = ["Lateral horn, intermediolateral cell column", "Heschl's gyrus", "Left parietal cortex", "Dorsolateral and central amygdala"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "How are the magnocellular and parvocellular visual paths organized in the LGN?"
+	rightanswer = ["Magnocellular axons project to LGN layers 1 and 2, parvocellular axons to layers 3-6"]
+	wronganswer = ["Magnocellular axons project to the left LGN, parvocellular axons to the right LGN", "Magnocellular axons project rostrally in the LGN, parvocellular axons caudally", "Magnocellular axons project along projection lines, parvocellular axons are off-line", "A projection line contains axons from only one or the other path, not both"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which is the next step on the dorsal visual stream beyond the first or second visual area?"
+	rightanswer = ["Middle temporal area (MT)"]
+	wronganswer = ["Color area (V4)", "Hippocampus (CA1-CA3)", "Amygdala", "Cingulate cortex (areas 17 and 18)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which is the next step on the ventral visual stream beyond the first or second visual area?"
+	rightanswer = ["Color area (V4)"]
+	wronganswer = ["Middle temporal area (MT)", "Hippocampus (CA1-CA3)", "Amygdala", "Cingulate cortex (areas 17 and 18)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Which area is known for having visual feature detectors?"
+	rightanswer = ["Inferotemporal cortex"]
+	wronganswer = ["Prefrontal cortex", "Calcarine cortex", "Middle temporal area (MT)", "Meyer's loop"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "What is Meyer's loop?"
+	rightanswer = ["The temporal course of upper visual hemifield optic radiations destined for the lower bank of the calcarine sulcus"]
+	wronganswer = ["The limbic pathway that originates in cerebral cortex and passes through a series of limbic structures to return to cerebral cortex", "The re-decussation of the ventral spinocerebellar tract so that it ends ipsilaterally in the cerebellum despite having a mainly contralateral course", "The re-decussation of the dorsal spinocerebellar tract so that it ends ipsilaterally in the cerebellum despite having a mainly contralateral course", "The axons responsible for hole-in-the-pole or hole in the donut blindness for objects straight ahead with intact peripheral vision"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "What does the medial superior olive help discriminate?"
+	rightanswer = ["direction of sounds"]
+	wronganswer = ["pitch of sounds", "meaning of speech sounds", "sequence of musical notes", "potentially toxic odors"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Damage to which structure(s) results in ipsilateral hearing loss?"
+	rightanswer = ["Cochlear nuclei"]
+	wronganswer = ["Heschl's gyrus (or gyri)", "Medial geniculate nucleus", "Superior colliculus", "Inferior colliculus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Damage to which structure(s) results in loss of pitch sequence discrimination (cannot name that tune)?"
+	rightanswer = ["Heschl's gyrus (or gyri)"]
+	wronganswer = ["Medial geniculate nucleus", "Superior colliculus", "Inferior colliculus", "Cochlear nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "What body part occupies the largest part of rodent somatic sensory cortex?"
+	rightanswer = ["Whiskers (vibrissae)"]
+	wronganswer = ["Hands (forepaws)", "Feet (hindpaws)", "Mouth", "Sex organs"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "What body part is represented most laterally in human somatic sensory cortex?"
+	rightanswer = ["Mouth"]
+	wronganswer = ["Hands", "Feet", "Trunk", "Sex organs"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Where is the fovea represented in calcarine (occipital) cortex?"
+	rightanswer = ["Posterior"]
+	wronganswer = ["Upper bank", "Lower bank", "Anterior", "Along the fundus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture08.questions]]
+	question = "Damage to the cuneus of the occipital lobe causes which deficit?"
+	rightanswer = ["Permanent scotoma in contralateral lower visual field quadrant"]
+	wronganswer = ["Temporary scotoma in contralateral lower visual field quadrant", "Temporary scotoma in contralateral upper visual field quadrant", "Permanent scotoma in contralateral upper visual field quadrant", "A specific blindness from which there is only partial recovery"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture09]
+label = "#09 Cerebral Cortex Vision, Motor Systems"
+	[[lecture09.questions]]
+	question = "Which is NOT a major neocortical efferent pathway?"
+	rightanswer = ["Corticonigral"]
+	wronganswer = ["Corticostriate", "Corticopontine", "Corticospinal", "Corticothalamic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which is NOT a feature of the medial corticospinal projection?"
+	rightanswer = ["Decussates at the decussation of the pyramids"]
+	wronganswer = ["Originates largely from Brodmann's area 4", "Terminates bilaterally in the spinal cord", "Controls axial musculature", "Controls trunk musculature"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What do the lateral descending pathways most directly control?"
+	rightanswer = ["The limbs"]
+	wronganswer = ["Locomotion", "Axial musculature", "The trunk", "The four spinocerebellar tracts"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What do the medial descending pathways control?"
+	rightanswer = ["The trunk"]
+	wronganswer = ["The upper limbs", "The lower limbs", "The dorsal and cuneo spinocerebellar tracts", "Skilled hand movements"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which is NOT a visual projection of axons from the retina?"
+	rightanswer = ["Inferior colliculus"]
+	wronganswer = ["Lateral geniculate nucleus (LGN)", "Olivary pretectal nucleus", "Suprachiasmatic nucleus", "Accessory optic nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Melanopsin-containing retinal ganglion cells project to primarily to which two areas?"
+	rightanswer = ["Pretectal area and hypothalamus"]
+	wronganswer = ["Superior colliculus and lateral geniculate nucleus", "Inferior colliculus and medial geniculate nucleus", "Lateral geniculate nucleus lamina 1 and 2", "Lateral geniculate nucleus lamina 5 and 6"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What is the distinguishing feature of responses of melanopsin-containing retinal ganglion cells?"
+	rightanswer = ["They persist for hours instead of adapting"]
+	wronganswer = ["They are sent to the superior colliculus and lateral geniculate nucleus", "They are sent to the inferior colliculus and medial geniculate nucleus", "They are exclusively OFF type responses (decreased activity to light)", "They sense visual stimuli exclusively at the fovea"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Optic (visual) ataxia is best described as which?"
+	rightanswer = ["An inability to orient held objects to match the orientation of a seen object"]
+	wronganswer = ["Postural instability with eyes closed, but stable posture with eyes open", "Postural instability with eyes open, but stable posture with eyes closed", "Postural instability due to ocular instability (involuntary eye movements)", "Postural instability seen in the Romberg test, a positive Romberg sign"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What is the corticobulbar path?"
+	rightanswer = ["Axons from motor cortical areas that project to premotor and motor brainstem nuclei"]
+	wronganswer = ["Axons from motor cortical areas that project reciprocally to sensory cortical areas", "Axons from motor cortical areas that project to the basal pontine nuclei bulb", "Axons from sensory cortical areas that project to the olfactory bulb", "Axons from sensory cortical areas that project to the limbic bulb"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What is the primary origin of the medial descending system?"
+	rightanswer = ["Brainstem"]
+	wronganswer = ["Cerebellum", "Basal ganglia", "Limbic system", "Motor cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What is the function of the hypothalamospinal tract?"
+	rightanswer = ["Autonomic control"]
+	wronganswer = ["Limb control", "Axial control", "Control of the emetic reflex", "Control of distal musculature during locomotion"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "What is the primary stabilizing function of the medial vestibulospinal tract?"
+	rightanswer = ["Bilateral control of the head"]
+	wronganswer = ["Bilateral control of the legs", "Ipsilateral control of the legs", "Contralateral control of the legs", "Ipsilateral control of the head"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which are the output neurons from primary motor cortex?"
+	rightanswer = ["Layer V neurons that project to lower motor neurons"]
+	wronganswer = ["Layer V neurons that project to secondary motor cortex", "Layer V neurons that project to premotor cortex", "Layer V neurons that project to upper motor neurons", "Layer IV neurons that project to secondary motor cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which structure(s) is (are) believed to mediate optokinetic reflexes?"
+	rightanswer = ["Accessory optic nuclei"]
+	wronganswer = ["Suprachiasmatic nucleus", "Olivary pretectal areas", "Medial superior olive", "Lateral superior olive"]
+
+	[[lecture09.questions]]
+	question = "Which is the destination of axons from the pretectal area?"
+	rightanswer = ["Edinger-Westphal preganglionic parasympathetic nucleus"]
+	wronganswer = ["Retina", "Tectum", "Lateral horn of spinal cord", "Intermediolateral cell column"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which is responsible for your eyes automatically tracking the outside scene when you are in a traveling vehicle?"
+	rightanswer = ["Accessory optic nuclei"]
+	wronganswer = ["Suprachiasmatic nucleus", "Olivary pretectal areas", "Medial superior olive", "Lateral superior olive"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Which cerebral lobe, if any, does not have association areas?"
+	rightanswer = ["None of the listed lobes lack association areas; all have association areas"]
+	wronganswer = ["Frontal", "Parietal", "Occipital", "Temporal"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "The olivary pretectal nucleus receives primarily which input?"
+	rightanswer = ["Melanopsin containing retinal ganglion cells"]
+	wronganswer = ["Medial geniculate nucleus", "Lateral geniculate nucleus", "Foveal cone receptors", "Cochlear nuclei bilaterally"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "The suprachiasmatic nucleus receives primarily which input?"
+	rightanswer = ["Melanopsin containing retinal ganglion cells"]
+	wronganswer = ["Medial geniculate nucleus", "Lateral geniculate nucleus", "Foveal cone receptors", "Cochlear nuclei bilaterally"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Parietal lobe lesions often result in which deficit?"
+	rightanswer = ["Apraxia"]
+	wronganswer = ["Ataxia of the trunk", "Tremor", "Akinesia or bradykinesia", "Prosopagnosia"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "To which does the corticotectal path contribute?"
+	rightanswer = ["Body orientation and eye movements"]
+	wronganswer = ["Autonomic nervous system", "Control of the pharynx", "Middle cerebellar peduncle", "Recognition of faces"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture09.questions]]
+	question = "Cortical reflexes such as foot placement are mediated by which pathway?"
+	rightanswer = ["Areas 3,1,2 to area 4"]
+	wronganswer = ["Area 17 to area 18", "Area 17 to the dorsal stream", "Area 17 to the ventral stream", "Area 18 to V4a"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture10]
+label = "#10 Cerebellum"
+	[[lecture10.questions]]
+	question = "Which lists the major mossy fiber pathway through the cerebellum via the correct structures in the correct order?"
+	rightanswer = ["mossy fiber>granule cell>parallel fiber>Purkinje cell>deep nuclear neuron"]
+	wronganswer = ["mossy fiber>deep nuclear neuron>granule cell>Purkinje cell", "mossy fiber>deep nuclear neuron>parallel fiber>granule cell>Purkinje cell", "Purkinje cell>granule cell>parallel fiber>Golgi cell>deep nuclear neuron", "Purkinje cell>parallel fiber>granule cell>Golgi cell>deep nuclear neuron"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "The cerebellar deep nuclei are which?"
+	rightanswer = ["The major output destination of cerebellar cortex Purkinje cell axons"]
+	wronganswer = ["The vermis, intermediate zone, and hemispheres", "The major input projection to cerebellar cortex Purkinje cell dendrites", "Numbered from I to X, medial to lateral", "Excited by Purkinje cell axons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which neurological problem would be LEAST suggestive of damage to the vermis?"
+	rightanswer = ["Reduced hand coordination"]
+	wronganswer = ["Loss of balance", "Blurred vision due to poor oculomotor control of saccades", "Drunken gait", "Reduced tone of postural muscles"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which neurological problem would NOT suggest damage to the flocculus?"
+	rightanswer = ["Inability to suppress saccades"]
+	wronganswer = ["Loss of the ability to smoothly track a moving visual target", "Loss of visual pursuit", "Loss of the ability to alter the vestibulo-ocular reflex to adjust when new glasses are fitted", "A vestibulo-ocular reflex that is too large"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which two tracts convey mainly lower body information to the cerebellum?"
+	rightanswer = ["Dorsal and ventral spinocerebellar tracts"]
+	wronganswer = ["Dorsal and cuneo cerebellar tracts", "Ventral and caudal spinocerebellar tracts", "Ventral and anterior spinocerebellar tracts", "Propriospinal tracts"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which two tracts convey mainly upper body information to the cerebellum?"
+	rightanswer = ["Rostral and cuneo cerebellar tracts"]
+	wronganswer = ["Ventral and caudal spinocerebellar tracts", "Ventral and anterior spinocerebellar tracts", "Dorsal and ventral spinocerebellar tracts", "Propriospinal tracts"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "The mossy fiber input to cerebellar cortex goes to which?"
+	rightanswer = ["Glomeruli that have granule cell dendrites"]
+	wronganswer = ["Purkinje cell dendrites, wrapping all around them", "Parallel fiber axons rather than dendrites", "The four spinocerebellar tracts", "GABA synapses to cause inhibition"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which describes the output from cerebellar cortex?"
+	rightanswer = ["It is an entirely inhibitory projection of GABA-ergic neurons"]
+	wronganswer = ["It is comprised of axons ending primarily in motor cortex", "It uses the neurotransmitter dopamine", "It is comprised of axons that project to spinal cord motor neurons and interneurons", "It is an entirely excitatory projection of glutamatergic neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which two tracts convey mainly movement command feedback information to the cerebellum?"
+	rightanswer = ["Ventral and rostral spinocerebellar tracts"]
+	wronganswer = ["Rostral and cuneo cerebellar tracts", "Ventral and anterior spinocerebellar tracts", "Dorsal and ventral spinocerebellar tracts", "Propriospinal tracts"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "The climbing fiber input to cerebellar cortex goes to which?"
+	rightanswer = ["Purkinje cell dendrites, wrapping all around them"]
+	wronganswer = ["Glomeruli that have granule cell dendrites", "Parallel fiber axons rather than dendrites", "The four spinocerebellar tracts", "GABA synapses to cause inhibition"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which cerebellar neurons are excitatory?"
+	rightanswer = ["Granule cells"]
+	wronganswer = ["Purkinje cells", "Basket cells", "Stellate cells", "Golgi cells"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which cerebellar neurons are inhibitory to Purkinje cells?"
+	rightanswer = ["Stellate and basket cells"]
+	wronganswer = ["Granule and basket cells", "Granule and deep nuclear cells", "Granule and Golgi cells", "Basket and Golgi cells"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Where does the climbing fiber input to cerebellum originate?"
+	rightanswer = ["Inferior olive"]
+	wronganswer = ["Superior olive", "Dentate nucleus", "Dentate gyrus", "Medial superior olive"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which layer of the cerebellum contains billions of parallel fibers?"
+	rightanswer = ["Molecular"]
+	wronganswer = ["Deep nuclear", "Granule cell", "Purkinje cell", "Middle cerebellar peduncle"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which path does NOT end as mossy fibers to the cerebellum?"
+	rightanswer = ["Olivocerebellar"]
+	wronganswer = ["Pontocerebellar", "Dorsal spinocerebellar", "Ventral spinocerebellar", "Reticulocerebellar"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Damage to which part of the cerebellum is correlated to decomposition of movement?"
+	rightanswer = ["Hemispheres"]
+	wronganswer = ["Vermis", "Fastigial nucleus", "Nodulus", "Uvula"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "A cerebellar glomerulus contains which elements?"
+	rightanswer = ["Granule cell dendrites, Golgi cell axon terminals, mossy fiber axon terminals"]
+	wronganswer = ["Granule cell dendrites, Golgi cell dendrites, mossy fiber dendrites", "Purkinje cell dendrites, granule cell axon terminals, mossy fiber axon terminals", "Purkinje cell dendrites, granule cell dendrites, mossy fiber axon terminals", "Stellate cell axon terminals, basket cell axon terminals, Golgi cell axon terminals"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Limb ataxia is most closely associated with which cerebellar structure?"
+	rightanswer = ["Intermediate zone"]
+	wronganswer = ["Fastigial nucleus", "Unipolar brush cell", "Oculomotor vermis", "Lingula"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "What are the inputs to cerebellar deep nuclei and their excitatory (+) or inhibitory (-) effects?"
+	rightanswer = ["Mossy fiber collaterals (+), climbing fiber collaterals (+), Purkinje cell axons (-)"]
+	wronganswer = ["Golgi cell axons (+), mossy fiber collaterals (+), granule cell axons (-)", "Fastigial cell axons (+), climbing fiber collaterals (+), Purkinje cell axons (+)", "Dentate cell axons (+), climbing fiber collaterals (-), Purkinje cell axons (+)", "Mossy fiber collaterals (-), dentate cell axons (-), Purkinje cell axons (-)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "How can you best describe and contrast the motor control roles of the cerebellum vs the basal ganglia, respectively?"
+	rightanswer = ["Movement guidance vs movement initiation"]
+	wronganswer = ["Movement initiation vs resting posture", "Tremor reduction at rest vs tremor reduction near movement goal", "Movement reward vs movement punishment", "Movement punishment vs movement guidance"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture10.questions]]
+	question = "Which tract travels through the superior cerebellar peduncle?"
+	rightanswer = ["Ventral spinocerebellar"]
+	wronganswer = ["Cuneo spinocerebellar", "Dorsal spinocerebellar", "Olivocerebellar", "Corticospinal"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture11]
+label = "#11 Basal Ganglia"
+	[[lecture11.questions]]
+	question = "Which lists the direct pathway through the basal ganglia via the correct structures in the correct order?"
+	rightanswer = ["neocortex>striatum>globus pallidus internal segment>ventral thalamus>neocortex"]
+	wronganswer = ["neocortex>striatum>globus pallidus external segment>ventral thalamus>neocortex", "neocortex>ventral thalamus>globus pallidus internal segment>striatum>neocortex", "neocortex>substantia nigra>ventral thalamus>neocortex", "neocortex>striatum>globus pallidus external segment>subthalamic nucleus>globus pallidus internal segment>ventral thalamus>neocortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which lists the indirect pathway through the basal ganglia via the correct structures in the correct order?"
+	rightanswer = ["neocortex>striatum>globus pallidus external segment>subthalamic nucleus>globus pallidus internal segment>ventral thalamus>neocortex"]
+	wronganswer = ["neocortex>striatum>globus pallidus external segment>ventral thalamus>neocortex", "neocortex>striatum>globus pallidus internal segment>ventral thalamus>neocortex", "neocortex> ventral thalamus >globus pallidus internal segment>striatum>neocortex", "neocortex>substantia nigra >ventral thalamus>neocortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Excitatory glutamate output projects from which basal ganglia neuron type, nuclear division, or nucleus, etc.?"
+	rightanswer = ["subthalamic nucleus"]
+	wronganswer = ["globus pallidus internal segment", "globus pallidus external segment", "D1 striatal projection neurons", "D2 striatal projection neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "The two main output targets of the striatum of the basal ganglia are which?"
+	rightanswer = ["External and internal segments of the globus pallidus (GPe and GPi)"]
+	wronganswer = ["Substantia nigra pars reticulata (SNr) and subthalamic nucleus (STN)", "Internal segment of the globus pallidus (GPi) and substantia nigra pars reticulata (SNr)", "Substantia nigra pars compacta (SNc) and subthalamic nucleus (STN)", "Substantia nigra pars compacta (SNc) and substantia nigra pars reticulata (SNr)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "The two main output nuclei of the basal ganglia are which?"
+	rightanswer = ["Internal segment of the globus pallidus (GPi) and substantia nigra pars reticulata (SNr)"]
+	wronganswer = ["Substantia nigra pars reticulata (SNr) and subthalamic nucleus (STN)", "External and internal segments of the globus pallidus (GPe and GPi)", "Substantia nigra pars compacta (SNc) and subthalamic nucleus (STN)", "Substantia nigra pars compacta (SNc) and substantia nigra pars reticulata (SNr)"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "The output from the globus pallidus external segment (pars externa) is which?"
+	rightanswer = ["GABA-ergic"]
+	wronganswer = ["Axons that project to spinal cord motor neurons and interneurons", "Axons ending primarily in motor cortex", "Dopaminergic", "Glutamatergic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "The output from the globus pallidus internal segment (pars interna) is which?"
+	rightanswer = ["GABA-ergic"]
+	wronganswer = ["Axons ending primarily in motor cortex", "Dopaminergic", "Axons that project to spinal cord motor neurons and interneurons", "Glutamatergic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "The output from D1 receptor expressing striatal projection neurons is which?"
+	rightanswer = ["GABA-ergic inhibitory"]
+	wronganswer = ["Neuromodulatory, either excitatory of inhibitory depending on context", "Dopaminergic excitatory", "Glutamatergic excitatory", "Enkephalinergic"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "How is adenylate cyclase activity (in response to dopamine) affected in striatal projection neurons expressing D1 receptors vs those expressing D2 receptors, respectively?"
+	rightanswer = ["Increased vs decreased"]
+	wronganswer = ["Increased vs increased", "Decreased vs increased", "Decreased vs decreased", "Unaffected vs increased"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is the main neurotransmitter of the substantia nigra pars reticulata neurons?"
+	rightanswer = ["GABA"]
+	wronganswer = ["Glutamate", "Dopamine", "D1", "D2"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which is the hyperdirect pathway?"
+	rightanswer = ["Cerebral cortex to subthalamic nucleus"]
+	wronganswer = ["Cerebral cortex to substantia nigra pars compacta", "Cerebral cortex to substantia nigra pars reticulata", "Striatum to substantia nigra pars compacta", "Striatum to substantia nigra pars reticulata"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is the most likely function of the hyperdirect pathway?"
+	rightanswer = ["Inhibitory sculpting of direct pathway excitation"]
+	wronganswer = ["Stronger excitation of movement than the direct pathway", "Shortening the latency of excitatory signals through the direct pathway", "Providing a pinpoint focus of inhibition to block a specific response commanded by the direct pathway", "Roughly equivalent in excitation of movement to direct pathway activation"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is the most direct early cause of the signs of Huntington's disease?"
+	rightanswer = ["Loss of D2 receptor expressing striatal projection neurons"]
+	wronganswer = ["Loss of substantia nigra pars compacta dopamine neurons", "Loss of substantia nigra pars reticulata dopamine neurons", "Loss of D1 receptor expressing striatal projection neurons", "Loss of neurons throughout cerebral cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which is the LEAST likely sign of Parkinson's disease?"
+	rightanswer = ["Intention tremor"]
+	wronganswer = ["Resting tremor", "Akinesia", "Bradykinesia", "Hypometria in gait"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is a (are) major direct output(s) of the substantia nigra pars reticulata and internal segment of the globus pallidus?"
+	rightanswer = ["Ventral thalamus"]
+	wronganswer = ["Substantia nigra pars compacta and external segment of the globus pallidus", "Motor cortex", "Association cortex", "Spinal cord ventral horn"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What neurological disorder is most closely associated with loss of the subthalamic nucleus?"
+	rightanswer = ["Hemiballism"]
+	wronganswer = ["Parkinson's disease", "Huntington's disease", "Essential tremor", "Tardive dyskinesia"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which neurotransmitter is supplied by structures that lie one just dorsal to the crus cerebri and the other in the midbrain tegmentum, ventrally near the midline?"
+	rightanswer = ["Dopamine"]
+	wronganswer = ["Acetylcholine", "Histamine", "Norepinephrine", "Serotonin"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which provide the main input to the external segment of the globus pallidus (GPe)?"
+	rightanswer = ["D2 striatal projection neurons"]
+	wronganswer = ["Subthalamic nucleus (STN) neurons", "Substantia nigra pars compacta (SNc) neurons", "Substantia nigra pars reticulata (SNr) neurons", "D1 striatal projection neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "Which provide the main input to the internal segment of the globus pallidus (GPi)?"
+	rightanswer = ["D1 striatal projection neurons"]
+	wronganswer = ["Subthalamic nucleus (STN) neurons", "Substantia nigra pars compacta (SNc) neurons", "Substantia nigra pars reticulata (SNr) neurons", "D2 striatal projection neurons"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is the early motor sign of Huntington's disease?"
+	rightanswer = ["Uncontrolled movements or chorea"]
+	wronganswer = ["Tremor", "Bradykinesia or akinesia", "Intention tremor and/or decomposition of movement", "Oculomotor paresis and/or saccadic suppression"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture11.questions]]
+	question = "What is the genetic or biochemical cause of most instances of Parkinson's disease?"
+	rightanswer = ["Unknown"]
+	wronganswer = ["Somatic mutation of the Pk1 gene", "Genetic mutation of the Pk1 gene", "Methylation of the Pk1 gene", "Intracellular damage due to low intracellular Ca++"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+[lecture12]
+label = "#12 Limbic System"
+	[[lecture12.questions]]
+	question = "Which neurological problem is most likely to be present after a person suffers damage to the hippocampal limbic loop?"
+	rightanswer = ["inability to remember driving directions to an unfamiliar location"]
+	wronganswer = ["flat affect with little emotional response to upsetting events", "agraphia", "psychic blindness", "inability to understand the spoken voice"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which neurological problem is most likely to be present after a person suffers damage to the amygdala?"
+	rightanswer = ["flat affect with little emotional response to upsetting events"]
+	wronganswer = ["inability to remember driving directions to an unfamiliar location", "agraphia", "psychic blindness", "inability to understand the spoken voice"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which neurological deficit is revealed in animals after lesions of the hippocampus?"
+	rightanswer = ["inability to learn a new spatial discrimination"]
+	wronganswer = ["inability to recognize a previously learned object or task", "failure to respond to social cues", "loss of sexual behaviors", "inability to detect odors"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What type(s) of deficit(s) most likely result(s) from amygdala damage?"
+	rightanswer = ["Failure to recognize facial expressions of fear"]
+	wronganswer = ["Loss of Spatial memory and maze learning", "Loss of Spatial orientation and awareness of compass directions", "Failure to recognize familiar faces (prosopagnosia)", "Uncontrolled anger and loss of sexually motivated responses"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which kind of memory formation is not much affected by hippocampal damage?"
+	rightanswer = ["Drawing while viewing through a mirror (mirror drawing)"]
+	wronganswer = ["Spatial locations", "World events", "Newly met people", "Maze learning"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is the ultimate destination of most entorhinal cortex projections?"
+	rightanswer = ["Dentate gyrus"]
+	wronganswer = ["Parahippocampal cortex", "Amygdala", "Fornix", "Anterior thalamus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which was a deficit in the famous hippocampal patients HM and RB?"
+	rightanswer = ["Failure to recognize the scientists studying them"]
+	wronganswer = ["Forgotten childhood events", "Loss of social skills in conversation", "Loss of visuomotor skills", "Wernicke's aphasia"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which structure has the stria terminalis (or terminal stria) as one of its prominent outputs?"
+	rightanswer = ["Amygdala"]
+	wronganswer = ["Lateral nucleus of the hypothalamus", "Orbitofrontal cortex", "Bed nucleus", "Hippocampus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which nuclei of the amygdala are regarded as its input and processing center?"
+	rightanswer = ["Basolateral"]
+	wronganswer = ["Medial", "Central", "Dentate", "Denticulate"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is most directly a part of the ventral striatum?"
+	rightanswer = ["Nucleus accumbens"]
+	wronganswer = ["Dorsal pallidum", "Lateral dorsal (dorsolateral) nucleus", "Anterior nucleus (of thalamus)", "Dentate nucleus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Animals subjected to large, bilateral lesions of the temporal lobes exhibit which behavior (Kluver-Bucy syndrome)?"
+	rightanswer = ["Loss of rank in social hierarchy"]
+	wronganswer = ["Loss of discrimination learning", "Diminished sexual activity", "Emotional over-reaction", "Aversion to oral stimulation and eating"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which projection is thought to be responsible for expression of innate fears?"
+	rightanswer = ["Sensory thalamus to amygdala"]
+	wronganswer = ["Amygdala to lower motor neurons", "Amygdala to lateral geniculate nucleus", "Amygdalofugal fibers to amygdala", "Entorhinal cortex to hippocampus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is the main output of the dentate gyrus?"
+	rightanswer = ["Hippocampus proper (CA1-CA3)"]
+	wronganswer = ["Cerebellar cortex", "Ventral thalamus", "Mammillary bodies", "Parahippocampal cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is the main destination of the fornix?"
+	rightanswer = ["Mammillary body"]
+	wronganswer = ["Anterior thalamus", "Parahippocampal cortex", "Entorhinal cortex", "Stria terminalis"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is the main output of the mammillary body?"
+	rightanswer = ["Anterior thalamus"]
+	wronganswer = ["Fornix", "Parahippocampal cortex", "Entorhinal cortex", "Cingulate gyrus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "What is the main output of the anterior thalamic nucleus?"
+	rightanswer = ["Cingulate gyrus"]
+	wronganswer = ["Fornix", "Mammillary body", "Parahippocampal cortex", "Entorhinal cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Where is the subiculum interposed in the limbic circuitry?"
+	rightanswer = ["Between the hippocampus and fornix or cortex"]
+	wronganswer = ["Between the dentate gyrus and CA1-CA3", "Between the amygdala and the dorsolateral thalamus", "Between the amygdala and the anterior thalamus", "Between wide areas of cortex and the cingulate gyrus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which part of cerebral cortex outside the temporal lobe relates most closely to the hippocampus?"
+	rightanswer = ["Posterior cingulate cortex"]
+	wronganswer = ["Occipital cortex", "Parietal cortex", "Insular cortex", "Anterior cingulate cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which part of cerebral cortex outside the temporal lobe relates most closely to the amygdala?"
+	rightanswer = ["Anterior cingulate cortex"]
+	wronganswer = ["Occipital cortex", "Parietal cortex", "Insular cortex", "Posterior cingulate cortex"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which best matches, respectively - declarative memory: emotional memory?"
+	rightanswer = ["Hippocampus : amygdala"]
+	wronganswer = ["Amygdala : amygdala", "Amygdala : hippocampus", "Hippocampus : hippocampus", "Spatial memory : fact memory"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Which best matches, respectively - spatial memory : declarative memory?"
+	rightanswer = ["Hippocampus : hippocampus"]
+	wronganswer = ["Amygdala : amygdala", "Amygdala : hippocampus", "Hippocampus : amygdala", "Event memory : specific relay thalamic nuclei"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+	[[lecture12.questions]]
+	question = "Fear memory is to amygdala as 	is to 	?"
+	rightanswer = ["Spatial memory : hippocampus"]
+	wronganswer = ["Spatial memory : amygdala", "Face recognition : amygdala", "Face recognition : hippocampus", "Fear memory : hippocampus"]
+    hint = "hint"
+    explanation = """
+    explanation
+    """
+
+
+
+
