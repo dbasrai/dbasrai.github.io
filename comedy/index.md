@@ -1,10 +1,12 @@
-2/1 - Laughs @ Atmosphere, 8pm
+2/11 - Paper Machete @ Green Mill - 3PM
 
-2/3 - Words with nerds, 8pm (madison)
+2/17 - Dumb and Drummer - 7:30 PM
 
 3/4 - Chill Murray in Woodstock, IL 8PM
 
 3/10 - Can of Worms @ Lincoln Lodge, 9PM
+
+3/12 - Sloppy Sundays @ Lincoln Lodge, 8PM
 
 3/22 - Humboldt Jungle, 8PM
 
