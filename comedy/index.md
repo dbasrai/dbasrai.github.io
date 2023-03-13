@@ -14,6 +14,16 @@
 
 4/19 - The Vixen in McHenry, IL 8PM
 
+4/24 - Sleeping Village - 9PM
+
+5/7 - Sloppy Sundays @ Lincoln Lodge - 9PM
+
+5/10 - Discount Therapy @ Pearl's Southern - 830PM
+
+6/17 - Laugh Yard - 930PM
+
+6/
+
 Recurring:
 
 Prime Time @ Lincoln Lodge, Saturdays 9PM: 1/21, 1/28, 2/4, 2/25, 3/18, 3/25, 4/1, 4/15
