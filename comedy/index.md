@@ -14,7 +14,11 @@
 
 4/19 - The Vixen in McHenry, IL 8PM
 
+4/20 - Hot Topic @ Lincoln Lodge 7PM
+
 4/24 - Sleeping Village - 9PM
+
+4/25 - Laugh Factory - 7PM
 
 5/7 - Sloppy Sundays @ Lincoln Lodge - 9PM
 
