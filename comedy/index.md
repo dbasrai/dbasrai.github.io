@@ -14,6 +14,7 @@
 
 5/10 - Discount Therapy @ Pearl's Southern - 830PM
 
+6/13 - CHUC @ Beat Kitchen - 9PM
 6/15 - Lodge 8PM
 
 6/17 - Laugh Yard - 930PM
