@@ -1,26 +1,13 @@
-4/7 - Color Club - 8PM
-
-4/15 - Zanies Old Town - 11pm
-
-4/17 - Laugh Factory - 8PM
-
-4/19 - The Vixen in McHenry, IL 8PM
-
-4/20 - Hot Topic @ Lincoln Lodge 7PM
-
-4/21 - Dish Diaries @ Color Club, 8PM
-
-4/24 - Sleeping Village - 9PM
-
-4/25 - Laugh Factory - 7PM
-
-4;29 - Color Club - 8PM
+4/30 - Crushes @ AliveOne - 830PM
 
 5/7 - Sloppy Sundays @ Lincoln Lodge - 9PM
 
 5/10 - Discount Therapy @ Pearl's Southern - 830PM
 
+5/12 - Color Club @ 9:30pm
+
 6/13 - CHUC @ Beat Kitchen - 9PM
+
 6/15 - Lodge 8PM
 
 6/17 - Laugh Yard - 930PM
