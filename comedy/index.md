@@ -6,11 +6,21 @@
 
 5/12 - Color Club @ 9:30pm
 
+6/10 - Life Time (in Lake Zurich) - 8PM
+
+6/15 - Lincoln lodge - 8PM
+
+6/16 - West of Cali - 9PM
+
 6/13 - CHUC @ Beat Kitchen - 9PM
 
 6/15 - Lodge 8PM
 
 6/17 - Laugh Yard - 930PM
+
+7/20 - House of Blues - 830 PM
+
+7/27-30 - some shows in cedar rapids IA
 
 Recurring:
 
