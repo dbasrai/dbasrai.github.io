@@ -4,7 +4,9 @@
 
 6/15 - Lincoln lodge - 8PM
 
-6/16 - West of Cali - 9PM
+6/16 - Color Club 8PM
+ 
+also West of Cali - 9PM
 
 6/17 - Zanies - 11pm
 
