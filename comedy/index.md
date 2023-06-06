@@ -1,3 +1,5 @@
+6/6 - Zanies w/ Andrea Jin - 7PM
+
 6/13 - CHUC @ Beat Kitchen - 9PM
 
 6/14 - Pilot Project - 730PM
