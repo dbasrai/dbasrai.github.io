@@ -12,7 +12,11 @@ also West of Cali - 9PM
 
 6/17 - Zanies - 11pm
 
+6/23 - Color Club - 8PM
+
 6/24 - Laugh Yard - 930PM
+
+7/8 - Paper Machete @ Green Mill - 3PM
 
 7/20 - House of Blues - 830 PM
 
@@ -22,8 +26,8 @@ also West of Cali - 9PM
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, Saturdays 9PM: 5/20, 6/9, 6/24
+Prime Time @ Lincoln Lodge, Saturdays 9PM: 5/20, 6/9, 6/24, 7/1, 7/15, 7/22
 
-Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 5/11, 6/8, 7/13
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 5/11, 6/8, 7/13, 8/10
 
 
