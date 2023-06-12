@@ -22,6 +22,10 @@ also West of Cali - 9PM
 
 7/27-30 - some shows in cedar rapids IA
 
+8/4 - secrets @ lincoln lodge
+
+9/7 9/21 9/28 - secrets @ lincoln lodge
+
 8/30 - Humboldt Jungle - 8PM
 
 Recurring:
