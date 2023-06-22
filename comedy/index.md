@@ -16,6 +16,8 @@ also West of Cali - 9PM
 
 6/24 - Laugh Yard - 930PM
 
+6/30 - Chai Town @ Chiya Chai - 8PM
+
 7/8 - Paper Machete @ Green Mill - 3PM
 
 7/20 - House of Blues - 830 PM
