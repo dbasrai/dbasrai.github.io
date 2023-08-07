@@ -1,38 +1,20 @@
-6/6 - Zanies w/ Andrea Jin - 7PM
+8/8-8/9 - Madison Shows
 
-6/13 - CHUC @ Beat Kitchen - 9PM
+8/12 - Keep Coming Back @ Lincoln Lodge 5pm
 
-6/14 - Pilot Project - 730PM
+8/17 - APT Show MSG FOR DETAILS
 
-6/15 - Lincoln lodge - 8PM
+8/22 - Words with Nerds @ Comedy Cabin in Jainsville 8pm
 
-6/16 - Color Club 8PM
- 
-also West of Cali - 9PM
+8/23 - Humboldt Jungle - 8PM
 
-6/17 - Zanies - 11pm
+9/7 9/21 - running half hour @ lincoln lodge, 9pm
 
-6/23 - Color Club - 8PM
+9/12 - SoHo House 7PM
 
-6/24 - Laugh Yard - 930PM
+9/21 - Tight Ship @ Half Sour, 8PM
 
-6/30 - Chai Town @ Chiya Chai - 8PM
-
-7/8 - Paper Machete @ Green Mill - 3PM
-
-7/20 - House of Blues - 830 PM
-
-7/27-30 - some shows in cedar rapids IA
-
-8/3 - Logan Square Improv
-
-8/4 - secrets @ lincoln lodge
-
-8/10 - Keep Coming Back @ LL
-
-9/7 9/21 9/28 - secrets @ lincoln lodge
-
-8/30 - Humboldt Jungle - 8PM
+10/21-10/22 - Columbus OH
 
 Recurring:
 
