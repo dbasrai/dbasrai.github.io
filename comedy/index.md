@@ -1,9 +1,3 @@
-8/8-8/9 - Madison Shows
-
-8/12 - Keep Coming Back @ Lincoln Lodge 5pm
-
-8/17 - APT Show MSG FOR DETAILS
-
 8/22 - Words with Nerds @ Comedy Cabin in Jainsville 8pm
 
 8/23 - Humboldt Jungle - 8PM
@@ -18,8 +12,7 @@
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, Saturdays 9PM: 5/20, 6/9, 6/24, 7/1, 7/15, 7/22
+Prime Time @ Lincoln Lodge, Saturdays 9PM: 9/2, 9/16, 10/14, 10/28
 
-Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 5/11, 6/8, 7/13, 8/10
-
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 9/14, 10/12, 11/9
 
