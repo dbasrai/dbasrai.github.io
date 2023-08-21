@@ -4,7 +4,7 @@
 
 9/7 9/21 - running half hour @ lincoln lodge, 9pm
 
-9/12 - SoHo House 7PM
+9/5 - SoHo House 7PM
 
 9/21 - Tight Ship @ Half Sour, 8PM
 
