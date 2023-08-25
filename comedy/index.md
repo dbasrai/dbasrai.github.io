@@ -2,6 +2,8 @@
 
 8/23 - Humboldt Jungle - 8PM
 
+8/26 - Paper Machete @ Green Mill - 3PM
+
 9/7 9/21 - running half hour @ lincoln lodge, 9pm
 
 9/5 - SoHo House 7PM
