@@ -14,7 +14,9 @@
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, Saturdays 9PM: 9/30, 10/7, 10/28
+Prime Time @ Lincoln Lodge, some Saturdays 9PM: 1/13, 1/20, 2/3, 2/10
 
-Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 9/14, 10/12, 11/9
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm:
+
+updated 12/22/23
 
