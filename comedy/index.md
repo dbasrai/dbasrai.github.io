@@ -1,22 +1,23 @@
-1/2 - Lincoln Lodge 8PM
+4/18 - Cardinal Bar (Madison) 8PM
 
-1/7 - 50 First Jokes @ Lincoln Lodge 8PM
+4/19-20 - Comedy Corner Underground (Minneapolis w/ Sam Dicke) 8PM
 
-1/13 - Schubas (Sam Dicke Album Recording) 8PM
+5/2 - Lincoln Lodge, 830PM
 
-1/14 - Lincoln Lodge 8PM
+5/23 - Sip Cafe, 730PM
 
-2/3 - Paper Machete @ The Green Mill 4 PM
+5/24 - Uptown Taproom, 8PM
 
-2/15 - Words With Nerds (Madison, WI) 8 PM
+6/20 - Half Sour - 8PM
 
-4/22-23 - Comedy Corner Underground (Minneapolis w/ Sam Dicke) 8PM
+6/22 - Lincoln Lodge, 6PM
+
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, some Saturdays 9PM: 1/13, 1/20, 2/3, 2/10
+Prime Time @ Lincoln Lodge, some Saturdays 9PM: 4/13, 5/11, 5/25, 6/15, 6/22
 
-Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm:
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 5/9, 6/13, 7/11
 
-updated 12/22/23
+updated 4/13/24
 
