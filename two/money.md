@@ -1,11 +1,13 @@
 # money
 
-i have a day job, i make the median income in ILlinois. authorized personnel, I just walk through it as many times cuz it feels cool. YOu get to scan a badge and get paid minimum wage. ddI have to fill out all these security clearance shit. Can you imagine making just about minimum wage and having to fill out security clearances? Security clearnces should be the salaary of the place eyou work. 
+I make just above minimum wage, and I'm bad at my job, so just above minimum wage is absolutely the correct amount. 90% of America is unpaid, and 9% is disitrubingly overpaid, and I might be the only guy in America who is paid exactly how much I deserve. 
+
+Its cool to have a job. I get to enter through an authorized personnel only door. Before this, I've never been authorized personnel before, hell, I've never been personnel before. Before this job my highest security clearance was washing my hands in front of a sign that said Employees Must Wash Hands.  
+
+Before this job, I didn't really know that authorized personnel could make minimum wage. I thought every single guy who scanned a badge to enter, you werer at least above the median income. I sort of realize there's minimum wage positions at every level of industry. Like whenever there is a presidental press conference, and there's all those guys flanking him. The people farthest to the left and right make 38,000 a year. The guy who walked through that eleementary school to tell Bush about 9/11 probably had two roommates. 
+
+But no, I get to work, and they scan my fingerprint before I go and be bad at my job. It can't be good for the economy that I"m working. 
+
+But no, at my work they scan my fingerprint to make sure its me, and then give me $3000 a month. Which is pretty good, accordingi to Google e$3000 is actually considered upper middle class in war torn sudan.
 
 
-
---i  was in the ER recently. I have pretty good insurance. I like when they cross the numbers out for you. i get to scan a badge to get into my work. I love it so much. Its really not hard to get a badge for somehting. They kinda just give you one on the first day. When I wa sa kid I was so impressed when somebody had a badge to something. I scan a badge and get to walk into an authorized personnel building, just like in the movies. They pay me minimum wage. Authorized personnel and secureity clearances. 
-
-its crazy that you cana make only $3000 a month and be able to to be considdrred autyhorized personnel. usually things are as partonizing as the employees must wash handns sign.
-
---i make $3000 a month. anyone here make less than me. its pretty good, turns out $3000 a month is actually considdered upper class in war-torn sudan. 
