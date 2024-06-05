@@ -11,12 +11,17 @@ Systems neuroscientist interested in the neural basis of movement
 
 ## Education
 
+#### University of California, San Diego (2015-2019)
+
+* B.S., magna cum laude, Physiology and Neuroscience
 
 ## Research Experience
 
 #### PhD Student, Miri/Glaser labs (2023-present) 
 
 * Examining thalamocortical interactions underlying naturalistic movement in mice
+* Conducting multi-region neural population recordings while perturbing neurons.
+* Modelling multi-region interactions 
 
 #### Research Tech, Tresch Lab (2020-2022)
 
@@ -41,3 +46,6 @@ Systems neuroscientist interested in the neural basis of movement
 
 ## Teaching Experience
 
+* ucsd, TA
+* northwestern, TA
+* handful of outreach stuff.
