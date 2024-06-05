@@ -1,6 +1,16 @@
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="./media/kawaii.jpg" />
+
+<span style="float:right;padding:6px"> 
+  diyabasrai@gmail.com 
+</span>
+
+
 # Diya Basrai  
 
 Systems neuroscientist interested in the neural basis of movement
+
+## Education
+
 
 ## Research Experience
 
@@ -28,4 +38,6 @@ Systems neuroscientist interested in the neural basis of movement
 * https://www.biorxiv.org/content/10.1101/2023.09.23.559136v2
 
 * https://www.nature.com/articles/s41467-023-43669-2
+
+## Teaching Experience
 
