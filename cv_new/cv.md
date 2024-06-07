@@ -1,6 +1,3 @@
-<title>diyas very smart!</title>
-<link rel="icon" type="image/x-icon" href="./media/favicon-32x32.png">
-
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="./media/kawaii.jpg" />
 
 <span style="float:right;padding:20px"> 
@@ -38,7 +35,7 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Created the [autoLFADS](https://snel-repo.github.io/autolfads/) tutorial, explaining how to use a custom deep learning tool to analyze single-trial neural population data.
 
-# Teaching Experience
+## Teaching Experience
 
 #### Teaching Assistant at Northwestern University (2024-present)
 
@@ -48,19 +45,13 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * TA for four quarters teaching undergraduate biology courses (molecular biology x3, comparative physiology)
 
-** Received [>90% recommendation](./media/ia_evaluation.pdf) from students in all quarters teaching
+* Received [>90% recommendation](./media/ia_evaluation.pdf) from students in all quarters teaching
 
 #### Miscellaneous
 
 * Teaches Stand-up 101 @ The Revival Theater
 
 * Gave lecture to Walter Payton Prep School on causality as part of outreach program
-
-## Other
-
-* Stand-up comic, recently released [comedy special](https://www.youtube.com/watch?v=y_IceD5ij1o)
-
-* Headline contributor for The Onion, sample work [here](https://dbasrai.github.io/onion)
 
 ## Publications/Preprints/Conferences
 
@@ -73,3 +64,11 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 * **Diya Basrai**, ..., Joshua Glaser, Matthew Tresch. (2022) Aligning Neural Activity Recorded from Rats during Locomotion Across Time And Subjects, [poster](./media/sfn22poster.pdf) at SFN 2022
 
 * **Diya Basrai**, ..., Matthew Tresch. (2021) Using DeepLabCut To Predict Locations of Subdermal Landmarks From Video, [poster](./media/dlcposter.pdf) at NIH's BRAIN Initiative Meeting 2021 and [conference paper](https://link.springer.com/chapter/10.1007/978-3-031-20470-8_29) at Living Machines 2022 conference
+
+## Other
+
+* Stand-up comic, recently released [comedy special](https://www.youtube.com/watch?v=y_IceD5ij1o)
+
+* Headline contributor for The Onion, sample work [here](https://dbasrai.github.io/onion)
+
+
