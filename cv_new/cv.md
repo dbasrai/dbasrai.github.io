@@ -11,7 +11,11 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 ## Education
 
-#### University of California, San Diego (2015-2019) <img src='./media/ucsd_logo.png' style='width:56px;height:56px'>
+#### Northwestern University (2022-present) <img src='./media/northwestern.png' style='width:26px;height:26px'>
+
+* PhD student, Interdepartmental Neursocience
+
+#### University of California, San Diego (2015-2019) <img src='./media/ucsd_logo.png' style='width:26px;height:26px'>
 
 * B.S., magna cum laude, Physiology and Neuroscience
 
@@ -27,9 +31,9 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Applying brain-machine interfaces to restore walking in rats with spinal cord injury
 
-#### Undergrad Researcher, Pandarainath Lab (2018-2020)
+#### Undergrad Researcher, Pandarainath Lab (2018-2020) <img src='./media/snel.png' style='width:26px;height:26px'>
 
-* Created the autoLFADS tutorial, explaining how to use a custom deep learning tool to analyze single-trial neural population data.
+* Created the [autoLFADS](https://snel-repo.github.io/autolfads/) tutorial, explaining how to use a custom deep learning tool to analyze single-trial neural population data.
 
 ## Publications/Preprints/Conferences
 
@@ -39,7 +43,7 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Mohammad Reza Keshtkaran, Andrew R. Sedler, ..., Diya Basrai..., Chethan Pandarinath (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics, [Nature Methods](https://www.nature.com/articles/s41592-022-01675-0)
 
-* Diya Basrai, ..., Joshua Glaser, Matthew Tresch. (2022) Aligning Neural Activity Recorded from Rats during Locomotion Across Time And Subjects, [poster](./media/sfn2022_poster.jpg) at SFN 2022
+* Diya Basrai, ..., Joshua Glaser, Matthew Tresch. (2022) Aligning Neural Activity Recorded from Rats during Locomotion Across Time And Subjects, [poster](./media/sfn22poster.pdf) at SFN 2022
 
 * Diya Basrai, ..., Matthew Tresch. (2021) Using DeepLabCut To Predict Locations of Subdermal Landmarks From Video, [poster](./media/dlcposter.pdf) at NIH's BRAIN Initiative Meeting 2021 and conference paper at [Living Machines 2022 conference](https://link.springer.com/chapter/10.1007/978-3-031-20470-8_29)
 
@@ -53,7 +57,7 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * TA for four quarters teaching undergraduate biology courses (molecular biology x3, comparative physiology)
 
-** Received [>90% recommendation]() from students in all quarters teaching
+** Received [>90% recommendation](./media/ia_evaluation.pdf) from students in all quarters teaching
 
 #### Miscellaneous
 
@@ -61,3 +65,8 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Gave lecture to Walter Payton Prep School on causality as part of outreach program
 
+## Other
+
+* Stand-up comic, recently released [comedy special](https://www.youtube.com/watch?v=y_IceD5ij1o)
+
+* Headline contributor for The Onion, sample work [here][https://dbasrai.github.io/onion]
