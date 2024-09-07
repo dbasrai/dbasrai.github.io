@@ -2,8 +2,8 @@
 
 # military
 
-US spends 900 billion dollars on the military every year. 900 billion. If you want to grasp how big 900 billion dollars, imagine if I had a baby every day for a year.... 900 billion its a pretty big fucking number.
+I don't really know what our military is up to.... I don't really know whow what they're doing in those country. I do know they have a lot of moeny...
 
-Anyway the US spends more on the military than every other country in the world combined, which is the war we should have. US vs the world? 
+We spend 900 billion dollars on the military every year, and I have to say, I don' tthink we'reve to admit, we're not good for 900 billion. Like we have a godo military, but we're not 900 billion good.
 
-Before we even bring up the discussion whetehr that money would be better spent elswhere, you have to admit, we're not good for 900 billion. Like we have a godo military, but we're not 900 billion good.
+Like, I don't really know anything aobut the military, but there's no way that's worth 900 billion. 
