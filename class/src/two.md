@@ -55,7 +55,7 @@ The set-up is usually in two parts. The first one is an anecdote, or a news arti
 Todd Barry I think is the master of these types of jokes. Apologies for the captions on this clip.
 
 <a href="https://www.youtube.com/watch?v=UKuoreiI0a0" target="_blank" >
-  <video width="80%" height="10%" controls loop>
+  <video width="40%" height="10%" controls loop>
     <source src="./media/barry.mp4" type="video/mp4">
   </video> 
 </a>
