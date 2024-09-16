@@ -122,7 +122,9 @@ Tags should add on to a punchline. Generally keep a tag if it gets a laugh compa
 
 1) Identify in a joke you wrote the set-up, punchline, tags. Is there any part that doesn't seem to fit this description, and if so, is it necessary for the joke? Is there anytime the traditional ordering of set-up-\>punchline-\>tag doesn't quite fit in your joke, and if so, should it be rearranged? 
 
-2) Take the set-up in your joke... and write a new punchline. If possible, use the classes of jokes described above. If a new punchline doesn't really work for your joke, you can start from scratch :).
+2) Take the set-up in one of your jokes... and write a new punchline. If possible, use the classes of jokes described above. If a new punchline doesn't really work for your joke, you can start from scratch :).
+
+3) Some set-ups are easier as anecdotes. Turn the set-up of one of your jokes into a made-up anecdote.
 
 ## Assignments
 
@@ -138,5 +140,10 @@ Play Devil's Advocate to a couple popular opinions now. Write some ideas how you
 
 For instance, I don't think everyone should go to therapy is a potential Devils' Advocate take. 
 
-### TO DO 
+### For the storytellers
 
+When telling a story, embellishment, omission, and exaggeration are key to fit everyday life into the structure of stand-up. Take a story you think is funny, and rearrange the events to better fit the set-up/punchline structure.
+
+### For the observationalists
+
+Many great observational jokes show how something that seems normal is weird when you describe exactly what is happening. Try and find a normal, everyday event that is suddenly very odd when you spell out what is going on. 
