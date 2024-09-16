@@ -22,4 +22,9 @@ I'd use these for mics/shows, and absolutely nothing else.
 
 Also the instagram page @chicago.openmics daily posts stories with open mics
 
+## Show Lists
+
+[Show List](https://docs.google.com/spreadsheets/d/1emMopkyCXU1aJXSnZ4veqSES-l8XG2XPyfOt5idQB-s/edit?gid=0#gid=0)
+
+Mostly up to date show list as 9/24. 
 

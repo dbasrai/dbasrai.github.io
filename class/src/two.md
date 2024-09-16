@@ -90,7 +90,7 @@ Another example...
 
 <a href="https://www.youtube.com/watch?v=HEaDzOi9tCg" target="_blank" >
   <video width="100%" height="auto" controls loop>
-    <source src="./media/simpson_.mp4" type="video/mp4">
+    <source src="./media/simpson.mp4" type="video/mp4">
   </video> 
 </a>
 
