@@ -10,4 +10,8 @@ But no, I get to work, and they scan my fingerprint before I go and be bad at my
 
 But no, at my work they scan my fingerprint to make sure its me, and then give me $3000 a month. Which is pretty good, accordingi to Google e$3000 is actually considered upper middle class in war torn sudan.
 
+----
+
+It's crazy that every person is supposed to have a job. more jobs than people. we need to get allowance from the government. eveyrone working to survive. people who have no itnrest working in something. 
+
 
