@@ -32,7 +32,7 @@ This clip isn't really that representative of this, but been looking for an excu
 
 <a href="https://www.youtube.com/watch?v=rws-KBRuTWQ" target="_blank" >
   <video width="100%" height="auto" controls loop>
-    <source src="./media/urbano.mp4" type="video/mp4">
+    <source src="./media/urbanocut.mp4" type="video/mp4">
   </video>
 </a>
 
@@ -57,7 +57,7 @@ Do you have dirty stuff? The audience will tolerate it more if they trust you. W
 You don't have to address everything, but if you want to, doing it when you start usually makes sense. Here's a nice first joke that flows nicely out of being introduced. 
 
 <a href="https://www.youtube.com/watch?v=oEbuo47OcyE" target="_blank" >
-  <video width="100%" height="auto" controls loop>
+  <video width="40%" height="auto" controls loop>
     <source src="./media/weinberg.mp4" type="video/mp4">
   </video>
 </a>
