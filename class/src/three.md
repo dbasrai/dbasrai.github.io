@@ -2,13 +2,78 @@
 
 Early on in your career, audiences are looking for any excuse to stop listening. Sometimes, not moving the mic stand out of the way before starting your first joke is enough for people to think you're an amateur. Stand-up is hard enough... and looking like you know what you're doing is necessary to even have a chance of getting laughs.
 
-This week we'll be covering some absolute fundamentals. First, we'll chat a little about set structure, that is, how to order your jokes. Then, we'll talk about some basics of performing stand-up for those who never have been on stage before. 
+We'll focus on how to open strong. This lesson focuses on choosing a strong opening joke, and also covers some of the absolute basics of how to go from being introduced to actually performing that opening joke.
 
-## Set Structure
+## Call Me Ishmael 
 
-### Start strong, end on time
+Start with a joke that is both punchy (gets a clear laugh) and introduces who you are. Moby Dick nails this. 
 
-A comedy adage I've heard is to always end your set with your best joke, deemed "the closer." However, when starting out, you're frequently working with really short set times. Furthermore, one of the few things that matters early on in stand-up is not "running the light," or going past your alotted time. So instead, I suggest starting with your best joke, and ending with a joke that ensures you end on time.
+If you are one of those people with a name, a joke about your name works well.
+
+<a href="https://www.youtube.com/watch?v=oEbuo47OcyE" target="_blank" >
+  <video width="40%" height="auto" controls loop>
+    <source src="./media/weinberg.mp4" type="video/mp4">
+  </video>
+</a>
+
+Another popular way that easily checks both these boxes is a joke that captures how you look. Lets look at Paige Weldon for a masterclass.
+
+<a href="https://www.youtube.com/watch?v=qyzgxLFC0Ys" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/weldon.mp4" type="video/mp4">
+  </video>
+</a>
+
+Note that you don't have to address the lowest stereotypes. I'd say Paige's opening joke isn't rooted in simple assumptions, but more captures the essence of her look. These elevate your set early on, and help you break out of any simple jokes about stereotypes.
+
+### Ishmael's Hot Take
+
+Not interested in addressing your nam eor appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.
+
+See Roy Wood Jr. for one of the sickest ways to open a special. 
+
+NEED TO FIX THIS
+
+<a href="https://www.youtube.com/watch?v=CCaFg6iy3wE" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/mintzcut.mp4" type="video/mp4">
+  </video>
+</a>
+
+### Open punchy
+
+Early on, the audience isn't sure if you're funny, and has less patience for long set-ups. Open with "punchy" jokes, or jokes that have fewer words before it gets to the laugh. The longer your first set-up, the more the audience gets worried they're listening to someone rambling. 
+
+### Open clean
+
+Do you have dirty stuff? The audience will tolerate it more if they trust you. Win them over early with cleaner stuff, and use that goodwill to get to your grosser stuff.
+
+
+## Say Hi!
+
+Don't rush your first joke, it'l make you look nervous.  Take your time when you get on stage. Before you launch into your first joke, be yourself for a little bit. Act like how you would when first meeting someone. Then take a pause.... pause a  little longer... then start your first joke.
+
+Watch how awkwardly Bargatze starts every sets. It's perfect.
+
+<a href="https://www.youtube.com/watch?v=VcY28eKMM3I" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/bargatze.mp4" type="video/mp4">
+  </video>
+</a>
+
+## And the rest of the set?
+
+I listed a lot of nice guidelines for your opener. For the rest of the set, there's not many rules. Here's the most important things. 
+
+### End on Time
+
+A comedy adage I've heard is to always end your set with your best joke, deemed "the closer." However, when starting out, you're frequently working with really short set times. You don't want to be in a position where you run out of time with your best joke.
+
+So generally, I'd suggest front loading your best things near the front, and making sure you have quick ones to end the set in a pinch if the light comes earlier than you expect.
+
+### The Light?
+
+The host will shine a light at you when you have one minute (or sometimes two minutes) left in your set. First, don't go over. Second, acknowledge the light with a head nod, that way, the host doesn't think you missed it and repeatedly flash the light at you. Third, don't go over.  
 
 ### You Don't Need Transitions Between Jokes
 
@@ -36,63 +101,9 @@ This clip isn't really that representative of this, but been looking for an excu
   </video>
 </a>
 
-## Some guidelines for ordering your jokes
+### Say Bye
 
-If cohesion doesn't matter to much, how do you order your set? Here's a couple tips.
-
-### Open strong
-
-Repeating myself, but I'd generally start with your funniest joke first.
-
-### Open punchy
-
-Early on, the audience isn't sure if you're funny, and has less patience for long set-ups. Open with "punchy" jokes, or jokes that have fewer words before it gets to the laugh. The longer your first set-up, the more the audience gets worried they're listening to someone rambling. 
-
-### Open Clean
-
-Do you have dirty stuff? The audience will tolerate it more if they trust you. Win them over early with cleaner stuff, and use that goodwill to get to your grosser stuff.
-
-### Address assumptions up top
-
-You don't have to address everything, but if you want to, doing it when you start usually makes sense. Here's a nice first joke that flows nicely out of being introduced. 
-
-<a href="https://www.youtube.com/watch?v=oEbuo47OcyE" target="_blank" >
-  <video width="40%" height="auto" controls loop>
-    <source src="./media/weinberg.mp4" type="video/mp4">
-  </video>
-</a>
-
-### Close with a laugh
-
-I've emphasized previously that jokes should end with laughs. This is especially important on your final joke.
-
-## Performance Basics
-
-Okay, you've written a set. You should now go and perform it, and you'll learn more than anything I can ever describe here. For the nervous and neurotic, here's a write-up of a few basics you should follow. 
-
-### Move the mic stand out of the way 
-
-I'd suggest most people take the mic out of the mic stand, it lets you move around and doesn't block your body. When you do so, move the mic stand out of the way so it doesn't obstruct the view.
-
-### Say hi! 
-
-Don't rush your first joke. I like to say hello when I get on stage. Others like to ask how the audience is doing. If you don't want to, take a few moments of silence before you start. Jumping into your first joke can make you look nervous.
-
-### Don't acknowledge when a joke doesn't work
-
-I've mostly tried to avoid giving hard rules, especially with things that are subjective. This is one of the few things that I'd strongly suggest. If a joke doesn't do well, don't address it. Pause, breath, and say your next joke.
-
-### The Light?
-
-The host will shine a light at you when you have one minute (or sometimes two minutes) left in your set. First, don't go over. Second, acknowledge the light with a head nod, that way, the host doesn't think you missed it and repeatedly flash the light at you. Third, don't go over.  
-
-### Put the mic back
-
-If you took the mic and moved the mic stand, put it back how it was originally before you leave.
-
-### Say bye!
-
-When you finish, say goodbye. If you had a good set, remind them what your name was.
+When you end your set, make it obvious you're ending your set. Say "that's all I got," or make a big wave, but make it explicit. 
 
 ## In-Class Assignments
 
