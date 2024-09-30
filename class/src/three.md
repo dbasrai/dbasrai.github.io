@@ -113,6 +113,7 @@ When you end your set, make it obvious you're ending your set. Say "that's all I
 
 ## Assignments
 
-TODO
+This week, only assignment is to prepare a set for workshop next week!
+
 
 
