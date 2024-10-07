@@ -2,6 +2,10 @@
 
 I've never been to a real-life, in-person therapist before but I have been dabbling around with online gambling. 
 
+No, I have been trying to use those online therapy services one free trial at a time. I have this weird thing where every time they ask me a personal question I slam my laptop shut. Which makes me feel better.So its working.
+
+There's just so much maintainance in my life rihgt now. 
+
 I have nothing against going to therapy, I think it's healthy and my insurance.... (misdirect?).
 
 It's just that I feel like I have so many appoointments already in my life. I need to make dentist appointments, car appoinments, physical therapy for my bum shoulder... it's just like I need two root canals before a therapist. 
