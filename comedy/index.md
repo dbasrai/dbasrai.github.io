@@ -1,23 +1,19 @@
-4/18 - Cardinal Bar (Madison) 8PM
+all shows in brooklyn i think:
 
-4/19-20 - Comedy Corner Underground (Minneapolis w/ Sam Dicke) 8PM
 
-5/2 - Lincoln Lodge, 830PM
+10/16 - Marian's 8:15pm
 
-5/23 - Sip Cafe, 730PM
+10/17 - Comedy Under Artichoke 8pm, Talon Bar 8:15pm
 
-5/24 - Uptown Taproom, 8PM
+10/18 - Bitches Brew @ Halyard's 8pm, Puckerfish 8pm
 
-6/20 - Half Sour - 8PM
-
-6/22 - Lincoln Lodge, 6PM
-
+10/20 - Just Good Comedy @ Halyard's Bar 8pm
 
 Recurring:
 
-Prime Time @ Lincoln Lodge, some Saturdays 9PM: 4/13, 5/11, 5/25, 6/15, 6/22
+Prime Time @ Lincoln Lodge, some Saturdays 9PM: 
 
-Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 5/9, 6/13, 7/11
+Uncontrolled Variables @ Lincoln Lodge, every second Thursday @ 7:30pm: 
 
 updated 4/13/24
 
