@@ -1,6 +1,6 @@
-# Be Yourself Up There
+# Be Yourself
 
-Great sets radiate the comedian's personality and ideas. The best punchlines hit not only because they're well-crafted, but because they simultaneously perfectly capture a comedian's unique sense of humor and worldview. With just a few concise lines, the audience suddenly sees the world from the eyes of whoever is on stage... and this is what makes jokes hit hardest. 
+Great sets radiate the comedian's personality and ideas. The best punchlines hit not only because they're well-crafted, but because they simultaneously capture a comedian's unique sense of humor and worldview. 
 
 The next 7 lessons give guidelines and exercises to learn technical writing and sharp performance. Unforunately, these skills can sometimes pull the comedian away from talking about something they actually care about and find funny. Sometimes technique obfuscates who the comedian really is as a person, which renders the stand-up meaningless, or worse, unfunny. 
 
