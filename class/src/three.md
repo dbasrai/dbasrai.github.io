@@ -21,7 +21,7 @@ In a rowdier, less respectful crowd, you may have to instruct them to pay attent
 See Dulce Sloan for a very direct approach to making sure people are paying attention. 
 
 <a href="https://www.youtube.com/watch?v=X6VqHBX1adk" target="_blank" >
-  <video width="40%" height="auto" controls loop>
+  <video width="auto" height="auto" controls loop>
     <source src="./media/dulce.mp4" type="video/mp4">
   </video>
 </a>
@@ -54,12 +54,10 @@ Note that you don't have to address the lowest stereotypes. I'd say Paige's open
 
 Not interested in addressing your name or appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.
 
-See Roy Wood Jr. for one of the sickest ways to open a special. 
-
-NEED TO FIX THIS
+See Roy Wood Jr. for one of the sickest ways to open a special --- the following (audio-only) clip is from the very start of the album.
 
 <a href="https://www.youtube.com/watch?v=y108bglZn1s" target="_blank" >
-  <video width="100%" height="auto" controls loop>
+  <video width="50%" height="50%" controls loop>
     <source src="./media/rwj_opener.mp4" type="video/mp4">
   </video>
 </a>
