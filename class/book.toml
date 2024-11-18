@@ -6,5 +6,5 @@ src = "src"
 title = "Stand-up 101 by Diya Basrai"
 
 [build]
-build-dir = "/home/diya/Documents/dbasrai.github.io/standup101"
+build-dir = "./../standup101"
 create-missing = false

@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en" class="light" dir="ltr">
+<html lang="en" class="light sidebar-visible" dir="ltr">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -8,7 +8,7 @@
 
 
         <!-- Custom HTML head -->
-        
+
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
@@ -31,15 +31,17 @@
 
         <!-- Custom theme stylesheets -->
 
-    </head>
-    <body class="sidebar-visible no-js">
-    <div id="body-container">
+
         <!-- Provide site root to javascript -->
         <script>
             var path_to_root = "";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
-
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
@@ -61,19 +63,16 @@
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
-            var html = document.querySelector('html');
+            const html = document.documentElement;
             html.classList.remove('light')
             html.classList.add(theme);
-            var body = document.querySelector('body');
-            body.classList.remove('no-js')
-            body.classList.add('js');
+            html.classList.add("js");
         </script>
 
         <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
-            var body = document.querySelector('body');
             var sidebar = null;
             var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
@@ -83,45 +82,25 @@
                 sidebar = 'hidden';
             }
             sidebar_toggle.checked = sidebar === 'visible';
-            body.classList.remove('sidebar-visible');
-            body.classList.add("sidebar-" + sidebar);
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome!</a></li><li class="chapter-item expanded "><a href="syllabus.html"><strong aria-hidden="true">1.</strong> Syllabus</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="one.html"><strong aria-hidden="true">1.1.</strong> Week 1</a></li><li class="chapter-item expanded "><a href="two.html"><strong aria-hidden="true">1.2.</strong> Week 2</a></li><li class="chapter-item expanded "><a href="three.html"><strong aria-hidden="true">1.3.</strong> Week 3</a></li><li class="chapter-item expanded "><a href="four.html"><strong aria-hidden="true">1.4.</strong> Week 4</a></li><li class="chapter-item expanded "><a href="five.html"><strong aria-hidden="true">1.5.</strong> Week 5</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.6.</strong> Week 6</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.7.</strong> Week 7</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.8.</strong> Week 8</div></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="basics.html"><strong aria-hidden="true">2.</strong> Basics</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="guide.html"><strong aria-hidden="true">2.1.</strong> How To Open Mic</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.2.</strong> FAQ</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.3.</strong> Things to Avoid</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.4.</strong> Glossary</div></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="chicago.html">Chicago Resources</a></li><li class="chapter-item expanded affix "><div>Closing Thoughts</div></li></ol>
-            </div>
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
             </div>
         </nav>
 
-        <!-- Track and set sidebar scroll position -->
-        <script>
-            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
-            sidebarScrollbox.addEventListener('click', function(e) {
-                if (e.target.tagName === 'A') {
-                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
-                }
-            }, { passive: true });
-            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
-            sessionStorage.removeItem('sidebar-scroll');
-            if (sidebarScrollTop) {
-                // preserve sidebar scroll position when navigating via links within sidebar
-                sidebarScrollbox.scrollTop = sidebarScrollTop;
-            } else {
-                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
-                var activeSection = document.querySelector('#sidebar .active');
-                if (activeSection) {
-                    activeSection.scrollIntoView({ block: 'center' });
-                }
-            }
-        </script>
-
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
                         <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
@@ -362,6 +341,21 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="move-the-mic-stand-out-of-the-way"><a class="header" href="#move-the-mic-stand-out-of-the-way">Move the Mic Stand Out of the Way</a></h1>
 <p>Early on in your career, audiences are looking for any excuse to stop listening. Sometimes, not moving the mic stand out of the way before starting your first joke is enough for people to think you're an amateur. Stand-up is hard enough... and looking like you know what you're doing is necessary to even have a chance of getting laughs.</p>
 <p>We'll focus on how to open strong. This lesson focuses on choosing a strong opening joke, and also covers some of the absolute basics of how to go from being introduced to actually performing that opening joke.</p>
+<h2 id="wait-until-theyre-listening"><a class="header" href="#wait-until-theyre-listening">Wait Until They're Listening</a></h2>
+<p>No matter how good your opening joke is, if people aren't listening they're not going to laugh. Many times in-between comics going up is the only time audience members get to shuffle to the bathroom, say a joke to their friend, check their phone. You need to wait till people are ready before you start. For most crowds, this just means take your time before you start. Move the mic stand out of the way, adjust the stool, say hi... and then start.</p>
+<p>Watch how Bargatze starts his sets. The awkwardness is a clever way to give the time necessary for people to start listening.</p>
+<a href="https://www.youtube.com/watch?v=VcY28eKMM3I" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/bargatze.mp4" type="video/mp4">
+  </video>
+</a>
+<p>In a rowdier, less respectful crowd, you may have to instruct them to pay attention.</p>
+<p>See Dulce Sloan for a very direct approach to making sure people are paying attention.</p>
+<a href="https://www.youtube.com/watch?v=X6VqHBX1adk" target="_blank" >
+  <video width="40%" height="auto" controls loop>
+    <source src="./media/dulce.mp4" type="video/mp4">
+  </video>
+</a>
 <h2 id="call-me-ishmael"><a class="header" href="#call-me-ishmael">Call Me Ishmael</a></h2>
 <p>Start with a joke that is both punchy (gets a clear laugh) and introduces who you are. Moby Dick nails this.</p>
 <p>If you are one of those people with a name, a joke about your name works well.</p>
@@ -378,26 +372,20 @@
 </a>
 <p>Note that you don't have to address the lowest stereotypes. I'd say Paige's opening joke isn't rooted in simple assumptions, but more captures the essence of her look. These elevate your set early on, and help you break out of any simple jokes about stereotypes.</p>
 <h3 id="ishmaels-hot-take"><a class="header" href="#ishmaels-hot-take">Ishmael's Hot Take</a></h3>
-<p>Not interested in addressing your nam eor appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.</p>
+<p>Not interested in addressing your name or appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.</p>
 <p>See Roy Wood Jr. for one of the sickest ways to open a special.</p>
 <p>NEED TO FIX THIS</p>
-<a href="https://www.youtube.com/watch?v=CCaFg6iy3wE" target="_blank" >
+<a href="https://www.youtube.com/watch?v=y108bglZn1s" target="_blank" >
   <video width="100%" height="auto" controls loop>
-    <source src="./media/mintzcut.mp4" type="video/mp4">
+    <source src="./media/rwj_opener.mp4" type="video/mp4">
   </video>
 </a>
 <h3 id="open-punchy"><a class="header" href="#open-punchy">Open punchy</a></h3>
 <p>Early on, the audience isn't sure if you're funny, and has less patience for long set-ups. Open with "punchy" jokes, or jokes that have fewer words before it gets to the laugh. The longer your first set-up, the more the audience gets worried they're listening to someone rambling.</p>
 <h3 id="open-clean"><a class="header" href="#open-clean">Open clean</a></h3>
 <p>Do you have dirty stuff? The audience will tolerate it more if they trust you. Win them over early with cleaner stuff, and use that goodwill to get to your grosser stuff.</p>
-<h2 id="say-hi"><a class="header" href="#say-hi">Say Hi!</a></h2>
-<p>Don't rush your first joke, it'l make you look nervous.  Take your time when you get on stage. Before you launch into your first joke, be yourself for a little bit. Act like how you would when first meeting someone. Then take a pause.... pause a  little longer... then start your first joke.</p>
-<p>Watch how awkwardly Bargatze starts every sets. It's perfect.</p>
-<a href="https://www.youtube.com/watch?v=VcY28eKMM3I" target="_blank" >
-  <video width="100%" height="auto" controls loop>
-    <source src="./media/bargatze.mp4" type="video/mp4">
-  </video>
-</a>
+<h3 id="say-hi"><a class="header" href="#say-hi">Say Hi</a></h3>
+<p>Usually worth it to say hi and introduce yourself --- see the first point about making sure people are listening.</p>
 <h2 id="and-the-rest-of-the-set"><a class="header" href="#and-the-rest-of-the-set">And the rest of the set?</a></h2>
 <p>I listed a lot of nice guidelines for your opener. For the rest of the set, there's not many rules. Here's the most important things.</p>
 <h3 id="end-on-time"><a class="header" href="#end-on-time">End on Time</a></h3>
@@ -434,7 +422,23 @@
 </li>
 </ol>
 <h2 id="assignments-3"><a class="header" href="#assignments-3">Assignments</a></h2>
-<p>This week, only assignment is to prepare a set for workshop next week!</p>
+<h3 id="for-people-who-look-like-something"><a class="header" href="#for-people-who-look-like-something">For people who look like something:</a></h3>
+<ol>
+<li>Write an I-look-like joke (or an I-know-what-you're-thinking joke), but avoiding using other humans as descriptors (don't say you look like if Brad Pitt and George Clooney had a baby). Come up with abstractions, rewferences to inaminate objects, aniimals, etc. See Paige Weldon's allergy joke above as an example.</li>
+</ol>
+<h3 id="for-the-tight-writers"><a class="header" href="#for-the-tight-writers">For the tight writers</a></h3>
+<ol>
+<li>Write a switch/misdirect on what would seem like a normal opening line... see this Gary Vider opener for an example:</li>
+</ol>
+<a href="https://www.youtube.com/watch?v=ogQfXXvOu-0" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/vider.mp4" type="video/mp4">
+  </video>
+</a>
+<h3 id="for-the-ranters"><a class="header" href="#for-the-ranters">For the ranters</a></h3>
+<ol>
+<li>Have a joke/rant/hot take in your set? Write an opening line where you sort of start in the middle of it, but its clear what you're talking about instantly. See the Roy Wood Jr Confederate Flag opener earlier for an example</li>
+</ol>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="youll-get-em-next-time"><a class="header" href="#youll-get-em-next-time">You'll Get Em Next Time</a></h1>
 <p>If following the class faithfully, this week will be your first time performing stand-up. If all goes well, this lesson will be useless and you have my permission to spend the week gloating. However, and perhaps more likely, if it doesn't go as well as you fantasized about, this is the lesson for you.</p>
 <p>In this lesson, we'll talk a little about bombing. Bombing, or not getting laughs, is an inevitable part of doing stand-up. In fact, nothing is more important in stand-up than bombing. It is an absolutely fundamental skill to know IF you bombed, and know how to try and not bomb next time.</p>
