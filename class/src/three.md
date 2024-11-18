@@ -4,6 +4,30 @@ Early on in your career, audiences are looking for any excuse to stop listening.
 
 We'll focus on how to open strong. This lesson focuses on choosing a strong opening joke, and also covers some of the absolute basics of how to go from being introduced to actually performing that opening joke.
 
+## Wait Until They're Listening
+
+No matter how good your opening joke is, if people aren't listening they're not going to laugh. Many times in-between comics going up is the only time audience members get to shuffle to the bathroom, say a joke to their friend, check their phone. You need to wait till people are ready before you start. For most crowds, this just means take your time before you start. Move the mic stand out of the way, adjust the stool, say hi... and then start.
+
+Watch how Bargatze starts his sets. The awkwardness is a clever way to give the time necessary for people to start listening.
+
+<a href="https://www.youtube.com/watch?v=VcY28eKMM3I" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/bargatze.mp4" type="video/mp4">
+  </video>
+</a>
+
+In a rowdier, less respectful crowd, you may have to instruct them to pay attention. 
+
+See Dulce Sloan for a very direct approach to making sure people are paying attention. 
+
+<a href="https://www.youtube.com/watch?v=X6VqHBX1adk" target="_blank" >
+  <video width="40%" height="auto" controls loop>
+    <source src="./media/dulce.mp4" type="video/mp4">
+  </video>
+</a>
+
+
+
 ## Call Me Ishmael 
 
 Start with a joke that is both punchy (gets a clear laugh) and introduces who you are. Moby Dick nails this. 
@@ -28,15 +52,15 @@ Note that you don't have to address the lowest stereotypes. I'd say Paige's open
 
 ### Ishmael's Hot Take
 
-Not interested in addressing your nam eor appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.
+Not interested in addressing your name or appearance? Same. A joke that captures your worldview works just as well in making the audience understand who you are.
 
 See Roy Wood Jr. for one of the sickest ways to open a special. 
 
 NEED TO FIX THIS
 
-<a href="https://www.youtube.com/watch?v=CCaFg6iy3wE" target="_blank" >
+<a href="https://www.youtube.com/watch?v=y108bglZn1s" target="_blank" >
   <video width="100%" height="auto" controls loop>
-    <source src="./media/mintzcut.mp4" type="video/mp4">
+    <source src="./media/rwj_opener.mp4" type="video/mp4">
   </video>
 </a>
 
@@ -48,18 +72,9 @@ Early on, the audience isn't sure if you're funny, and has less patience for lon
 
 Do you have dirty stuff? The audience will tolerate it more if they trust you. Win them over early with cleaner stuff, and use that goodwill to get to your grosser stuff.
 
+### Say Hi
 
-## Say Hi!
-
-Don't rush your first joke, it'l make you look nervous.  Take your time when you get on stage. Before you launch into your first joke, be yourself for a little bit. Act like how you would when first meeting someone. Then take a pause.... pause a  little longer... then start your first joke.
-
-Watch how awkwardly Bargatze starts every sets. It's perfect.
-
-<a href="https://www.youtube.com/watch?v=VcY28eKMM3I" target="_blank" >
-  <video width="100%" height="auto" controls loop>
-    <source src="./media/bargatze.mp4" type="video/mp4">
-  </video>
-</a>
+Usually worth it to say hi and introduce yourself --- see the first point about making sure people are listening. 
 
 ## And the rest of the set?
 
@@ -113,7 +128,21 @@ When you end your set, make it obvious you're ending your set. Say "that's all I
 
 ## Assignments
 
-This week, only assignment is to prepare a set for workshop next week!
+### For people who look like something:
 
+1) Write an I-look-like joke (or an I-know-what-you're-thinking joke), but avoiding using other humans as descriptors (don't say you look like if Brad Pitt and George Clooney had a baby). Come up with abstractions, rewferences to inaminate objects, aniimals, etc. See Paige Weldon's allergy joke above as an example.
 
+### For the tight writers
+
+1) Write a switch/misdirect on what would seem like a normal opening line... see this Gary Vider opener for an example:
+
+<a href="https://www.youtube.com/watch?v=ogQfXXvOu-0" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/vider.mp4" type="video/mp4">
+  </video>
+</a>
+
+### For the ranters
+
+1) Have a joke/rant/hot take in your set? Write an opening line where you sort of start in the middle of it, but its clear what you're talking about instantly. See the Roy Wood Jr Confederate Flag opener earlier for an example
 
