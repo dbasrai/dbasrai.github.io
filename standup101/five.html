@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en" class="light sidebar-visible" dir="ltr">
+<html lang="en" class="light" dir="ltr">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 
 
         <!-- Custom HTML head -->
-
+        
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
@@ -30,17 +30,15 @@
 
         <!-- Custom theme stylesheets -->
 
-
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
         <!-- Provide site root to javascript -->
         <script>
             var path_to_root = "";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
-        <!-- Start loading toc.js asap -->
-        <script src="toc.js"></script>
-    </head>
-    <body>
-    <div id="body-container">
+
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
@@ -62,16 +60,19 @@
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
-            const html = document.documentElement;
+            var html = document.querySelector('html');
             html.classList.remove('light')
             html.classList.add(theme);
-            html.classList.add("js");
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
         </script>
 
         <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
+            var body = document.querySelector('body');
             var sidebar = null;
             var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
@@ -81,25 +82,45 @@
                 sidebar = 'hidden';
             }
             sidebar_toggle.checked = sidebar === 'visible';
-            html.classList.remove('sidebar-visible');
-            html.classList.add("sidebar-" + sidebar);
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <!-- populated by js -->
-            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
-            <noscript>
-                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
-            </noscript>
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome!</a></li><li class="chapter-item expanded "><a href="syllabus.html"><strong aria-hidden="true">1.</strong> Syllabus</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="one.html"><strong aria-hidden="true">1.1.</strong> Week 1</a></li><li class="chapter-item expanded "><a href="two.html"><strong aria-hidden="true">1.2.</strong> Week 2</a></li><li class="chapter-item expanded "><a href="three.html"><strong aria-hidden="true">1.3.</strong> Week 3</a></li><li class="chapter-item expanded "><a href="four.html"><strong aria-hidden="true">1.4.</strong> Week 4</a></li><li class="chapter-item expanded "><a href="five.html" class="active"><strong aria-hidden="true">1.5.</strong> Week 5</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.6.</strong> Week 6</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.7.</strong> Week 7</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">1.8.</strong> Week 8</div></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="basics.html"><strong aria-hidden="true">2.</strong> Basics</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="guide.html"><strong aria-hidden="true">2.1.</strong> How To Open Mic</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.2.</strong> FAQ</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.3.</strong> Things to Avoid</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.4.</strong> Glossary</div></li><li class="spacer"></li></ol></li><li class="chapter-item expanded "><a href="chicago.html">Chicago Resources</a></li><li class="chapter-item expanded affix "><div>Closing Thoughts</div></li></ol>
+            </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
             </div>
         </nav>
 
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                <div id="menu-bar-hover-placeholder"></div>
+                                <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
                         <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
@@ -173,18 +194,33 @@
 <p>Start with if it is clear what you're getting at. Make sure there's no information you assumed people knew but they actually do not. Running ideas in conversation with friends/comics is a good way to get at this question of if you're just incomprehensible.</p>
 <h3 id="think-about-set-up-and-punchline"><a class="header" href="#think-about-set-up-and-punchline">Think about set-up and punchline</a></h3>
 <p>Revisit Week 2 ideas, and identify set-up and punchlines. Are these clearly separated? Is the punchline at the end? Is everything in the set-up necessary for the punchline to work?</p>
-<h3 id="go-big"><a class="header" href="#go-big">Go big</a></h3>
-<p>Okay, once you've gone through the basics of seeing if there isn't anything structurally unsound about the jokes, maybe you just need to make the punchline funnier.</p>
-<p>One great way is adding hyperbole. After the initial joke about not seeing Ben And Jerry's in the daylight, watch how Maddie grossly exaggerates just to capture the simple idea of liking Ben And Jerry's.</p>
+<h2 id="improving-jokes"><a class="header" href="#improving-jokes">Improving jokes</a></h2>
+<p>If people understand the joke and you have a few punchlines, but the reception is still lukewarm, what do you do now? Here's some ideas on how to make tsomething funnier.</p>
+<h3 id="go-bigger"><a class="header" href="#go-bigger">Go bigger</a></h3>
+<p>Add hyperbole. Try going bigger, more fantastical, more rowdy, more dirty, more of whatever is the funny part of your joke. See how Maddie Wiener escalates how much she likes Ben Jerry by going big and dirty.</p>
 <a href="https://www.youtube.com/watch?v=SxfwHfu0amY" target="_blank" >
   <video width="100%" height="auto" controls loop>
     <source src="./media/wiener.mp4" type="video/mp4">
   </video>
 </a>
-<h2 id="fixing"><a class="header" href="#fixing">Fixing</a></h2>
-<p>Lets start with "broken" jokes, jokes you've written that don't work, and how to "fix" these jokes.</p>
-<h3 id="do-they-understand-what-youre-talking-about"><a class="header" href="#do-they-understand-what-youre-talking-about">Do They Understand What You're Talking About</a></h3>
-<p>Sometimes they have no idea what you're tlaing about. Truly.</p>
+<h3 id="go-smaller"><a class="header" href="#go-smaller">Go smaller</a></h3>
+<p>Understatement can work in the same way as exaggeration. Sheng Wang frequently employs this by having a rapidly escalating set-up and then having a deadpan punchline where he responds in a relaxed, understated way. Note the decompression from the set-up ("they smash your balls multiple times") to the punchline ("I probably don't got it").</p>
+<a href="https://www.youtube.com/watch?v=GtquH2sQwvU" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/sheng.mp4" type="video/mp4">
+  </video>
+</a>
+<h3 id="flip-the-punchline-and-set-up"><a class="header" href="#flip-the-punchline-and-set-up">Flip the punchline and set-up</a></h3>
+<p>It suprises me how often a joke can still make sense when you flip the punchline and the set-up. See this Ian Edwards joke, where the punchline reveals he never watched the Michael Jackson documentary. Here, this joke could have very easily been written such that in the set-up he references he never seen the Michael Jackson documentary, and thats why he can enjoy his music. Instead, he formats it cleverly about how big of a piece of shit you'd have to be to watch the documentary and enjoy MJs music, before revealing he never watched the documentary.</p>
+<a href="https://www.youtube.com/watch?v=ipAg5SOHN9g" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/ian.mp4" type="video/mp4">
+  </video>
+</a>
+<h2 id="assignments"><a class="header" href="#assignments">Assignments</a></h2>
+<ol>
+<li>Improve a joke!</li>
+</ol>
 
                     </main>
 

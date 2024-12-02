@@ -39,11 +39,14 @@ Start with if it is clear what you're getting at. Make sure there's no informati
 ### Think about set-up and punchline
 
 Revisit Week 2 ideas, and identify set-up and punchlines. Are these clearly separated? Is the punchline at the end? Is everything in the set-up necessary for the punchline to work? 
-### Go big
 
-Okay, once you've gone through the basics of seeing if there isn't anything structurally unsound about the jokes, maybe you just need to make the punchline funnier.
+## Improving jokes
 
-One great way is adding hyperbole. After the initial joke about not seeing Ben And Jerry's in the daylight, watch how Maddie grossly exaggerates just to capture the simple idea of liking Ben And Jerry's.
+If people understand the joke and you have a few punchlines, but the reception is still lukewarm, what do you do now? Here's some ideas on how to make tsomething funnier.
+
+### Go bigger
+
+Add hyperbole. Try going bigger, more fantastical, more rowdy, more dirty, more of whatever is the funny part of your joke. See how Maddie Wiener escalates how much she likes Ben Jerry by going big and dirty.
 
 <a href="https://www.youtube.com/watch?v=SxfwHfu0amY" target="_blank" >
   <video width="100%" height="auto" controls loop>
@@ -51,12 +54,26 @@ One great way is adding hyperbole. After the initial joke about not seeing Ben A
   </video>
 </a>
 
-## Fixing
+### Go smaller
 
-Lets start with "broken" jokes, jokes you've written that don't work, and how to "fix" these jokes. 
+Understatement can work in the same way as exaggeration. Sheng Wang frequently employs this by having a rapidly escalating set-up and then having a deadpan punchline where he responds in a relaxed, understated way. Note the decompression from the set-up ("they smash your balls multiple times") to the punchline ("I probably don't got it").
 
-### Do They Understand What You're Talking About
+<a href="https://www.youtube.com/watch?v=GtquH2sQwvU" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/sheng.mp4" type="video/mp4">
+  </video>
+</a>
 
-Sometimes they have no idea what you're tlaing about. Truly. 
+### Flip the punchline and set-up
 
+It suprises me how often a joke can still make sense when you flip the punchline and the set-up. See this Ian Edwards joke, where the punchline reveals he never watched the Michael Jackson documentary. Here, this joke could have very easily been written such that in the set-up he references he never seen the Michael Jackson documentary, and thats why he can enjoy his music. Instead, he formats it cleverly about how big of a piece of shit you'd have to be to watch the documentary and enjoy MJs music, before revealing he never watched the documentary. 
 
+<a href="https://www.youtube.com/watch?v=ipAg5SOHN9g" target="_blank" >
+  <video width="100%" height="auto" controls loop>
+    <source src="./media/ian.mp4" type="video/mp4">
+  </video>
+</a>
+
+## Assignments
+
+1) Improve a joke!
