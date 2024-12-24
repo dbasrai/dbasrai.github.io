@@ -13,7 +13,9 @@ I'm shit at my job, but I think most of us are kinda shit at our jobs. Because h
 
 I do think that's the heart of every single conspiracy theory, is someone fucking up at work and not telling someone. Even 9/11, you know how people are like jet fuel doesn't melt steel beams, I bet what actually happened was that after the world trade center was constructed, some architectural firm was like they wanted steal beams? Well I don't think it makes a difference as long as they don't get 9/11ed. 
 
+--
 
+science is focused on creating things that allow us to work more. 
 
 People who make AI are also dogshit at their jobs. Have you seen the fast food kiosk. 
 
@@ -22,10 +24,3 @@ People who make AI are also dogshit at their jobs. Have you seen the fast food k
 Everytime a Boeing Plane crashes, that's because everybody's gotta work. 
 
 
-
-
-
-
-
-
- 
