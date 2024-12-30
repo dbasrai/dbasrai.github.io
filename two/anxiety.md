@@ -1,5 +1,20 @@
 # anxiety
 
+--> monopoly money/retirement/they're not gonna let us retire
+
+I can't retire because I'm used to having insurance now. I went from not having insurance for many years to having good insurance, and I'm using it baby. I've used it so much I know my group number off the top of my head. I don't even know my moms phone number, but I'm walking into the doctors office reciting my group number and policy number. I printed out my digital card. If anyone here needs a group number, I got you dawg, appointments on me. 
+
+I don't really have time for all my appointments. I work 40 hours a week, and I actually don't know how many hours there are in a week total, but based on how much time I have after work I think there are 51 hours in a week. I work 40 hours out of the 51 total hours in a week. 
+
+Because I think I have one free hour on weekdays, and there's three hours on Saturdays and Sundays. And now all those extra 11 hours are being used on appointments.
+
+I have insurance now, and I've been using it. I know my policy/group number. If anyone needs a group #, I got one dawgs, group and policy #. 
+
+
+house, autoerotic asphyxiation, kal penn.
+
+twink
+
 I've never been to a real-life, in-person therapist before but I have been dabbling around with online gambling. 
 
 No, I have been trying to use those online therapy services one free trial at a time. I have this weird thing where every time they ask me a personal question I slam my laptop shut. Which makes me feel better.So its working.
