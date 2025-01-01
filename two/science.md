@@ -8,10 +8,9 @@ By the way, did you guys know that you can be authorized personnel and make $35,
 
 Here's what I do at work. I fuck up and don't tell anybody. Which is not good when you work in science. Like, there's always been this lack of public faith in science... evolution/germtheory/male g spot.
 
-I'm shit at my job, but I think most of us are kinda shit at our jobs. Because here, you have to work to survive, not in what you're interested in or good at. Like, I was bad in science in high school, and now I make your vacccines, and I didn't even have a life-changing event, like I think I would still do bad in high school science.
-
-
 I do think that's the heart of every single conspiracy theory, is someone fucking up at work and not telling someone. Even 9/11, you know how people are like jet fuel doesn't melt steel beams, I bet what actually happened was that after the world trade center was constructed, some architectural firm was like they wanted steal beams? Well I don't think it makes a difference as long as they don't get 9/11ed. 
+
+
 
 --
 

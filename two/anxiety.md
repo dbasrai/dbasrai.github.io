@@ -2,13 +2,60 @@
 
 --> monopoly money/retirement/they're not gonna let us retire
 
-I can't retire because I'm used to having insurance now. I went from not having insurance for many years to having good insurance, and I'm using it baby. I've used it so much I know my group number off the top of my head. I don't even know my moms phone number, but I'm walking into the doctors office reciting my group number and policy number. I printed out my digital card. If anyone here needs a group number, I got you dawg, appointments on me. 
+It’s nice having a job, I’ve got insurance now… if anyone here needs a group number or policy number, I’ve got you. That’s the best part of having insurance is you’ve got all these numbers. When I didn’t have insurance, you have no numbers. You’ve just got your social security number. Without insurance you’ve got to tell everybody your social security number. that's really a hidden indicator of how well you're doing in life, is how often you are saying your social security number out loud. you ever met someone well off enough where they don't know their ssn off the top of their head? I was having to tell 17 year old CVS employees my social security numbers, and they weren’t even in the pharmacy section, just to open the case around ibuprofen bottles.
 
-I don't really have time for all my appointments. I work 40 hours a week, and I actually don't know how many hours there are in a week total, but based on how much time I have after work I think there are 51 hours in a week. I work 40 hours out of the 51 total hours in a week. 
+last 4 digits, they call out my entire SSN. they're so not discrete when you don't have insurance. Its this your last 4 digits of your phoen number. At CVS they're callling out my social security number over the loudspeaker.
 
-Because I think I have one free hour on weekdays, and there's three hours on Saturdays and Sundays. And now all those extra 11 hours are being used on appointments.
+But now I have insurance and been curious about getting some appointments. Like I was considering trying out therapy. I’ve never seen a real in-person therapist but recently have been dabbling around a little with the online…. Gambling. But even though I have insurance, what I never realized is with a full-time job, you have no time to actually use your insurance. I’ve already got too many appointments. I work 40 hours a week, and I don’t know how many total hours are in a week, but going by how much free time I have there must be around 51 hours in a week. After work there’s one hour on weekdays, and Saturday and Sunday are 3 hours each. 
 
-I have insurance now, and I've been using it. I know my policy/group number. If anyone needs a group #, I got one dawgs, group and policy #. 
+And now all those extra 11 hours are being used on appointments. I realize now is you don't have time to get appointments to fix everything. You get one appointment, you choose one thing to get fixed. Like, I realize now, all my friends who go to therapy, none of them have been to a dentist in the last 4 years.
+
+Theyre always saying to me dude you should talk to someone about your feelings, and I'm like, you should talk to somebody about fillings bro.
+
+i feel like its just not possible to have enough time to make all your appointments to be healthy. we gotta have one guy for all appointments. And not just healthcare related, just all appointments. Like the cheesecake factory for appointments. I want to take my car in, and as they're changing my air filter, they're also like how's your relationship wit your dad. 
+
+also, i don't need to split my appointments, cuz I don't need specialists. im mostly fine. thats what chatGPT said. i've started using AI to look up any health concerns, and chatGPT usually says im fine. AI yourself here?
+
+like I don't need to see a real doctor, I just need a guy who's seen all of HOUSE.
+
+HOUSE sucks by the way. I used to watch it religiously cuz they had Kal Penn as one of the dcotors, and he was on of the few indian characters on primetime tv. (machete joke prolly). and then he quit the show to join the obama administratoin, and the house show was like well he killed himself. from autoerotic asphyixiation. yeah he was so horny and sad he died.
+
+I also don't know why I have to see a whol new guy in order to get therapy. shouldnt the doctor do it? Isn't mental health... health?
+
+Because I think the physical doesn't even really make sense. here's what they do during my test. they do the stehetscope heart thingy, then they do the knee reflex test, then they check my balls.
+
+Those are apparently the top 3 causes of death for 27 year olds. 
+
+I feel like they can cut the balls check and just do therapy instead. I feel like that can be a wait-till-it-hurts kind of situation. 
+
+Also I feel like the doctor even knows they don't have to do it. Because here's the procedure, they cup it and tell you to look away and cough. And I think you don't medically have to look away. I just think he doesn't wan tto make eye contact with you.
+
+THERAPY SURVEYS?
+
+So I don't have time to see a therapist, I just have to do DIY therapy. Which is just having ChatGPT tell you you're fine (CALLBACK).
+
+Its suggested that its good for my mental health if I do the crossword in the morning... because apparently its good for my mental health if I start my day feeling like the dumbest motherfucker alive.
+
+The first pass of the crossword is always good. The crossword is a good time when you only solve the clues that you know. Your first pass through the corssword, every clue is like what's a thing you eat soup with. And I'll be like a spoon... and its like I guess I live a curious life you know, I just have a broad range of knowledge.
+
+And then your second pass through its impossible. Everything is written in this weird crossword language. Every clue is like... "An Alabama Civil Rights Leader... comma... Sort of" And you're like what the fuck sort of? What's sort of an alabama civil rights leader? 
+
+I start my morning off with the crossword and now I just start the morning off furious. What I hate the most is when you think the answer is a word and it turns out to  be a phrase... like the clue will be this is a way to prevent pregnancy, and then you'll pencil in contraceptive. And then you hit reveal answer and you'll be like ohh.... cuminhermouth of course....
+
+I just gotta admit I don't know enough facts for the crossword.
+
+CROSSWORD FINISH
+
+M
+
+
+
+
+
+
+
+
+
 
 
 house, autoerotic asphyxiation, kal penn.
