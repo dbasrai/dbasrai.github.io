@@ -4,21 +4,19 @@ Diya Basrai, diyabasrai@gmail.com
 
 ## Course Overview
 
-Lesson 1 is about being yourself. 
+Lesson 1 is about premises.
 
 Lesson 2 covers the principles of joke structure. 
 
-Lesson 3 focuses on opening strong, as well as performance basics. In-class we will have our first WORKSHOP, where students will perform 2-3 minutes of jokes to each other and give feedback. 
+Lesson 3 focuses on basis of performing.
 
 Lesson 4 is about bombing.
 
-Lesson 5 focuses on editing and refining.
+Lesson 5 guides editing and refining.
 
-Lesson 6 is reserved for parent teacher conferences. In-class we will have our second WORKSHOP.
+Lesson 6 is reserved for parent teacher conferences.
 
 Lesson 7 is about finding your voice.
-
-Lesson 8 is a third workshop.
 
 ## Lesson Overview
 
