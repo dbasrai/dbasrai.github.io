@@ -3,7 +3,7 @@
 [Welcome!](./welcome.md)
 - [Syllabus](./syllabus.md)
   - [Week 1](./one.md)
-  - [Week 2]()
+  - [Week 2](./two.md)
   - [Week 3]()
   - [Week 4]()
   - [Week 5]()

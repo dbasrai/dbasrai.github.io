@@ -14,6 +14,8 @@ In observational comedy, the premise is generally an observation of something co
 
 In this great Laura Peek joke, the premise is that it is odd that woman's bathrooms say no "foreign" objects. That is the main idea behind the joke, and the funny comes from various examples. Again, the observation of the word "foreign" isn't funny in itself, but it is interesting and can be explained. 
 
+Notice something weird, and find a premise that is the root of why its weird. 
+
 In some cases, the premise is pretty inseparable from the joke itself. In this Louis Katz bit, the premise that NYE has the worst parts of all the other holidays is pretty much a step away from the joke... but note that it still needs to be explained through example. If your premise is JUST the joke, you rarely have somewhere to go. 
 
 <video width="100%" height="auto" controls loop>
