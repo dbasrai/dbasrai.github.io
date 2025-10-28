@@ -1,0 +1,10 @@
+[book]
+authors = ["dbasrai"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Stand-up 101 by Diya Basrai"
+
+[build]
+build-dir = "./../standup101"
+create-missing = false
