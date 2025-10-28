@@ -41,6 +41,12 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
+      - name: Install Python for Jupyter
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      - name: Install Jupyter
+        run: pip install jupyter
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
