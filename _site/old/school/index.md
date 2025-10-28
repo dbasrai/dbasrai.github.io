@@ -1,3 +1,0 @@
-# placeholder
-
-school stuff 
