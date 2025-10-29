@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: diya
+first_name: Diya
 middle_name: 
-last_name: basrai
+last_name: Basrai
 contact_note: >
   diyabasrai@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: diyas blog # blog_name will be displayed in your blog page
+blog_description: this is diyas blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
