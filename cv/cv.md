@@ -37,16 +37,16 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 ## Publications/Preprints/Conferences
 
-* **Diya Basrai**..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, Under review at Nature Neuroscience
+* **Diya Basrai**, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, Under review at Nature Neuroscience
 
-* Amy Kristl..., **Diya Basrai**..., Andrew Miri (2025). Interactions between motor cortical forelimb regions and their influence on muscles 
+* Amy Kristl, ...,  **Diya Basrai**..., Andrew Miri (2025). Interactions between motor cortical forelimb regions and their influence on muscles 
 reorganize across behaviors, [bioRxiv](https://pubmed.ncbi.nlm.nih.gov/39974973/)
 
-* Natalie Koh..., **Diya Basrai**..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, Under review at Nature Communications)
+* Natalie Koh, ..., **Diya Basrai**..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, Under review at Nature Communications)
 
-* Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest..., **Diya Basrai**..., Andrew Miri. (2025) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, [eLife](https://elifesciences.org/articles/103069)
+* Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest, ..., **Diya Basrai**..., Andrew Miri. (2025) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, [eLife](https://elifesciences.org/articles/103069)
 
-* Alex Burton... **Diya Basrai**... Matthew Tresch, Philipp Gutruf. (2023) Fully implanted battery-free high power platform for chronic spinal and muscular functional electrical stimulation, [Nature Communications](https://www.nature.com/articles/s41467-023-43669-2)
+* Alex Burton..., **Diya Basrai**..., Matthew Tresch, Philipp Gutruf. (2023) Fully implanted battery-free high power platform for chronic spinal and muscular functional electrical stimulation, [Nature Communications](https://www.nature.com/articles/s41467-023-43669-2)
 
 * Mohammad Reza Keshtkaran, Andrew R. Sedler, ..., **Diya Basrai**..., Chethan Pandarinath (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics, [Nature Methods](https://www.nature.com/articles/s41592-022-01675-0)
 
