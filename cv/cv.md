@@ -21,17 +21,17 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 ## Research Experience
 
-#### PhD Student, Miri/Glaser labs (2023-present) 
+#### PhD Student, Miri/Glaser labs (2023-present), T32 Training Fellow (2025-Present) 
 
 * Examining thalamocortical interactions underlying naturalistic movement
 * Conducting large-scale neural recordings and perturbations during mice behavior
-* Analyzing multi-region interactions using novel modelling approach
+* Receipient of T32 Training Grant (2025
 
 #### Research Tech, Tresch Lab (2020-2022)
 
 * Applying brain-machine interfaces to restore walking in rats with spinal cord injury
 
-#### Undergrad Researcher, Pandarainath Lab (2018-2020) <img src='./media/snel.png' style='width:22px;height:22px'>
+#### Undergrad Researcher, Systems Neural Engineering Lab (2018-2020) <img src='./media/snel.png' style='width:22px;height:22px'>
 
 * Created the [autoLFADS](https://snel-repo.github.io/autolfads/) tutorial, explaining how to use a custom deep learning tool to analyze single-trial neural population data.
 
@@ -55,7 +55,13 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 ## Publications/Preprints/Conferences
 
-* Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest..., **Diya Basrai**..., Andrew Miri. (2024) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.09.23.559136v2)
+* **Diya Basrai**..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, Under review at Nature Neuroscience
+
+Amy Kristl..., **Diya Basrai**..., Andrew Miri (2025). Interactions between motor cortical forelimb regions and their influence on muscles 
+reorganize across behaviors, [bioRxiv](https://pubmed.ncbi.nlm.nih.gov/39974973/)
+Natalie Koh..., **Diya Basrai**..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, Under review at Nature Communications)
+
+* Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest..., **Diya Basrai**..., Andrew Miri. (2025) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, [eLife](https://elifesciences.org/articles/103069)
 
 * Alex Burton... **Diya Basrai**... Matthew Tresch, Philipp Gutruf. (2023) Fully implanted battery-free high power platform for chronic spinal and muscular functional electrical stimulation, [Nature Communications](https://www.nature.com/articles/s41467-023-43669-2)
 
@@ -65,13 +71,8 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * **Diya Basrai**, ..., Matthew Tresch. (2021) Using DeepLabCut To Predict Locations of Subdermal Landmarks From Video, [poster](./media/dlcposter.pdf) at NIH's BRAIN Initiative Meeting 2021 and [conference paper](https://link.springer.com/chapter/10.1007/978-3-031-20470-8_29) at Living Machines 2022 conference
 
-* **Diya Basrai**. (2024) Inducing Jocular Tone Through Mismatch Presentations, *Uncontrolled Variables* doi: 10.1038/nn.2303. 
-
-
 ## Other
 
 * Stand-up comic, recently released [comedy special](https://www.youtube.com/watch?v=y_IceD5ij1o)
 
 * Headline contributor for The Onion, sample work [here](https://dbasrai.github.io/onion)
-
-
