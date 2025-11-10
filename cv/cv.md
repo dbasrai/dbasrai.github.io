@@ -25,7 +25,6 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Examining thalamocortical interactions underlying naturalistic movement
 * Conducting large-scale neural recordings and perturbations during mice behavior
-* Receipient of T32 Training Grant (2025
 
 #### Research Tech, Tresch Lab (2020-2022)
 
@@ -59,6 +58,8 @@ reorganize across behaviors, [bioRxiv](https://pubmed.ncbi.nlm.nih.gov/39974973/
 #### Teaching Assistant at Northwestern University (2024-present)
 
 * TA for two quarters, teaching undergraduate neuroscience courses (systems neuroscience, human genetics)
+
+* Received [>90% recommendation](./media/nu_ta_evaluation.pdf) from students in all quarters teaching
 
 #### Teaching Assistant at University of California, San Diego (2018-2019)
 
