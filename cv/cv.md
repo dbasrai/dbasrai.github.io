@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="./media/kawaii.jpg" />
+<!<img style="float:right;border-radius:50%;width:70px;padding:6px" src="./media/kawaii.jpg" />>
 
 <span style="float:right;padding:20px"> 
   diyabasrai@gmail.com 
@@ -25,7 +25,7 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 * Examining thalamocortical interactions underlying naturalistic movement
 * Conducting large-scale neural recordings and perturbations during mice behavior
-* Receipient of T32 Training Grant (2025
+* Receipient of T32 Training Grant (2025)
 
 #### Research Tech, Tresch Lab (2020-2022)
 
@@ -33,16 +33,16 @@ Neuroscience PhD student interested in the neural basis of movement through expe
 
 #### Undergrad Researcher, Systems Neural Engineering Lab (2018-2020) <img src='./media/snel.png' style='width:22px;height:22px'>
 
-* Created the [autoLFADS](https://snel-repo.github.io/autolfads/) tutorial, explaining how to use a custom deep learning tool to analyze single-trial neural population data.
+* Created the [autoLFADS](https://snel-repo.github.io/autolfads/) tutorial, explaining how to use a custom deep learning tool to analyze neural activity data.
 
 ## Publications/Preprints/Conferences
 
-* **Diya Basrai**, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, Under review at Nature Neuroscience
+* **Diya Basrai**, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, [BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1) Under review at Nature Neuroscience
 
 * Amy Kristl, ...,  **Diya Basrai**..., Andrew Miri (2025). Interactions between motor cortical forelimb regions and their influence on muscles 
-reorganize across behaviors, [bioRxiv](https://pubmed.ncbi.nlm.nih.gov/39974973/)
+reorganize across behaviors, [Nature Communications](https://www.nature.com/articles/s41467-025-65381-z)
 
-* Natalie Koh, ..., **Diya Basrai**..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, Under review at Nature Communications)
+* Natalie Koh, ..., **Diya Basrai**..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, (Under review at Nature Communications)
 
 * Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest, ..., **Diya Basrai**..., Andrew Miri. (2025) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, [eLife](https://elifesciences.org/articles/103069)
 
@@ -71,8 +71,6 @@ reorganize across behaviors, [bioRxiv](https://pubmed.ncbi.nlm.nih.gov/39974973/
 * Teaches Stand-up 101 @ The Revival Theater
 
 * Gave lecture to Walter Payton Prep School on causality as part of outreach program
-
-
 
 ## Other
 
