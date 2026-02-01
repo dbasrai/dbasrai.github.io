@@ -1,97 +1,79 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Email
+      value: diyabasrai@gmail.com
+    - name: Summary
+      value: Neuroscience PhD student interested in the neural basis of movement through experimental and computational approaches
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD student, Interdepartmental Neuroscience
+      institution: Northwestern University
+      year: "2022-present"
+      description: []
+    - title: B.S., magna cum laude, Physiology and Neuroscience
+      institution: University of California, San Diego
+      year: "2015-2019"
+      description: []
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD Student, Miri/Glaser labs; T32 Training Fellow (2025-Present)
+      institution: Northwestern University
+      year: "2023-present"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Examining thalamocortical interactions underlying naturalistic movement
+        - Conducting large-scale neural recordings and perturbations during mice behavior
+        - Recipient of T32 Training Grant (2025)
+    - title: Research Tech, Tresch Lab
+      institution:
+      year: "2020-2022"
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Applying brain-machine interfaces to restore walking in rats with spinal cord injury
+    - title: Undergrad Researcher, Systems Neural Engineering Lab
+      institution:
+      year: "2018-2020"
       description:
+        - Created the <a href="https://snel-repo.github.io/autolfads/" target="_blank" rel="noopener">autoLFADS</a> tutorial, explaining how to use a custom deep learning tool to analyze neural activity data.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications / Preprints / Conferences
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<b>Diya Basrai</b>, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, <a href=\"https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1\" target=\"_blank\" rel=\"noopener\">BioRxiv</a> Under review at Nature Neuroscience"
+    - "Amy Kristl, ..., <b>Diya Basrai</b>..., Andrew Miri (2025). Interactions between motor cortical forelimb regions and their influence on muscles reorganize across behaviors, <a href=\"https://www.nature.com/articles/s41467-025-65381-z\" target=\"_blank\" rel=\"noopener\">Nature Communications</a>"
+    - "Natalie Koh, ..., <b>Diya Basrai</b>..., Andrew Miri (2025) Distributed influence on primary motor cortex preceding self-initiated movement, (Under review at Nature Communications)"
+    - "Akiko Saiki-Ishikawa, Mark Agrios, Sajishnu Savya, Adam Forrest, ..., <b>Diya Basrai</b>..., Andrew Miri. (2025) Hierarchy between forelimb premotor and primary motor cortices and its manifestation in their firing patterns, <a href=\"https://elifesciences.org/articles/103069\" target=\"_blank\" rel=\"noopener\">eLife</a>"
+    - "Alex Burton..., <b>Diya Basrai</b>..., Matthew Tresch, Philipp Gutruf. (2023) Fully implanted battery-free high power platform for chronic spinal and muscular functional electrical stimulation, <a href=\"https://www.nature.com/articles/s41467-023-43669-2\" target=\"_blank\" rel=\"noopener\">Nature Communications</a>"
+    - "Mohammad Reza Keshtkaran, Andrew R. Sedler, ..., <b>Diya Basrai</b>..., Chethan Pandarinath (2022) A large-scale neural network training framework for generalized estimation of single-trial population dynamics, <a href=\"https://www.nature.com/articles/s41592-022-01675-0\" target=\"_blank\" rel=\"noopener\">Nature Methods</a>"
+    - "<b>Diya Basrai</b>, ..., Joshua Glaser, Matthew Tresch. (2022) Aligning Neural Activity Recorded from Rats during Locomotion Across Time And Subjects, <a href=\"/assets/pdf/sfn22poster.pdf\" target=\"_blank\" rel=\"noopener\">poster</a> at SFN 2022"
+    - "<b>Diya Basrai</b>, ..., Matthew Tresch. (2021) Using DeepLabCut To Predict Locations of Subdermal Landmarks From Video, <a href=\"/assets/pdf/dlcposter.pdf\" target=\"_blank\" rel=\"noopener\">poster</a> at NIH's BRAIN Initiative Meeting 2021 and <a href=\"https://link.springer.com/chapter/10.1007/978-3-031-20470-8_29\" target=\"_blank\" rel=\"noopener\">conference paper</a> at Living Machines 2022 conference"
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Northwestern University
+      year: "2024-present"
+      description:
+        - TA for two quarters, teaching undergraduate neuroscience courses (systems neuroscience, human genetics)
+    - title: Teaching Assistant
+      institution: University of California, San Diego
+      year: "2018-2019"
+      description:
+        - TA for four quarters teaching undergraduate biology courses (molecular biology x3, comparative physiology)
+        - Received <a href="/assets/pdf/ia_evaluation.pdf" target="_blank" rel="noopener">&gt;90% recommendation</a> from students in all quarters teaching
+    - title: Miscellaneous
+      institution:
+      year:
+      description:
+        - Teaches Stand-up 101 @ The Revival Theater
+        - Gave lecture to Walter Payton Prep School on causality as part of outreach program
+
+- title: Other
+  type: list
+  contents:
+    - "Stand-up comic, recently released <a href=\"https://www.youtube.com/watch?v=y_IceD5ij1o\" target=\"_blank\" rel=\"noopener\">comedy special</a>"
+    - "Headline contributor for The Onion, sample work <a href=\"https://dbasrai.github.io/onion\" target=\"_blank\" rel=\"noopener\">here</a>"
