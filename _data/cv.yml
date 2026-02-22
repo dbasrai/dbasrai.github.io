@@ -1,4 +1,4 @@
-- title: 
+- title:
   type: map
   contents:
     - name: Email
@@ -40,4 +40,4 @@
 - title: Research
   type: list
   contents:
-    - "<b>Diya Basrai</b>, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, <a href=\"https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1\" target=\"_blank\" rel=\"noopener\">BioRxiv</a> 
+    - "<b>Diya Basrai</b>, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, <a href=\"https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1\" target=\"_blank\" rel=\"noopener\">BioRxiv</a> Under review at Nature Neuroscience"
