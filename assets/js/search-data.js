@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-from-scratch",
+        
+          title: "from scratch",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/from-scratch/";
+          
+        },
+      },{id: "post-a-post-with-formatting-and-links",
         
           title: "a post with formatting and links",
         
