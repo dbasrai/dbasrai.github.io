@@ -3,8 +3,6 @@ layout: post
 title: from scratch
 date: 2026-02-22
 description: 
-tags:
-categories:
 ---
 One of the slightly uncomfortable aspects of getting more experienced is you don't get as many opportunities to start totally from scratch. I feel it a lot in my PhD... as you get deeper into a project, everything builds off what you've done previously, which means that previous mistakes, inaccuracies, and general messiness compounds. Many times, you reach the situation where you don't even want to try and figure out how to fix these past mistakes... there's a nagging fear that it may reveal a fundamental issue that invalidates a lot of your progress, and its almost easier at times to ignore it and plow forward. Other times, you just don't have time to fix smaller stuff; projects always seem to accelerate.
 
