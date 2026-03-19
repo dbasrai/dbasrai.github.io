@@ -41,52 +41,63 @@ module ComedyShows
     end
 
     def run
-      return if @ics_url.nil? || @ics_url.strip.empty?
+      items = []
 
-      # Use open-uri instead of httparty to avoid additional gem/TLS issues.
-      ics_text = URI.open(
-        @ics_url,
-        open_timeout: 15,
-        read_timeout: 30,
-        'User-Agent' => "Mozilla/5.0 (compatible; comedy-shows-jekyll-plugin)"
-      ).read
-      return if ics_text.nil? || ics_text.strip.empty?
+      begin
+        return items if @ics_url.nil? || @ics_url.strip.empty?
 
-      unfolded = unfold_ics_lines(ics_text)
-      events = parse_vevents(unfolded)
+        # Use open-uri instead of httparty to avoid additional gem/TLS issues.
+        ics_text = URI.open(
+          @ics_url,
+          open_timeout: 15,
+          read_timeout: 30,
+          'User-Agent' => "Mozilla/5.0 (compatible; comedy-shows-jekyll-plugin)"
+        ).read
 
-      now_utc = Time.now.utc
-      window_end_utc = now_utc + (@window_days * 86_400)
+        return items if ics_text.nil? || ics_text.strip.empty?
 
-      items = events.filter_map do |ev|
-        summary = ev[:summary]
-        next if summary.nil?
+        unfolded = unfold_ics_lines(ics_text)
+        events = parse_vevents(unfolded)
 
-        # Many calendars include "CANCEL ..." as the SUMMARY; exclude those.
-        next if summary.strip.upcase.start_with?('CANCEL')
+        now_utc = Time.now.utc
+        window_end_utc = now_utc + (@window_days * 86_400)
 
-        if ev[:recurring]
-          next_occ = compute_next_occurrence(ev, now_utc, window_end_utc)
-          next_occ if next_occ
-        else
-          dtstart = ev[:dtstart_utc]
-          next if dtstart.nil?
-          next if dtstart < now_utc || dtstart > window_end_utc
-          {
-            start: ev[:dtstart_utc].iso8601,
-            end: ev[:dtend_utc]&.iso8601,
-            allDay: ev[:all_day],
-            summary: summary.strip,
-            location: ev[:location],
-            recurring: false,
-            rruleLabel: nil,
-            timeZone: @timezone_name
-          }
+        items = events.filter_map do |ev|
+          summary = ev[:summary]
+          next if summary.nil?
+
+          # Many calendars include "CANCEL ..." as the SUMMARY; exclude those.
+          next if summary.strip.upcase.start_with?('CANCEL')
+
+          if ev[:recurring]
+            next_occ = compute_next_occurrence(ev, now_utc, window_end_utc)
+            next_occ if next_occ
+          else
+            dtstart = ev[:dtstart_utc]
+            next if dtstart.nil?
+            next if dtstart < now_utc || dtstart > window_end_utc
+            {
+              start: ev[:dtstart_utc].iso8601,
+              end: ev[:dtend_utc]&.iso8601,
+              allDay: ev[:all_day],
+              summary: summary.strip,
+              location: ev[:location],
+              recurring: false,
+              rruleLabel: nil,
+              timeZone: @timezone_name
+            }
+          end
         end
-      end
 
-      items.sort_by! { |i| Time.parse(i[:start]).to_i }
-      write_json(items)
+        items.sort_by! { |i| Time.parse(i[:start]).to_i }
+      rescue => e
+        warn "[comedy_shows] ICS processing error: #{e.class}: #{e.message}"
+        warn e.backtrace.join("\n")
+        items = []
+      ensure
+        # Always write the JSON file so the page doesn't 404.
+        write_json(items)
+      end
     end
 
     private
