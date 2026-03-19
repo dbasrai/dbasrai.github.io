@@ -2,7 +2,6 @@ require 'json'
 require 'time'
 require 'date'
 require 'fileutils'
-require 'tzinfo'
 require 'open-uri'
 require 'uri'
 
@@ -37,7 +36,6 @@ module ComedyShows
       @ics_url = site.config['shows_ics_url']
       @timezone_name = site.config['shows_timezone'] || 'America/Chicago'
       @window_days = (site.config['shows_window_days'] || 183).to_i
-      @tz = TZInfo::Timezone.get(@timezone_name)
     end
 
     def run
@@ -101,6 +99,27 @@ module ComedyShows
     end
 
     private
+
+    def with_tz(tz_name)
+      prev = ENV['TZ']
+      ENV['TZ'] = tz_name
+      yield
+    ensure
+      ENV['TZ'] = prev
+    end
+
+    def local_time_to_utc(tz_name, year:, month:, day:, hour:, min:, sec:)
+      with_tz(tz_name) do
+        local = Time.new(year, month, day, hour, min, sec)
+        local.getutc
+      end
+    end
+
+    def utc_to_local(time_utc, tz_name)
+      with_tz(tz_name) do
+        time_utc.getlocal
+      end
+    end
 
     def write_json(items)
       dest_json_dir = File.join(@site.dest, 'assets', 'json')
@@ -207,20 +226,24 @@ module ComedyShows
           return { dt_utc: nil, all_day: true }
         end
 
-        if dates.length == 1
-          date = dates.first
-          local = @tz.local_time(date.year, date.month, date.day, 0, 0, 0)
-          return { dt_utc: local.to_time.utc, all_day: true }
+        dts = dates.map do |date|
+          local_time_to_utc(
+            tz_name,
+            year: date.year,
+            month: date.month,
+            day: date.day,
+            hour: 0,
+            min: 0,
+            sec: 0
+          )
         end
 
-        dts = dates.map do |date|
-          local = @tz.local_time(date.year, date.month, date.day, 0, 0, 0)
-          local.to_time.utc
+        if dts.length == 1
+          return { dt_utc: dts.first, all_day: true }
         end
+
         return { dt_utc: dts.first, dt_utc_list: dts, all_day: true }
       end
-
-      tz = TZInfo::Timezone.get(tz_name)
 
       dts = parts.map do |p|
         next if p.nil? || p.empty?
@@ -229,13 +252,15 @@ module ComedyShows
         if p.end_with?('Z')
           Time.strptime(p, '%Y%m%dT%H%M%SZ')
         elsif p.include?('T')
-          # Try full seconds; fall back to minute precision.
-          begin
-            components = Time.strptime(p, '%Y%m%dT%H%M%S')
-            tz.local_time(components.year, components.month, components.day, components.hour, components.min, components.sec).to_time
-          rescue ArgumentError
-            components = Time.strptime(p, '%Y%m%dT%H%M')
-            tz.local_time(components.year, components.month, components.day, components.hour, components.min, 0).to_time
+          # Interpret without 'Z' as a local time in tz_name.
+          with_tz(tz_name) do
+            begin
+              t = Time.strptime(p, '%Y%m%dT%H%M%S')
+              t.getutc
+            rescue ArgumentError
+              t = Time.strptime(p, '%Y%m%dT%H%M')
+              Time.new(t.year, t.month, t.day, t.hour, t.min, 0).getutc
+            end
           end
         else
           nil
@@ -278,8 +303,8 @@ module ComedyShows
       until_utc = parsed_rrule[:until_utc]
       byday = parsed_rrule[:byday]
 
-      dtstart_local = @tz.utc_to_local(dtstart_utc)
-      now_local = @tz.utc_to_local(now_utc)
+      dtstart_local = utc_to_local(dtstart_utc, @timezone_name)
+      now_local = utc_to_local(now_utc, @timezone_name)
 
       exdates_utc = ev[:exdates_utc] || []
 
@@ -349,12 +374,14 @@ module ComedyShows
         Time.strptime(v, '%Y%m%dT%H%M%SZ')
       else
         # If no TZ info is provided, assume calendar timezone.
-        begin
-          t = Time.strptime(v, '%Y%m%dT%H%M%S')
-          @tz.local_time(t.year, t.month, t.day, t.hour, t.min, t.sec).to_time.utc
-        rescue ArgumentError
-          t = Time.strptime(v, '%Y%m%dT%H%M')
-          @tz.local_time(t.year, t.month, t.day, t.hour, t.min, 0).to_time.utc
+        with_tz(@timezone_name) do
+          begin
+            t = Time.strptime(v, '%Y%m%dT%H%M%S')
+            t.getutc
+          rescue ArgumentError
+            t = Time.strptime(v, '%Y%m%dT%H%M')
+            Time.new(t.year, t.month, t.day, t.hour, t.min, 0).getutc
+          end
         end
       end
     end
@@ -373,25 +400,29 @@ module ComedyShows
       delta_days = 7 if delta_days == 0 # start from next week; we'll allow same day if time hasn't passed.
 
       candidate_date = target_date + delta_days
-      candidate_local = @tz.local_time(
-        candidate_date.year,
-        candidate_date.month,
-        candidate_date.day,
-        dtstart_local.hour,
-        dtstart_local.min,
-        dtstart_local.sec
-      )
-
-      # If it's the correct weekday and time hasn't passed, use today.
-      if delta_days == 7
-        today_candidate = @tz.local_time(
-          target_date.year,
-          target_date.month,
-          target_date.day,
+      candidate_local = with_tz(@timezone_name) do
+        Time.new(
+          candidate_date.year,
+          candidate_date.month,
+          candidate_date.day,
           dtstart_local.hour,
           dtstart_local.min,
           dtstart_local.sec
         )
+      end
+
+      # If it's the correct weekday and time hasn't passed, use today.
+      if delta_days == 7
+        today_candidate = with_tz(@timezone_name) do
+          Time.new(
+            target_date.year,
+            target_date.month,
+            target_date.day,
+            dtstart_local.hour,
+            dtstart_local.min,
+            dtstart_local.sec
+          )
+        end
         candidate_local = today_candidate if today_candidate >= now_local
       end
 
@@ -420,14 +451,16 @@ module ComedyShows
         candidate_date = nth_weekday_of_month(year, month, target_wday, n)
         next if candidate_date.nil?
 
-        candidate_local = @tz.local_time(
-          candidate_date.year,
-          candidate_date.month,
-          candidate_date.day,
-          dtstart_local.hour,
-          dtstart_local.min,
-          dtstart_local.sec
-        )
+        candidate_local = with_tz(@timezone_name) do
+          Time.new(
+            candidate_date.year,
+            candidate_date.month,
+            candidate_date.day,
+            dtstart_local.hour,
+            dtstart_local.min,
+            dtstart_local.sec
+          )
+        end
 
         return candidate_local if candidate_local >= now_local
       end
@@ -454,7 +487,9 @@ module ComedyShows
       case freq
       when 'WEEKLY'
         candidate_date = candidate_local.to_date + 7
-        @tz.local_time(candidate_date.year, candidate_date.month, candidate_date.day, candidate_local.hour, candidate_local.min, candidate_local.sec)
+        with_tz(@timezone_name) do
+          Time.new(candidate_date.year, candidate_date.month, candidate_date.day, candidate_local.hour, candidate_local.min, candidate_local.sec)
+        end
       when 'MONTHLY'
         m = byday.to_s.match(/(-?\d+)?([A-Z]{2})/)
         return nil if m.nil?
@@ -467,7 +502,9 @@ module ComedyShows
         next_date = nth_weekday_of_month(next_month.year, next_month.month, target_wday, n)
         return nil if next_date.nil?
 
-        @tz.local_time(next_date.year, next_date.month, next_date.day, candidate_local.hour, candidate_local.min, candidate_local.sec)
+        with_tz(@timezone_name) do
+          Time.new(next_date.year, next_date.month, next_date.day, candidate_local.hour, candidate_local.min, candidate_local.sec)
+        end
       else
         nil
       end
@@ -497,7 +534,7 @@ module ComedyShows
     def format_rrule_label(freq, byday, dtstart_local, until_utc)
       time_str = dtstart_local.strftime('%-I:%M%P').downcase
 
-      until_str = until_utc ? @tz.utc_to_local(until_utc).strftime('%b %d, %Y') : nil
+      until_str = until_utc ? utc_to_local(until_utc, @timezone_name).strftime('%b %d, %Y') : nil
       until_suffix = until_str ? " until #{until_str}" : ''
 
       case freq
