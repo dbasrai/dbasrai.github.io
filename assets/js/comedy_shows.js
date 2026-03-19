@@ -70,12 +70,12 @@
 
   fetch(jsonUrl, { cache: 'no-store' })
     .then((r) => {
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      if (!r.ok) throw new Error(`HTTP ${r.status} ${r.statusText}`);
       return r.json();
     })
     .then(render)
-    .catch(() => {
-      container.textContent = 'Failed to load upcoming shows.';
+    .catch((err) => {
+      container.textContent = `Failed to load upcoming shows. ${err?.message ? `(${err.message})` : ''}`.trim();
     });
 })();
 

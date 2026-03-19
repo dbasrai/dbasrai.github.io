@@ -1,24 +1,22 @@
-require 'httparty'
 require 'json'
 require 'time'
 require 'date'
 require 'fileutils'
 require 'tzinfo'
+require 'open-uri'
+require 'uri'
 
 module ComedyShows
   # Fetches a public Google Calendar ICS feed at build/deploy time,
   # then writes a JSON file into `_site/assets/json/` for the frontend to render.
-  module Generator
-    JEKYLL_HOOK = :site
-
-    def self.register
-      Jekyll::Hooks.register JEKYLL_HOOK, :post_write do |site|
-        begin
-          new(site).run
-        rescue => e
-          warn "[comedy_shows] Build-time generation failed: #{e.class}: #{e.message}"
-          warn e.backtrace.join("\n")
-        end
+  class ComedyShowsGenerator < Jekyll::Generator
+    # Runs during Jekyll generation.
+    def generate(site)
+      begin
+        Builder.new(site).run
+      rescue => e
+        warn "[comedy_shows] Build-time generation failed: #{e.class}: #{e.message}"
+        warn e.backtrace.join("\n")
       end
     end
   end
@@ -45,7 +43,13 @@ module ComedyShows
     def run
       return if @ics_url.nil? || @ics_url.strip.empty?
 
-      ics_text = HTTParty.get(@ics_url).body
+      # Use open-uri instead of httparty to avoid additional gem/TLS issues.
+      ics_text = URI.open(
+        @ics_url,
+        open_timeout: 15,
+        read_timeout: 30,
+        'User-Agent' => "Mozilla/5.0 (compatible; comedy-shows-jekyll-plugin)"
+      ).read
       return if ics_text.nil? || ics_text.strip.empty?
 
       unfolded = unfold_ics_lines(ics_text)
@@ -510,6 +514,5 @@ module ComedyShows
   end
 end
 
-# Register the hook.
-ComedyShows::Generator.register
+# Register the generator (Jekyll will automatically discover this file).
 

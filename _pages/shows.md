@@ -11,7 +11,7 @@ nav_order: 4
   id="shows-list"
   data-json-url="{{ '/assets/json/comedy_shows.json' | relative_url }}"
 >
-  Loading upcoming shows...
+  Loading upcoming comedy shows...
 </div>
 
 <script defer src="{{ '/assets/js/comedy_shows.js' | relative_url }}"></script>
