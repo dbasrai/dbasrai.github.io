@@ -9,6 +9,7 @@ module ComedyShows
   # Fetches a public Google Calendar ICS feed at build/deploy time,
   # then writes a JSON file into `_site/assets/json/` for the frontend to render.
   class ComedyShowsGenerator < Jekyll::Generator
+    safe true
     # Runs during Jekyll generation.
     def generate(site)
       begin
@@ -126,6 +127,9 @@ module ComedyShows
       FileUtils.mkdir_p(dest_json_dir)
       dest_path = File.join(dest_json_dir, 'comedy_shows.json')
       File.write(dest_path, JSON.pretty_generate(items))
+
+      # Helps confirm the generator ran on environments like GitHub Pages.
+      File.write(File.join(dest_json_dir, 'comedy_shows.generated.txt'), "generated_at=#{Time.now.utc.iso8601}\nitems=#{items.size}\n")
     end
 
     # RFC5545 line folding: lines that begin with space/tab are continuations.
