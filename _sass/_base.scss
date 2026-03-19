@@ -622,6 +622,36 @@ footer.sticky-bottom {
   }
 }
 
+// Shows (comedy calendar)
+// Rendered by `assets/js/comedy_shows.js`.
+#shows-list {
+  .shows-list {
+    margin: 0;
+    padding: 0;
+  }
+
+  .shows-item {
+    background: transparent;
+    border: none;
+    padding: 0.75rem 0;
+  }
+
+  .shows-item + .shows-item {
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .shows-title {
+    color: var(--global-text-color);
+    font-weight: 600;
+  }
+
+  .shows-when,
+  .shows-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+  }
+}
+
 .pagination {
   .page-item {
     .page-link {

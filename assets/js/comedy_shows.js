@@ -46,18 +46,20 @@
     const sorted = [...items].sort((a, b) => new Date(a.start).getTime() - new Date(b.start).getTime());
 
     container.innerHTML = `
-      <div class="list-group">
+      <div class="shows-list">
         ${sorted
           .map((item) => {
             const title = escapeHtml(item.summary);
             const when = escapeHtml(formatStart(item));
-            const location = item.location ? `<div class="text-muted small">${escapeHtml(item.location)}</div>` : '';
-            const recurring = item.recurring && item.rruleLabel ? `<div class="small text-muted">Recurring: ${escapeHtml(item.rruleLabel)}</div>` : '';
+            const location = item.location ? `<div class="shows-meta shows-location">${escapeHtml(item.location)}</div>` : '';
+            const recurring = item.recurring && item.rruleLabel
+              ? `<div class="shows-meta shows-recurring">Recurring: ${escapeHtml(item.rruleLabel)}</div>`
+              : '';
 
             return `
-              <div class="list-group-item">
-                <div class="fw-bold">${title}</div>
-                <div>${when}</div>
+              <div class="shows-item">
+                <div class="shows-title fw-bold">${title}</div>
+                <div class="shows-when">${when}</div>
                 ${location}
                 ${recurring}
               </div>
