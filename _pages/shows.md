@@ -2,7 +2,7 @@
 layout: page
 permalink: /shows/
 title: Shows
-description: Upcoming comedy shows from your Google Calendar
+description: Upcoming comedy shows from your Google Calendar!
 nav: true
 nav_order: 4
 ---
