@@ -30,7 +30,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-from-scratch",
+        },{id: "nav-shows",
+          title: "Shows",
+          description: "Upcoming comedy shows from your Google Calendar",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/shows/";
+          },
+        },{id: "post-visualize",
+        
+          title: "visualize",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/visualize/";
+          
+        },
+      },{id: "post-from-scratch",
         
           title: "from scratch",
         
