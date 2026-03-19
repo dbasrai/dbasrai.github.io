@@ -125,6 +125,16 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources: []
 
 # -----------------------------------------------------------------------------
+# Comedy shows (Google Calendar -> upcoming shows)
+# -----------------------------------------------------------------------------
+# Public iCal/ICS URL for your comedy calendar.
+shows_ics_url: https://calendar.google.com/calendar/ical/hiv3gbgp422sa6la1o1pif55k8%40group.calendar.google.com/private-da82e59c21ac59353feb093f57e3a39c/basic.ics
+# Timezone used when interpreting event times.
+shows_timezone: America/Chicago
+# How far ahead to show events (in days).
+shows_window_days: 183
+
+# -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
 
