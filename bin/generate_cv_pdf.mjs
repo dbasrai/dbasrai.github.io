@@ -10,6 +10,7 @@ const siteDir = path.join(repoRoot, "_site");
 
 const urlPath = "/cv-full/"; // Hidden full CV page.
 const outPdfPath = path.join(siteDir, "research", "cv.pdf");
+const outPdfRepoPath = path.join(repoRoot, "research", "cv.pdf");
 
 function contentTypeFor(urlPathname) {
   const lower = urlPathname.toLowerCase();
@@ -76,6 +77,7 @@ async function main() {
   }
 
   fs.mkdirSync(path.dirname(outPdfPath), { recursive: true });
+  fs.mkdirSync(path.dirname(outPdfRepoPath), { recursive: true });
 
   const server = serveStatic(siteDir);
   await new Promise((resolve) => server.listen(0, "127.0.0.1", resolve));
@@ -130,6 +132,13 @@ async function main() {
   const size = exists ? fs.statSync(outPdfPath).size : 0;
   // eslint-disable-next-line no-console
   console.log(`PDF exists=${exists} sizeBytes=${size}`);
+
+  if (exists) {
+    fs.copyFileSync(outPdfPath, outPdfRepoPath);
+    const repoSize = fs.statSync(outPdfRepoPath).size;
+    // eslint-disable-next-line no-console
+    console.log(`PDF copied to repo path sizeBytes=${repoSize}`);
+  }
 
   await browser.close();
   await new Promise((resolve) => server.close(resolve));
