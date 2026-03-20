@@ -4,7 +4,7 @@ permalink: /comedy/
 title: comedy
 description:
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 i'm a Chicago-based comic, contact me for booking inquiries at diyabasrai@gmail.com
 
