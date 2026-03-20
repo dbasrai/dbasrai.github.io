@@ -11,7 +11,7 @@ description: Full Academic CV (for PDF generation)
   body {
     line-height: 1.5;
     margin: auto;
-    padding: 3px;
+    padding: 0;
     max-width: 1024px;
     font-family: "Segoe UI", ARIAL, sans-serif;
   }
@@ -26,6 +26,25 @@ description: Full Academic CV (for PDF generation)
   h2 {
     border-bottom: 1px solid grey;
     padding: 2px;
+    margin-top: 1.5rem;
+  }
+
+  h4 {
+    margin: 0.85rem 0 0.35rem 0;
+    font-size: 1.2rem;
+  }
+
+  p {
+    margin: 0.8rem 0;
+  }
+
+  ul {
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  li {
+    margin: 0.2rem 0;
   }
 </style>
 
@@ -47,9 +66,8 @@ description: Full Academic CV (for PDF generation)
 
 <div style="float: right; padding: 20px">{{ email }}</div>
 
-# {{ site.first_name }} {{ site.last_name }}
-
-{{ summary }}
+<h1>{{ site.first_name }} {{ site.last_name }}</h1>
+<p>{{ summary }}</p>
 
 {% for entry in site.data.cv %}
   {% if entry.title != nil and entry.title != '' %}
@@ -57,25 +75,30 @@ description: Full Academic CV (for PDF generation)
       {% continue %}
     {% endif %}
 
-## {{ entry.title }}
+    <h2>{{ entry.title }}</h2>
 
     {% if entry.type == 'time_table' %}
       {% assign is_education = entry.title == 'Education' %}
       {% for content in entry.contents %}
         {% if is_education %}
-#### {{ content.institution }}{% if content.year %} ({{ content.year }}){% endif %}
-* {{ content.title }}
+          <h4>{{ content.institution }}{% if content.year %} ({{ content.year }}){% endif %}</h4>
+          <ul>
+            <li>{{ content.title }}</li>
+          </ul>
         {% else %}
-#### {{ content.title }}{% if content.year %} ({{ content.year }}){% endif %}
+          <h4>{{ content.title }}{% if content.year %} ({{ content.year }}){% endif %}</h4>
         {% endif %}
 
         {% if content.description and content.description.size > 0 %}
+          <ul>
           {% for d in content.description %}
-* {{ d }}
+            <li>{{ d }}</li>
           {% endfor %}
+          </ul>
         {% endif %}
       {% endfor %}
     {% elsif entry.type == 'list' %}
+      <ul>
       {% for item in entry.contents %}
         {% assign rendered = item %}
         {% if item.value %}
@@ -86,8 +109,15 @@ description: Full Academic CV (for PDF generation)
           {% continue %}
         {% endif %}
 
-* {{ rendered }}
+        <li>{{ rendered }}</li>
       {% endfor %}
+      </ul>
+    {% elsif entry.type == 'map' %}
+      <ul>
+      {% for kv in entry.contents %}
+        <li><strong>{{ kv.name }}:</strong> {{ kv.value }}</li>
+      {% endfor %}
+      </ul>
     {% endif %}
   {% endif %}
 {% endfor %}
