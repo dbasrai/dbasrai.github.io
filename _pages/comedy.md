@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /shows/
-title: Shows
-description: Upcoming comedy shows from your Google Calendar!
+permalink: /comedy/
+title: comedy
+description:
 nav: true
 nav_order: 4
 ---
+i'm a Chicago-based comic, contact me for booking inquiries at diyabasrai@gmail.com
 
 <div
   id="shows-list"
