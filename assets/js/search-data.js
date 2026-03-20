@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-shows",
-          title: "Shows",
-          description: "Upcoming comedy shows from your Google Calendar!",
+        },{id: "nav-comedy",
+          title: "comedy",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/shows/";
+            window.location.href = "/comedy/";
           },
         },{id: "post-visualize",
         
