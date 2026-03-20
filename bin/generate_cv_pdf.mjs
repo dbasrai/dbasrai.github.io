@@ -107,12 +107,29 @@ async function main() {
     `,
   });
 
+  // Ensure the page isn't blank due to initial CSS state.
+  await page.evaluate(() => {
+    try {
+      document.body.style.display = "block";
+    } catch (_) {
+      // ignore
+    }
+  });
+
+  // Wait for the CV content to exist (best-effort).
+  await page.waitForSelector("h1, h2, h3", { timeout: 10_000 }).catch(() => {});
+
   await page.waitForTimeout(500); // Let layout settle.
   await page.pdf({
     path: outPdfPath,
     format: "Letter",
     printBackground: true,
   });
+
+  const exists = fs.existsSync(outPdfPath);
+  const size = exists ? fs.statSync(outPdfPath).size : 0;
+  // eslint-disable-next-line no-console
+  console.log(`PDF exists=${exists} sizeBytes=${size}`);
 
   await browser.close();
   await new Promise((resolve) => server.close(resolve));

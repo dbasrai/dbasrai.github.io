@@ -41,7 +41,7 @@
   type: list
   contents:
     # Short version includes this item by default (plain string).
-    - '<b>Diya Basrai</b>, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, <a href="https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1" target="_blank" rel="noopener">BioRxiv</a> Under review at Nature Neuroscience'
+    - '<b>Diya Basrai</b>, ..., Andrew Miri, Joshua Glaser. (2025) Constraining inference of across-region interactions using neural activity perturbations, <a href="https://www.biorxiv.org/content/10.1101/2025.11.20.689584v1" target="_blank" rel="noopener">bioRxiv</a> (In revision)'
 
     # Everything else from `research/cv/index.html` is included in the full CV, but hidden on the short CV.
     - short: false

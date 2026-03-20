@@ -24,7 +24,7 @@ description: Full Academic CV (for PDF generation)
     margin: auto;
     padding: 3px;
     max-width: 1024px;
-    display: none;
+    display: block;
     FONT-FAMILY: "Segoe UI", ARIAL;
   }
   h1 {
@@ -40,7 +40,7 @@ description: Full Academic CV (for PDF generation)
 </style>
 
 <body
-  onload="document.body.innerHTML = md.html(document.body.innerHTML); document.body.style.display='block';"
+  onload="try { if (window.md && typeof window.md.html === 'function') { document.body.innerHTML = window.md.html(document.body.innerHTML); } } catch (e) {} document.body.style.display='block';"
 >
   {%- assign email = '' -%}
   {%- assign summary = '' -%}
