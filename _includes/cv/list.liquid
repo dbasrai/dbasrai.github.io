@@ -1,5 +1,17 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for content in entry.contents %}
-    <li class="list-group-item">{{ content }}</li>
+    {% assign hide_in_short = false %}
+    {% if include.cv_short and content.short == false %}
+      {% assign hide_in_short = true %}
+    {% endif %}
+    {% unless hide_in_short %}
+      <li class="list-group-item">
+        {% if content.value %}
+          {{ content.value }}
+        {% else %}
+          {{ content }}
+        {% endif %}
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>

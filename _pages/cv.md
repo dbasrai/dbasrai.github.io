@@ -4,6 +4,7 @@ permalink: /cv/
 title: CV
 nav: false
 nav_order: 
-cv_pdf:
+cv_short: true
+cv_pdf: /research/cv.pdf
 description: Academic CV
 ---

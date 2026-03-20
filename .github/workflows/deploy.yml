@@ -50,6 +50,13 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+
+      - name: Generate CV PDF 🖨️
+        if: github.event_name != 'pull_request'
+        run: |
+          npm install --no-save playwright
+          npx playwright install chromium
+          node bin/generate_cv_pdf.mjs
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
