@@ -16,26 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-school",
-          title: "School",
-          description: "School and education",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/school/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Academic CV",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-comedy",
           title: "comedy",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/comedy/";
+          },
+        },{id: "nav-research",
+          title: "research",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
           },
         },{id: "post-visualize",
         
