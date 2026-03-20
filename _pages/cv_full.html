@@ -65,7 +65,6 @@ description: Full Academic CV (for PDF generation)
 {% endfor %}
 
 <div style="float: right; padding: 20px">{{ email }}</div>
-
 <h1>{{ site.first_name }} {{ site.last_name }}</h1>
 <p>{{ summary }}</p>
 
@@ -91,32 +90,32 @@ description: Full Academic CV (for PDF generation)
 
         {% if content.description and content.description.size > 0 %}
           <ul>
-          {% for d in content.description %}
-            <li>{{ d }}</li>
-          {% endfor %}
+            {% for d in content.description %}
+              <li>{{ d }}</li>
+            {% endfor %}
           </ul>
         {% endif %}
       {% endfor %}
     {% elsif entry.type == 'list' %}
       <ul>
-      {% for item in entry.contents %}
-        {% assign rendered = item %}
-        {% if item.value %}
-          {% assign rendered = item.value %}
-        {% endif %}
+        {% for item in entry.contents %}
+          {% assign rendered = item %}
+          {% if item.value %}
+            {% assign rendered = item.value %}
+          {% endif %}
 
-        {% if page.cv_short and item.short == false %}
-          {% continue %}
-        {% endif %}
+          {% if page.cv_short and item.short == false %}
+            {% continue %}
+          {% endif %}
 
-        <li>{{ rendered }}</li>
-      {% endfor %}
+          <li>{{ rendered }}</li>
+        {% endfor %}
       </ul>
     {% elsif entry.type == 'map' %}
       <ul>
-      {% for kv in entry.contents %}
-        <li><strong>{{ kv.name }}:</strong> {{ kv.value }}</li>
-      {% endfor %}
+        {% for kv in entry.contents %}
+          <li><strong>{{ kv.name }}:</strong> {{ kv.value }}</li>
+        {% endfor %}
       </ul>
     {% endif %}
   {% endif %}
